@@ -1,0 +1,63 @@
+Ryan Haines / Android Authority
+
+It used to be the case that mid-range Android smartphones were a dicey proposition, owing to underpowered processors, a meager amount of storage, and relatively high price tags. It also didn’t help that the Android platform itself was in need of optimization back then.
+
+Fortunately, things have steadily improved over the years, to the point where there’s never really been a better time to buy a mid-range smartphone. Don’t believe me? Let me explain.
+
+Fantastic hardware
+
+Oliver Cragg / Android Authority
+
+You only need to take a look at designs and spec sheets today to realize that modern mid-rangers deliver some great hardware. Sure, most of these devices are still made out of plastic, but we do see a few devices with premium-tier glass backs instead (e.g. Poco F4). And even if a phone does offer a plastic design, today’s devices also bring innovations like glasstic and even matte plastic finishes.
+
+Modern mid-rangers tend to offer more durable hardware too, with the Samsung Galaxy A53 and Google Pixel 6a bringing IP67 ratings for full water resistance. In fact, it’s not uncommon to find IP53/IP54 splash-resistant designs for $400 and under. That’s more than can be said for mid-range handsets from just two or three years ago.
+
+Modern mid-range smartphones have made major strides in terms of specs and design.
+
+Pop the hood and you’ll find some impressive improvements here too. Modern budget-tier devices bring silicon that’s more than capable of playing some demanding games if need be, while everyday tasks are generally smooth too. It’s also not uncommon to find 6GB of RAM or even more on today’s mid-tier handsets compared to 3GB or 4GB on phones a few years ago. This increased memory allocation lets users more effectively juggle several apps at once while also opening the door for more advanced features like high-resolution shooting modes and advanced games.
+
+We’re also well past the point where 32GB of storage was the expected allotment, as 128GB budget phones are commonplace now. The only real downside in this regard is that we’re also seeing a few mid-range devices ditching the microSD card slot.
+
+We’ve also seen LCD panels relegated to the sub-$250 tier for the most part, with high refresh rate OLED screens a fixture in the mid-range. Toss in big batteries, reliable main cameras, and a respectable amount of RAM and it’s clear that you’re getting a capable handset for $300 to $500.
+
+Even better software
+
+Ryan Haines / Android Authority
+
+Evolving hardware isn’t the only reason to pick up a mid-range phone today instead of a flagship handset. Several OEMs also offer lengthy software update commitments in line with high-end smartphones.
+
+For example, the Samsung Galaxy A53 offers four OS updates and five years of security patches. Meanwhile, the Google Pixel 6a brings three OS updates and five years of security updates. The Nothing Phone 1 is also joining the party with three OS updates.
+
+That’s not to say update commitments are great across the board today. For example, Motorola‘s phones have woeful support for software updates, while OnePlus and Realme aren’t much better either. But the situation is definitely better than two or three years ago, when the Pixel 3a line and Pixel 4a were the only budget devices receiving respectable update pledges.
+
+Many modern mid-rangers offer performant Android skins, while some also offer lengthy update pledges.
+
+An update commitment is one thing, but actually receiving the update is another matter entirely. Mid-range phones still take a while to receive the latest OS updates, but there are encouraging signs anyway.
+
+The Pixel 6a has already received Android 13, while the Samsung Galaxy A53 is slated to receive the update before the end of the year. We’ve also seen more brands offering beta software for those who can’t wait for a stable release. For example, Samsung has also been testing the One UI 5 beta on last year’s Galaxy A52, Realme is bringing Android 13 beta software to some mid-range phones before the end of the year, and Oppo is bringing its Color OS 13 beta to a variety of cheaper handsets before 2022 is out.
+
+Pricing
+
+Eric Zeman / Android Authority
+
+Another important factor making mid-rangers worth buying today is that pricing is still very competitive for what you’re getting. In fact, the US consumer price index recorded a 22% yearly drop in the average value of smartphones. This was due to devices getting better rather than prices actually dropping. It’s still hard to argue against this logic, as these phones are indeed getting more powerful processors, more cameras, better camera sensors, more RAM/storage, and higher quality screens.
+
+Do you think now is the best time to buy a mid-ranger? 1142 votes Yes 84 % No 16 %
+
+Either way, the point is that while premium smartphone prices pushed past the $1,000 mark and haven’t looked back, mid-rangers are offering increasingly bigger bang for your buck. And longer update commitments also mean these phones will get better and better over time, gaining new features and optimizations for the next three years or more.
+
+Of course, there will still be plenty of people who don’t mind paying a premium for a full-blown flagship phone, be it for the cameras or bleeding-edge internals. But we’re closer than ever to getting 90% of the flagship experience for a fraction of the price.
+
+A few mid-range phones worth buying
+
+Ryan Haines / Android Authority
+
+Now that we’ve looked at why modern mid-range smartphones are worth buying, what about recommended devices? We’ve got you covered with a few picks. Samsung Galaxy A53 ($450): Like the idea of a Galaxy flagship but don’t want to spend a ton of cash? That’s where the Galaxy A53 comes in, launching at $450 but frequently available below this price tag. Expect a capable if unspectacular Exynos 1280 SoC, 5,000mAh battery, 120Hz OLED screen, and IP67 water/dust resistance. The phone also packs an impressive update pledge, in line with Samsung’s flagships.
+
+Like the idea of a Galaxy flagship but don’t want to spend a ton of cash? That’s where the Galaxy A53 comes in, launching at $450 but frequently available below this price tag. Expect a capable if unspectacular Exynos 1280 SoC, 5,000mAh battery, 120Hz OLED screen, and IP67 water/dust resistance. The phone also packs an impressive update pledge, in line with Samsung’s flagships. Moto G Stylus 5G 2022 ($399): Motorola has plenty of decent mid-range phones in stable, and the Moto G Stylus 5G is one of the best choices if you’re in the US. Notable features include a large battery (5,000mAh), a quad rear camera system, an included stylus, and 128GB of expandable storage. It does have some downsides though, such as the ho-hum processor, slow charging, and lack of an OLED panel.
+
+Motorola has plenty of decent mid-range phones in stable, and the Moto G Stylus 5G is one of the best choices if you’re in the US. Notable features include a large battery (5,000mAh), a quad rear camera system, an included stylus, and 128GB of expandable storage. It does have some downsides though, such as the ho-hum processor, slow charging, and lack of an OLED panel. Nothing Phone 1 ($499): The debut phone from Nothing just about makes the cut in terms of pricing, but it’s actually a good first effort. Nothing’s Phone 1 brings a powerful Snapdragon 778G Plus SoC, a solid 50MP+50MP dual camera system, and a 120Hz OLED screen. But the handset stands out from almost every other device thanks to the unique “Glyph” back.
+
+The debut phone from Nothing just about makes the cut in terms of pricing, but it’s actually a good first effort. Nothing’s Phone 1 brings a powerful Snapdragon 778G Plus SoC, a solid 50MP+50MP dual camera system, and a 120Hz OLED screen. But the handset stands out from almost every other device thanks to the unique “Glyph” back. Google Pixel 6a ($450): There are plenty of reasons to pick up the Pixel 6a, especially seeing that it frequently retails for under its $450 launch price. Expect the Tensor processor, offline voice typing, great camera quality, water resistance, and a lengthy update pledge. In saying so, you miss out on the flagship line’s high refresh rate screen, faster charging, wireless charging, and 50MP main camera. It’s worth noting that there are plenty more decent mid-tier devices out there, depending on your region. You can check out our rundown of the best cheap phones for a more comprehensive look.
+
+Comments

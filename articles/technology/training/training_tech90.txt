@@ -1,0 +1,23 @@
+Google has been moving Android to a future that’s 64-bit only for years, but it’s been a slow process. After the Pixel 7 blocked installation of 32-bit apps last month, MediaTek has partially dropped hardware support for 32-bit on the Dimensity 9200, pushing Android one step closer to a 64-bit-only future.
+
+The MediaTek Dimensity 9200 is a chipset designed for high-end Android phones, and it brings a lot of firsts, including Arm’s new Cortex-X3 core, Wi-Fi 7 support, and more. But it’s also going to be one of the first chips to drop support for 32-bit in a bigger way, which has an impact on future Android phones.
+
+Related: MediaTek Dimensity 9200 packs Cortex-X3, mmWave 5G, Immortalis GPU with raytracing
+
+Reiterated as a part of today’s MediaTek Executive Summit, the company confirmed that the Dimensity 9200 drops support for 32-bit on its “performance” cores. This refers to the primary Cortex-X3 core as well as the Cortex-A715 cores. The company also noted this to Android Authority earlier this week.
+
+What does this mean? While the Dimensity 9200 does support 32-bit apps, it’s only with the less powerful cores. Android as a whole, as mentioned, has been moving toward a 64-bit-only future for quite some time, but this is a major step toward that.
+
+The Google Pixel 7 blocks 64-bit apps on a software level, with the Tensor G2 chip under the hood still technically offering support. Google explained that dropping 64-bit support leads to better performance overall. New CPUs running 64-bit code see 25% better performance and Android as a system uses 150MB less RAM at any given time. MediaTek, though, probably won’t see the RAM benefit given that the chip still supports 32-bit on its lesser cores. It will likely be up to device makers to block 32-bit on a software level to see the gains that Google is referring to.
+
+MediaTek somewhat backs up Google’s claims about dropping 32-bit and how that will affect performance on the Dimensity 9200. The company cites an LZBench benchmark which tests the speed of data compression. MediaTek says that compression is 92% faster with 64-bit over 32-bit and 80% faster on decompression.
+
+The important qualifier. It's 64-bit only, but *only* on the performance cores (X3 and A715 cores) 32-bit apps will still technically be supported as a result — Ben Schoon (@NexusBen) November 10, 2022
+
+During the presentation, MediaTek pointed out that the side effects of this change would be minimal. Google has required that apps in the Play Store support 64-bit for quite some time, and the company has been working to ensure that’s true. The Play Console app was updated with 64-bit support recently, as was the legacy Pebble app.
+
+More on Android:
+
+FTC: We use income earning auto affiliate links. More.
+
+Check out 9to5Google on YouTube for more news:

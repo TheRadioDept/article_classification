@@ -1,0 +1,51 @@
+Activision's latest title, Call of Duty: Modern Warfare 2, has been criticized for lacking the polish that a triple-A title deserves. The game has been plagued with bugs, glitches, and technical problems since its launch. While the developers have addressed most of its issues, some players have recently started complaining about the game stuttering on Windows 11.
+
+Previously, fans reported problems with Modern Warfare 2 on Nvidia hardware, whereby the game's software conflicts with Nvidia's to create screen flickers, stutters, FPS drops, and more. Unlike in the previous case, this time around, the fault doesn't lie on MW2's end.
+
+This article takes a closer look at possible ways to fix stuttering in Modern Warfare 2 for Windows 11 users.
+
+Microsoft's latest Windows 11 update causes stutters in Modern Warfare 2
+
+Zxthness @Hallopapa0 Microsoft has released a bug report about "Lower than expected performance in some games" when installing the Windows 11 22H2 update. I will keep you up to date with the news on that. Microsoft has released a bug report about "Lower than expected performance in some games" when installing the Windows 11 22H2 update. I will keep you up to date with the news on that. https://t.co/dYSu9jbvQ6
+
+Interestingly, Windows 11's version 22H2 is known to cause stuttering across multiple video games. Microsoft, through a post on their official website, revealed that their latest update was causing "lower than expected performance or stuttering on Windows 11 version 22H2." The bug report states:
+
+"Affected games and apps are inadvertently enabling GPU performance debugging features not meant to be used by consumers."
+
+Unfortunately, one of those games is Modern Warfare 2. Hence, if the game suddenly starts stuttering on your PC, you can be assured that the issue isn't on your end.
+
+Fixing stutters in Modern Warfare 2
+
+Although Microsoft has provided a few workarounds that gamers can try out, they don't really apply for Modern Warfare 2's current situation. The continuation of Microsoft's bug report states:
+
+"If you are already on Windows 11, version 22H2 and are experiencing this issue, you might be able to resolve it by updating your games and gaming related apps to the latest version available. If you are unsure how to update the games and apps you have installed, you will need to consult the developer of those games and apps but most will update automatically through the store they were purchased from or directly when opening them."
+
+Unfortunately, MW2 is yet to receive an update addressing this particular issue. Nevertheless, it's highly recommended to update your game as soon as possible if it hasn't already been done. Similarly, if you have received a Windows 11 update in the meantime, make sure to proceed with the update process.
+
+Until then, you can try the following fixes to potentially fix the stutter issues:
+
+1) Update GPU drivers
+
+It is no secret that Nvidia's drivers have previously caused problems with MW2. It is highly recommended for both Nvidia and AMD GPU users to immediately update their GPUs to the latest versions. This process ensures that you have the latest profiles installed for your game, delivering a smooth and consistent performance.
+
+2) Reset overclocks/undervolt
+
+If there is any piece of hardware on your system that is overclocked or undervolted, it is advisable to revert it back to factory settings. MW2 is notoriously problematic when it comes to unstable clock/voltage values, causing the game to crash and/or result in stutters.
+
+3) Rollback Windows 11 update
+
+If none of the above methods have worked, you can always rollback your Windows 11 update. To do so, you must follow these steps:
+
+First, head over to 'Settings'.
+
+Then, go to 'System'.
+
+Now, select 'Recovery' from the list of available options.
+
+From here, click on 'Go back'. Now follow the instructions on your screen and you will be back to an older Windows 11 version.
+
+This is all you need to know about fixing Modern Warfare 2 stuttering in Windows 11. If the problem still persists, users can contact the Activision support team for further assistance.
+
+Call of Duty: Modern Warfare 2 and Warzone 2 Season 1, along with the highly anticipated DMZ mode, will be launching this November 16 for PC, Xbox One, PlayStation 4, Xbox Series X|S, and PlayStation 5.
+
+Poll : 0 votes

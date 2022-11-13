@@ -1,0 +1,11 @@
+It has been a few weeks since Nvidia revealed that it is investigating reports of dodgy 12VHPWR adapters shipping with RTX 4090 graphics cards. We've seen plenty of investigation into the matter from the tech press, but Nvidia itself has remained silent since the investigation began. That changed this week with Nvidia releasing its first statement on the matter.
+
+Unfortunately, the update doesn't contain many details. In discussions with Nvidia PR, we were told: “We continue to investigate the reports, however, we don’t have further details to share yet. NVIDIA and our partners are committed to supporting our customers and ensuring an expedited RMA process for them”.
+
+The investigation began after multiple users posted online claiming their RTX 4090s had suffered burn damage while using the included 12VHPWR adapter for the graphics card. A teardown of the adapter shipping with the RTX 4090 revealed a few weak points in design and construction that may have led to the issue.
+
+Nvidia is still conducting its investigation into the matter. It will be interesting to see if Nvidia or board partners have made any changes in preparation for the RTX 4080, which is launching next week.
+
+KitGuru Says: This is unfortunately not much of an update, but Nvidia isn't just ignoring the issue. Hopefully, we'll get a more concrete update when, or shortly after the 4080 arrives.
+
+Become a Patron!

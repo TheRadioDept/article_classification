@@ -1,0 +1,9 @@
+This week saw Square Enix release Tactics Ogre: Reborn on the Nintendo Switch and multiple other platforms.
+
+If you haven't already got around to playing this one, here's another reason why you should check it out. As highlighted by user 'solwhitehorn' on the Nintendo Switch subreddit, the game actually supports mouse and keyboard inputs.
+
+So if you don't feel like playing on Joy-Cons or a Switch Pro Controller, you can use this method instead:
+
+"I found it strange that the keyboard shortcuts were displayed in the config menu. While nothing is written on the box, plugging a usb mouse/keyboard works directly and you can play the game this way as it was the PC version. I also tried a usb dongle for a wireless Dell keyboard/mouse combo and it works no problem"
+
+Surprisingly, this isn't the first time Nintendo Switch has controlled keyboard and mouse inputs. Earlier this year, id Software and Bethesda added support for this control method to Quake as well:

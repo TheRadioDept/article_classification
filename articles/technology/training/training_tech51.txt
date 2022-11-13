@@ -1,0 +1,23 @@
+What you need to know
+
+Windows 11 version 22H2 causes games to stutter on some PCs.
+
+Microsoft confirmed the issue recently through its health dashboard.
+
+The company is working on a permanent fix and has shared a workaround for the time being.
+
+Windows 11 version 22H2 recently rolled out to PCs. Since the update launched, several reports have come out about it causing performance issues when gaming. The cause of the issue was initially up for debate, but Microsoft has since confirmed that Windows 11 version 22H2 is behind the problems.
+
+Microsoft explained what's happening through its health dashboard (opens in new tab):
+
+"Some games and apps might experience lower than expected performance or stuttering on Windows 11, version 22H2. Affected games and apps are inadvertently enabling GPU performance debugging features not meant to be used by consumers."
+
+To prevent PCs from running into issues, Microsoft has placed a compatibility hold on affected devices. The hold prevents those devices from being offered an upgrade to the latest version of Windows 11 or installing the update.
+
+"To safeguard your upgrade experience, we have applied a compatibility hold on devices affected by this issue from being offered or installing Windows 11, version 22H2. If your organization is using Update Compliance, the safeguard IDs are 41766570 and 41990091," said Microsoft.
+
+The company is working on a permanent fix, but has shared a workaround for the interim:
+
+"If you are already on Windows 11, version 22H2 and are experiencing this issue, you might be able to resolve it by updating your games and gaming related apps to the latest version available. If you are unsure how to update the games and apps you have installed, you will need to consult the developer of those games and apps but most will update automatically through the store they were purchased from or directly when opening them."
+
+Until Microsoft releases a permanent fix, the company recommends against manually installing the Windows 11 version 22H2 update on systems affected by the bug.

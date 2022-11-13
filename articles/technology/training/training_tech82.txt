@@ -1,0 +1,61 @@
+The GALAX GeForce RTX 4090 HOF GPU is a uniquely designed graphics card in that it offers two 16-pin connectors, which is focused strictly on users looking to push the card to the extremes, especially the overclocking enthusiasts market. It is no surprise that GALAX's super-powered graphics card has recently claimed the world record for twenty different benchmarks.
+
+GALAX overclocking team members push the GALAX GeForce RTX 4090 HOF GPU to the extreme to achieve outstanding benchmark records
+
+Tobias Bergstrom and the rest of the GALAX overclocking team utilized a specially designed BIOS and a liquid cooling kit for the GeForce RTX 4090 HOF graphics card, using nitrogen as the base to maintain below-zero temperatures and avoid breaking the graphics card in the process.
+
+Image source: Benchlife.
+
+The following benchmark tests and scores are listed below:
+
+3DMark Port Royal: 31622
+
+31622 3DMark Time Spy: 41926
+
+41926 3DMark Time Spy Graphics Score : 44293
+
+: 44293 3DMark Time Spy Extreme Graphics Score: 23229
+
+23229 3DMark 11 Extreme: X59575
+
+X59575 3DMark 11 Performance: 94414 (LOD)
+
+94414 (LOD) 3DMark Fire Strike: 74725
+
+74725 3DMark Fire Strike Extreme: 50941
+
+50941 3DMark Fire Strike Ultra: 30612
+
+30612 GPUPI_32B: 49.049
+
+49.049 GPUPI_1B: 0.917
+
+0.917 Superposition 1080P Extreme: 29044
+
+29044 Superposition 8K: 17896
+
+17896 Catzilla 1080: 136920
+
+136920 Catzilla 1440P: 80417
+
+80417 Catzilla 4K: 35156
+
+35156 Catzilla 576P: 19352
+
+19352 Catzilla 720: 178780
+
+178780 Unigine Basic: 16802.93
+
+16802.93 Unigine Extreme: 16175.56
+
+Earlier this month, OGS, an overclocking team from Greece, achieved two world records for the graphics card — one for GPU frequencies (GPUPI tests) and the other for 3DMark Port Royal. OGS has previously worked closely with GALAX for overclocking tests and records. This is an image of the setup the OGS group used to achieve those results: The same graphics card hit an impressive 3.70 GHz LN2 OC frequency, making the GeForce RTX 4090 HOF the fastest-clocked GPU on the planet.
+
+The OGS team rig was used for the 3D Port Royal and GPUPI tests on November 2, 2022. Image source: GALAX.
+
+The GALAX GPU series is the only manufacturer to offer a TDP of upwards of 1000W. The GALAX GeForce RTX 4090 HOF graphics card is the only one on the market that would allow such record-breaking scores. The closest company that would have provided a similar card or just slightly less powerful would have been created by EVGA. Unfortunately,
+
+Image source: GALAX OC.
+
+EVGA recently retired the graphics card line from their library of products due to issues with the market and NVIDIA. The company continues to sell through its card stock but will no longer provide consumers with brand-new graphics card designs.
+
+News Sources: VideoCardz, GALAX OC, Benchlife

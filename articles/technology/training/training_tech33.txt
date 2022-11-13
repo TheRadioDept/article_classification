@@ -1,0 +1,45 @@
+Article Hero Image
+
+AppleInsider may earn an affiliate commission on purchases made through links on our site.
+
+In the wake of a report about App Store data collection by Apple, a suit has emerged alleging that the company is willfully violating user privacy and monetizing user data without permission.
+
+Plaintiff Elliot Libman has filed what he hopes will become a class action suit against Apple. The lawsuit alleges that since Apple has some knowledge of what a user is browsing on the App Store, it is violating a right to privacy that the user holds.
+
+The suit alleges that research published in November has exposed Apple in that it "records, tracks, collects and monetizes analytics data - including browsing history and activity information - regardless of what safeguards or "privacy settings" consumers undertake to protect their privacy."
+
+Specifically, the suit cites "Allow Apps to Request to Track" and "Share Analytics" settings as the main issues that they have with Apple.
+
+"Apple's practices infringe upon consumers' privacy; intentionally deceive consumers; give Apple and its employees power to learn intimate details about individuals' lives, interests, and app usage; and make Apple a potential target for "one-stop shopping" by any government, private, or criminal actor who wants to undermine individuals' privacy, security, or freedom. Through its pervasive and unlawful data tracking and collection business, Apple knows even the most intimate and potentially embarrassing aspects of the user's app usage— regardless of whether the user accepts Apple's illusory offer to keep such activities private."
+
+Attorneys we spoke with on Friday evening believe that the filer has a tough hill to climb to win the suit. It's unclear if the complainant or lawyers who filed the suit understand the distinction between server-side data collection, and how the settings at the core of the suit work.
+
+It's also likely that this data that is cited in the suit is collected server-side. For example, video streamer Netflix view history is stored server-side and tied to an account, and collected on the server, where the setting for the request not to track does not apply.
+
+In the case of server-side data, "Allow Apps to Request to Track" and "Share Analytics" settings are irrelevant. The part about "Share Analytics" is also likely not relevant on its own, because app browsing history is user behavior, and is not tied to device analytics which are used to determine the state of a device and its internet service when a problem develops.
+
+And there is prior precedent that "app developers" and an App Store hosting company, in this case, Apple, are not one and the same, despite the App Store being an app.
+
+The research by Mysk that inspired the suit says under iOS 14.6 "detailed usage data is sent to Apple" from the App Store, Apple Music, Apple TV, and Books. Stocks sent less identifiable information than the other apps, the researchers claim.
+
+The data sent is reportedly associated with an identifier that could identify a user. The behavior reportedly persists in iOS 16, but the researchers could not examine what data was sent because it was all sent encrypted.
+
+The researchers did say to Gizmodo that similar data was not sent from Health and Wallet with any combination of privacy settings. All data is sent to different servers than iCloud's array.
+
+The suit says there is a cash value to consumers' personal information. The study cited in the suit is based on sales of data, some gathered by hacks and data thefts. Apple says it does not sell user data, and there is no evidence that it does.
+
+Apple is also explicit about how it uses data in its advertising platforms. The company is on record saying that its ad platform does not connect user or device data with that data collected from third parties for targeted advertising. They also say they do not share user device or device identification with data collection firms.
+
+The suit alleges that Apple has "invaded a zone of privacy protected by the Fourth Amendment" and "violated dozens of state criminal laws on wiretapping and invasion of privacy." The Fourth Amendment does not seem to apply here.
+
+It's not clear why data collection by a company that you are doing business with and agreed to data collection in the terms of service of a product, in this case, both the App Store, and the iPhone itself, is a violation of wiretapping laws, especially if Apple anonymizes or aggregates any data collected by the App Store.
+
+It goes on to cite "highly offensive" behavior as it pertains to "intentional intrusion" into internet communications and "secret monitoring of private app browsing." For Apple or any app store to serve data across the internet to a customer as it pertains to App Store browsing and purchasing requires, at some level, the company to know what's being browsed and what's been purchased by any given user.
+
+Much of this comes down to which tech or Internet company users trust. Apple's technology, for instance, has prevented the filer's ISP or wireless carrier from knowing what they're browsing.
+
+Identifiable user data is required for not just the internet to work but paid services like the App Store, Books, and Music to authenticate and function, and support to be given for said services. It's clear that the filer does not trust Apple in this regard, based on the "highly offensive" color about Apple's behavior in the filing.
+
+As always, the suit seeks "restitution and all other forms of equitable monetary relief," and injunctive relief as the court may see proper. A jury trial is demanded.
+
+It's not clear when or if the case will get heard.

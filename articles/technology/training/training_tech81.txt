@@ -1,0 +1,25 @@
+
+
+
+
+Naturally, the card claiming these crowns is the GeForce RTX 4090 Hall of Fame (HOF), so named for its intended purpose: to claim spots in the hall of fame of every benchmark around. If you missed our previous coverage , this rare card is equipped with a pair of 16-pin 12VHPWR connectors and a custom BIOS that allows it to crank the power limit from the stock 450W all the way up to 1000W.
+
+
+
+
+
+
+
+
+
+All told, there are twenty new world records set by the Galax HOF card. That includes essentially everything in 3DMark, GPUPI in both 32B and 1B modes, Unigine Superposition in 1080p Extreme and 8K, Catzilla benchmark at every resolution, and an unspecified other Unigine benchmark (probably Heaven) in Basic and Extreme settings.
+
+
+
+
+
+
+
+A picture of the unreleased card's cooler, purportedly. Source: Hassan Mujtaba on Twitter
+
+The GeForce RTX 4090 is the fastest GPU around; of that, there's no question. However, Galax wants to lay to rest the idea that anyone's GeForce is faster than the RTX 4090 HOF . Galax hasn't told us that, but it's clear to see from the way that the company is knocking down benchmark world records like they're bowling pins.While raising the card to 600W doesn't get you all that much extra performance in most tasks, cranking it up to over double its original power limit has its benefits, like hitting clock rates as high as 3.7 GHz . Naturally, Galax's OC team has to keep the card buried under a pool of liquid nitrogen to keep it running at such absurd power levels, and frankly, it's a testament to both Galax's and NVIDIA's engineering that this is even possible.This information comes to us from Chinese tech site Benchlife , who remarks that it might be lonely at the top. After all, with EVGA out of the market, Galax's biggest competitor in the "graphics card for extreme overclocking" space is gone. Without anyone else to build ridiculously impractical monster boards with dual 12VHPWR and insane power delivery, this competition has turned into a showcase.

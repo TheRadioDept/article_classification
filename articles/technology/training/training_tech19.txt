@@ -1,0 +1,17 @@
+iOS 16.2 may introduce a completely reworked option for your iPhone's home screen, menus and apps with a new feature named Custom Accessibility Mode.
+
+It's not available to users yet, even if you download the latest iOS 16 beta software. But 9to5Mac (opens in new tab) was able to root around in the code for this latest iteration of iOS, and find out the key details.
+
+(Image credit: 9to5Mac)
+
+When activated (by using the iOS accessibility shortcut of three side or home button presses), Custom Accessibility Mode transforms the familiar grid of app icons into a much larger two-column grid or a list of options, with no bottom app dock to distract or confuse things. It also noticeably offers a permanent back button at the bottom of the screen, with apps filling a smaller active window above. Rather than having to use a swipe gesture or look for a back button, the path home is always obvious.
+
+The lock screen changes too, displaying a simple bubble reading "Hold Down to Enter" to make it obvious how to access the phone. It's not clear how this would work with Face ID or Touch ID though.
+
+(Image credit: 9to5Mac)
+
+As well as these big changes, the Settings page for Custom Accessibility Mode allows users to adjust text and icon size further, enable shortcuts to Emergency SOS features and limit features like volume button controls and access to apps.
+
+This looks like a natural extension of iOS' already well-equipped library of accessibility features, and bears some similarity to Samsung's Easy Mode setting (opens in new tab). Custom Accessibility Mode could prove to be very useful to iPhone users with certain visual and physical impairments, as well as beginner or older smartphone users who would appreciate a stripped-down iPhone experience.
+
+As it's a beta feature, it's not certain that Custom Accessibility Mode will make it to the stable release of iOS 16.2. It seems like a worthwhile addition that should become a new tool in the iPhone accessibility arsenal though. So fingers crossed we see it appear in the final release expected to arrive before the end of the year, alongside other new features like Freeform, improved Dynamic Island interactions and new home-screen widgets for Sleep and Medications.

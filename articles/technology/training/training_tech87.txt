@@ -1,0 +1,53 @@
+Qualcomm has always dominated the high-end smartphone space, but that’s slowly changing. MediaTek this week unveiled its Dimensity 9200 SoC for high-end Android phones, which appears to be a very strong option, but it’s happening as Google is also pushing its Samsung-produced Tensor chip forward. Could MediaTek turn out to be the better partner for Google?
+
+During the MediaTek Executive Summit this week, the company showed off its latest chip designs including the Dimensity 9200, a flagship-tier SoC for Android devices that is set to compete with the “Snapdragon 8 Gen 2” from Qualcomm. While we don’t have devices to actually see how the two compare – Qualcomm’s won’t even be officially announced until next week – it really seems like MediaTek is in a good place to compete with the best that Qualcomm has to offer, and that’s a high bar to clear! Samsung, for instance, has been trying for years to make Exynos a worthy alternative, but year after year, the best Galaxy smartphones instead opt for Qualcomm.
+
+That’s why some have taken issue with Google’s choice to stick with Samsung on its Tensor chip for Pixel phones.
+
+And really, it’s hard to disagree with that. The first generation of Tensor was a strong foundation but quite a mess compared to the alternatives. Network issues, poor power efficiency, and heat problems have put a sour taste in the mouth of many Pixel 6 buyers. Google seems to have fixed a lot of those issues in Tensor G2, but it’s clear there’s still a gap. That said, it’s a gap Google seems alright with. The company said recently that it is “perfectly comfortable” with Pixel phones lagging behind in overall performance.
+
+Despite all of that, Google is making an actual impact in the high-end Android market. A slide that MediaTek shared during this week’s Summit showed that MediaTek on its own is starting to take over a sliver of the high-end Android space from Qualcomm. As shown below, MediaTek’s biggest growth in the global high-end Android space is in devices under $600, but it’s slowly having an impact on more expensive devices as well. But what’s especially interesting is that Google Tensor is making a similar impact on the high-end space, despite having just a handful of devices out on the market.
+
+Data presented was provided by Counterpoint Research
+
+Here’s the big problem for MediaTek’s flagship ambitions. As it stands today, the company doesn’t really have an easy “in” with the US market. The addition of mmWave in last year’s Dimensity 1050 earned a spot with Motorola in the upper mid-range space, but aside from that, MediaTek is really only seen in entry-level or mid-range smartphones in the United States, like the OnePlus Nord N300 or the Samsung Galaxy A13.
+
+When it comes to flagship phones in the United States, it’s been a tough road for MediaTek.
+
+That’s certainly a shame with these recent generations. The MediaTek Dimensity 9000 and now the 9200 holds its own against Qualcomm’s best, but no one is really using them in Western markets, as the numbers clearly outline.
+
+What’s the holdup?
+
+I had the chance to speak with Yenchi Lee, MediaTek’s deputy general manager of the smartphone chip unit, this week about the company’s efforts in growing its presence in premium devices especially.
+
+Looking at the biggest roadblocks MediaTek faces, Lee pointed to just how new MediaTek really is to this market, as Dimensity 9000 was the company’s first real play in the premium segment. Right now, MediaTek is still working to establish itself as an actual option for high-end smartphone makers. There’s no technical roadblock, in Lee’s opinion, but rather just time needed to prove that MediaTek is a viable choice – and time for MediaTek to show its commitment to the high-end.
+
+All of that said, it’s important to remember where MediaTek is actually making wins right now.
+
+MediaTek is growing rapidly, but it’s not coming from flagship smartphones. Rather, it’s coming in part from more affordable smartphones, but also the smart home devices and networking infrastructure we’re buying. Something that MediaTek clearly wants based on its sentiments this week is to be a known name, something that really isn’t the case right now. MediaTek is confident that virtually everyone has at least one device in their home with a MediaTek chip, but most people don’t know the name. Being a bigger player in the high-end smartphone space is one step toward that goal, and there’s a path that might make a lot of sense moving in that direction.
+
+MediaTek-made Tensor – A perfect match?
+
+Tensor is a chip that Google wants everyone to think that it makes on its own, but a big portion of the underlying foundation comes from Samsung’s Exynos lineup. That’s not to say Google is just rebranding an Exynos layout. Tensor has a custom design and custom elements that do truly make it unique, but it all ties back to Samsung’s foundation in the end.
+
+It does stand to reason, though, that Google could take much of this work to another partner, and MediaTek seems to be a perfect match. Especially with the Dimensity 9200, MediaTek puts up a killer showing, and one that’s genuinely competitive with Qualcomm.
+
+But the real question – is MediaTek even up for that sort of thing? According to Lee, yes.
+
+MediaTek has apparently received no requests to work on such a collaboration with any major Android brands, but it is open to working on something along the lines of Tensor with any brands that might be interested. And really, that’s not even a stretch for the company’s existing business. Just yesterday MediaTek revealed that it was providing the SoC for the PlayStation VR2. That’s not an off-the-shelf solution, but rather a customized chip that MediaTek is building with Sony.
+
+MediaTek is doing the SoC for PlayStation VR2 #MediaTekSummit pic.twitter.com/qNQrsns2GA — Ben Schoon (@NexusBen) November 10, 2022
+
+As for Tensor itself, it sounds like MediaTek is open to taking on the challenge if Google were ever to switch partners from Samsung. Lee said MediaTek would be willing to discuss Tensor if Google was looking.
+
+The potential of MediaTek working on such a project would have big effects on both sides, too. If we look at Tensor as the example, Google’s phones could certainly benefit from the sheer power boost that MediaTek would provide over Samsung’s latest. On top of that, MediaTek’s use of TSMC foundries would surely have a major impact on power efficiency on Tensor, something Google’s chip has been greatly struggling with over its two generations thus far. Just look at what the switch from Samsung to TSMC did for Qualcomm. MediaTek would then benefit from being able to show off what it is capable of with chips in the hands of customers in more regions, and particularly in the United States.
+
+But realistically, Google isn’t going to switch just for the sake of power. Just recently, Google said it was “perfectly comfortable” with Tensor not leading the pack on performance benchmarks, with a focus instead on the vertical integration that benefits the end product in other ways. And frankly, that’s a sentiment we can get behind. But still, benchmarks aside, it seems there’s a lot Google could benefit from partnering with MediaTek. It’s a possibility that certainly seems enticing.
+
+More on Android:
+
+Note: MediaTek paid for travel and accommodations for this launch event, but had no input on editorial content.
+
+FTC: We use income earning auto affiliate links. More.
+
+Check out 9to5Google on YouTube for more news:

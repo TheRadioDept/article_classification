@@ -1,0 +1,217 @@
+Robert Triggs / Android Authority
+
+There are plenty of options for the best smartphone camera, and two handsets that will appear on every list are the Google Pixel 7 Pro and Apple iPhone 14 Pro Max.
+
+These two brands have earned their reputation for best-in-class photography over many years, and there are plenty of similarities in their hardware. Both sport large pixel-binned main sensors, though the iPhone has a slightly larger 1/1.28-inch sensor versus the Pixel’s 1/1.31-inches. The two also share 12MP ultrawide snappers, though again, the iPhone has the larger sensor, but this comes with a slightly narrower 120 versus 126-degree field of view.
+
+You’ll find optical zoom cameras onboard too, but the Pixel 7 Pro seemingly offers the more powerful hardware here. A 5x zoom and larger 1/2.55-inch sensor, complete with pixel binning, is likely to outdo the iPhone’s 3x zoom from a small 1/3.5-inch sensor. Where the two brands really differ is in color science and their application of machine learning. While both are hot on computational photography, their applications are very different.
+
+So which phone takes the better photos? Let’s find out in Android Authority’s Pixel 7 Pro vs iPhone 14 Pro Max camera shootout. You can view the full-res camera samples in this Google Drive Folder.
+
+Google Pixel 7 Pro vs Apple iPhone 14 Pro Max camera specs
+
+Google Pixel 7 Pro Apple iPhone 14 Pro Max Main
+
+Google Pixel 7 Pro 50MP (12.5MP output)
+
+1/1.31-inch sensor
+
+ƒ/1.9 aperture
+
+Multi-directional PDAF
+
+OIS
+
+25mm focal length
+
+Apple iPhone 14 Pro Max 48MP (12MP output)
+
+1/1.28-inch sensor
+
+ƒ/1.8 aperture
+
+Dual pixel PDAF
+
+Sensor-shift OIS
+
+24mm focal length
+
+Ultrawide
+
+Google Pixel 7 Pro 12MP
+
+1/2.9-inch sensor
+
+ƒ/2.2 aperture
+
+AF
+
+126-degree FoV
+
+12mm focal length
+
+Apple iPhone 14 Pro Max 12MP
+
+1/2.55-inch sensor
+
+ƒ/2.2 aperture
+
+Dual pixel PDAF
+
+120-degree FoV
+
+13mm focal length
+
+Zoom 1
+
+Google Pixel 7 Pro 48MP (12MP output)
+
+1/2.55-inch sensor
+
+ƒ/3.5 aperture
+
+Multi-directional PDAF
+
+OIS
+
+5x optical zoom (120mm)
+
+Apple iPhone 14 Pro Max 12MP
+
+1/3.5-inch sensor
+
+ƒ/2.8 aperture
+
+PDAF
+
+OIS
+
+3x optical zoom (77mm)
+
+Laser AF
+
+Google Pixel 7 Pro Yes
+
+Apple iPhone 14 Pro Max Yes
+
+Selfie
+
+Google Pixel 7 Pro 10.8MP
+
+1/3.1-inch sensor
+
+ƒ/2.2 aperture
+
+Apple iPhone 14 Pro Max 12MP
+
+1/3.6-inch sensor
+
+ƒ/1.9 aperture
+
+
+
+Main camera Let’s jump right into some key differences. Throughout our shootout, you’ll notice a much cooler white balance from the iPhone. While this sometimes looks more realistic, particularly in overcast conditions, it’s also often too extreme and ends up reducing the phone’s otherwise excellent color realism.
+
+Pixel 7 Pro iPhone 14 Pro Max Pixel 7 Pro iPhone 14 Pro Max
+
+The iPhone also offers more extreme exposure, risking highlight clipping to make the subject stand out. While this is a fair trade-off for portraits and macro with a clear subject, it’s far less ideal for landscape shots. In addition, this produces a higher contrast look to Apple’s pictures that adds pop at the expense of crushed blacks and clipped highlights.
+
+Pixel 7 Pro iPhone 14 Pro Max Pixel 7 Pro iPhone 14 Pro Max Pixel 7 Pro iPhone 14 Pro Max Pixel 7 Pro iPhone 14 Pro Max
+
+The Pixel 7 Pro is a little more muted but more realistic, by comparison, but has a tendency to push its white balance too warm. Slightly purple tints to the sky are all too common, unfortunately. Ultimately, it comes down to whether you like a little more pop to your images. That said, the phones aren’t always miles apart in their presentation, with both offering similar exposure and color science in a number of our shots too.
+
+Cropping in on detail from the main camera, we can spot a few more key differences.
+
+While there’s a similar level of detail on offer, the two phones process it very differently. Apple takes a more natural, softer approach that aims for realism over making details pop, though we can still see telltale signs of a sharpening pass on straight lines in the snaps below. Even so, the toned-down processing leaves far less color and shadow detail on the table. Google’s algorithm is heavier on the sharpening pass, giving the appearance of more color detail and contrast at the expense of some more noticeable sharpening artifacts.
+
+The bigger drawback of the Pixel approach is the occasional mushy texture artifact. We can see this more clearly in scenes with varied textures, like foliage in the shot above. Apple’s shot is again very soft by comparison but more realistic, even if it loses some of the finer details in the process. I can’t say I’m a huge fan of either approach, something in between would be ideal.
+
+Apple prefers color pop, while Google makes its details pop.
+
+The two brands clearly have very different takes on default image processing. Overall, I’ve found the Pixel 7 Pro to be more consistent in its delivery, but, when it gets it right, the iPhone 14 Pro Max can hand in more artistically pleasing results. Camera shootout: Google Pixel 7 Pro vs Samsung Galaxy S22 Ultra
+
+HDR and low light Let’s try our hand at some tougher lighting conditions. Historically, Google has excelled at HDR processing while Apple’s handsets have struggled. Let’s see if things have changed this generation.
+
+Pixel 7 Pro iPhone 14 Pro Max Pixel 7 Pro iPhone 14 Pro Max
+
+Apple’s iPhone 14 Pro Max does a decent but certainly not perfect job with difficult HDR scenarios. The handset balances highlight exposure well but struggles with shadow detail and color extraction. The first shot is pretty close, but the second example really showcases the strengths of Google’s multi-frame algorithm when it comes to shadow and color capture in downright tricky HDR situations. That said, some may find Google’s approach too strong, verging on a little unrealistic.
+
+Apple has closed the gap in low light, but still struggles with extreme HDR.
+
+In low light using night mode, things are a little different. The iPhone generally does a better job at brightly exposing its subject, although there’s an element of vignetting in the second image. I’d give the nudge the Pixel 7 Pro here for white balance, but its colors are a tad more washed out.
+
+Pixel 7 Pro iPhone 14 Pro Max Pixel 7 Pro iPhone 14 Pro Max
+
+The second image is a bit of an oddity for the Pixel, its denoise algorithm completely smudges and removes all the detail from the snap. This happened on multiple takes. The iPhone 14 Pro Max captures far more detail, albeit with a very heavy dose of sharpening and noise that’s not exactly pretty to look at. Overall, both phones have you very well covered for low-light photography, but tricky lighting can throw up some issues, and the results definitely don’t look as polished as daylight snaps.
+
+Google’s Pixel 7 Pro is more flexible in the dark, though, offering long exposure and astrophotography modes that let you snap images the iPhone simply can’t capture with anywhere near the same fidelity. See the level of detail in the astrophotography shot above. It’s just a shame the Pixel’s color balance is so often thrown off in these scenarios.
+
+Ultrawide
+
+Pixel 7 Pro iPhone 14 Pro Max Pixel 7 Pro iPhone 14 Pro Max
+
+Going back to ultrawide versions of our initial snaps, we see the same general trends in image quality. The iPhone’s ultrawide lens offers a brighter exposure but darker shadows, a cooler white balance, and an additional color pump. The Pixel is flatter but ensures more balance to its dynamic range. Both results are pretty good and offer very similar levels of detail, any preferences will once again boil down to your love or hate of saturation.
+
+In terms of field of view, there’s not a huge amount in it, just a few degrees. Both fit plenty into the frame. Let’s take a look at the frame edges to see which offers superior distortion characteristics.
+
+You’ll often spot purple halos and smudged details at the edge of ultrawide lenses, but there are minimal signs here. While frame edges aren’t as detailed as the center, there’s minimal chromatic aberration and no glaring drop-off in quality. I’d give the nudge to the Pixel, very marginally, for lens correction and focus clarity, as there’s slightly less blurring at the very edges. With macro capabilities in tow, too, there’s very little to pick between these ultrawide cameras — aside from your preference for color processing.
+
+Zoom With different optical zoom lenses onboard, we’re expecting even bigger differences when it comes to zoom capabilities. Let’s dive right in, starting with the Pixel 7 Pro.
+
+3x zoom - Pixel 7 Pro 5x zoom - Pixel 7 Pro 10x zoom - Pixel 7 Pro 15x zoom - Pixel 7 Pro
+
+Despite featuring a reasonably long-range 5x optical zoom, the Pixel 7 Pro hands in great-looking results at 2x, 3x, and 4x thanks to a combination of Super Res Zoom and image fusion. You’ll find just as much, if not more, detail in the frame’s center at 3x as the iPhone, although detail at the edges doesn’t hold up quite as well. But we’ll look at that a bit closer in a minute. If there’s one complaint about the Pixel’s zoom, it’s that colors become a little more washed out when switching to the 5x camera. You’ll also spot the same texture artifacts we previously mentioned throughout the trees.
+
+As you’d expect, the Pixel 7 Pro bests the iPhone 14 Pro Max in our 10x snap. Although the iPhone holds up surprisingly OK, given its lack of long-distance hardware. Just don’t look too closely at the (lack of) fine details. Although the Pixel 7 Pro will technically let you shoot up to 30x compared to the iPhone’s 15x cap, we wouldn’t recommend pushing the zoom that far.
+
+3x zoom - iPhone 14 Pro Max 5x zoom - iPhone 14 Pro Max 10x zoom - iPhone 14 Pro Max 15x zoom - iPhone 14 Pro Max
+
+The iPhone is surprisingly competitive out to 5x, which is a testament to Apple’s own computational photography capabilities. Again, Apple opts for a much brighter exposure than Google. The handset also does a better job at ensuring consistent color and exposure as you move between the zoom levels, at least in this scenario. However, fine details succumb to the small sensor’s higher noise levels, so don’t plan on blowing these up for a large print.
+
+Turning back to the intriguing nature of Google’s image fusion technology, which blends detail from the 1x and 5x sensors at intermittent zoom levels. The trade-off is that central subjects look brilliant, but details at the edges of the snap much less so, as these are upscaled from the main sensor. If you look at the frame edges in the 3x cropped shot below, you’ll spot a noticeable drop-off in image quality.
+
+The left side of the Pixel snap is clearly inferior to the detail level of the iPhone. However, the right side, which comprises data from the 5x zoom lens, is actually superior to the iPhone’s native 3x zoom, providing sharper details free from signs of denoise and sharpening. Pixel 7 Pro sub-5x zoom snaps are a mixed bag then, handing in solid details for the center subject but clearly inferior image quality at the edges of the pictures. You probably wouldn’t notice without really looking, but it’s worth highlighting the trade-offs with Google’s technology.
+
+Selfies and portraits Both phones take decent but not brilliant portraits and selfies. The two offer solid bokeh blur. I prefer the iPhone’s application of light circles, but the Pixel does marginally better at fine hair detection.
+
+Pixel 7 Pro iPhone 14 Pro Max Pixel 7 Pro iPhone 14 Pro Max
+
+Indoors, both phones struggle to pick the perfect skin tone due to the lack of natural light. The Pixel 7 Pro is slightly worse here, with a warm skin tone but a cool overall white balance. Both phones are also overly sharp with their skin textures, but the iPhone is noisier in this environment.
+
+While not perfect, the iPhone is a clear winner for shooting loved ones.
+
+Outdoors with difficult shadows to contend with, the iPhone hands in a lower contrast look that verges on washed out. While this ensures the entire face is well exposed, it’s clear the front camera lacks advanced HDR capabilities. The Pixel’s outdoor selfie offers deeper blacks which look punchier and much more pleasing for social media.
+
+Pixel 7 Pro iPhone 14 Pro Max Pixel 7 Pro iPhone 14 Pro Max
+
+Using the rear camera for portraits produces more consistent results, but there are issues here too. The Pixel 7 Pro is far too sharp, owing to its portrait’s mode 2x crop, while the outdoor shot is far too saturated, producing an orange skin tone. Apple’s portraits look much more realistic both in terms of detail and skin tone. They’re not perfect, particularly when bokeh edge detection is concerned, and the indoor shot is again a bit washed out. But this is a win for team Apple, overall.
+
+Apple’s inclusion of a 77mm telephoto lens also lends you a nicer focal length for portraits, should you wish. Although the camera doesn’t default to this lens, opting for a 2x crop from the main 23mm lens instead.
+
+Google Pixel 7 Pro vs Apple 14 Pro Max camera shootout: The verdict
+
+Robert Triggs / Android Authority
+
+We’d expect nothing less than solid photos from these two phones, and they don’t disappoint. Rather than any glaring quality issues, Apple and Google’s latest and greatest show that color science remains the biggest unsettled argument in the industry.
+
+Apple takes a much cooler, high-contrast approach to photography. At least by default, you can switch to different color profiles if you wish. Google aims for stricter realism and does better in tough HDR environments, but struggles more with white balance issues. See also: Google Pixel 7 vs Pixel 7 Pro cameras tested
+
+That said, neither phone takes absolutely stunning portraits. Google’s skin tones and texture remain overly aggressive, while Apple’s can end up looking too washed out. The Pixel 7 Pro features an impressive suite of other features, though, including astrophotography and super res zoom capabilities that offer greater flexibility than the iPhone 14 Pro Max.
+
+The Google Pixel 7 Pro retails for just $899 versus the Apple iPhone 14 Pro Max’s $1,099 price tag. $200 is a lot of cash to save, especially when the Pixel 7 Pro offers a few software extras. That said, we still give the iPhone the nod if you’re into shooting video — its cinematic mode is definitely better than Google’s first-gen attempt.
+
+Apple iPhone 14 Pro Max Large display
+
+Powerful SoC
+
+Advanced UI experience
+
+$1,099.00 at Best Buy Google Pixel 7 Pro Best Google camera
+
+High-quality display
+
+Big battery
+
+$886.50 at Amazon
+
+Comments

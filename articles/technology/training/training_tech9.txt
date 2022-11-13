@@ -1,0 +1,33 @@
+Samsung is expected to launch the the Galaxy S23 early next year, and I'm looking forward to it — especially the Galaxy S23 Ultra model and its rumored 200MP camera. And while I don't claim to be psychic, I have had a glimpse of that hi-res future thanks to another phone that already uses it.
+
+The recently launched Xiaomi 12T Pro is one of a few existing phones on the market using a 200MP camera. So while on a recent trip to the Norfolk coast in the east of England, I took some sample photos to see what you can do with a 200MP shooter, and whether it's worth looking forward to such a feature on the Galaxy S23 Ultra.
+
+The Xiaomi 12T Pro. (Image credit: Tom's Guide)
+
+With the iPhone 14 Pro Max and Google Pixel 7 Pro sitting comfortably at the top of our best camera phones guide right now, it'll be good to get an indication of how Samsung could get an advantage as well as ways it can improve upon the 200MP experience once the Galaxy S23 Ultra arrives.
+
+The samples
+
+Before I show off my 200MP shots, it's worth saying that while Xiaomi is using a Samsung-made 200MP sensor in the 12T Pro, the rumors for the S23 Ultra suggest Samsung will opt for a different sensor. In other words, this won't be a full 1:1 comparison, but there should still be plenty of valid conclusions we can draw by looking at how the Xiaomi 12T Pro's camera performs.
+
+The first of those is an obvious one: detail. More megapixels means larger images, and that means clearer views when zooming in. Just look at the difference between this 12MP and 200MP shot from the top of a cliff overlooking the beach. You can zoom in all the way to read the sign on the fence on the 200MP if you wish, or to the far end of the beach so you can count up just how many people are in shot. There's no chance of doing that with the 12MP image.
+
+However, one downside with using the full resolution of the camera is that the colors can go a bit weird. Take for example this shot of me holding belemnite fossils. The highlight on the edge of my palm is brighter on the 200MP shot, almost to the point of being pure white, where all detail is lost. Also, on the main belemnite in the center of my hand, the 200MP shot does a worse job of capturing the subtle changes in color along its length; in the 12MP image, you can spot the almost green areas quite easily.
+
+This is one of the main arguments against phone makers like Samsung ramping up their camera resolutions every few phone generations. How much does extra detail on the grains of sand or pitting in the surface of the fossil matter if you're going to lose color detail instead? Samsung will need to pull some software post-processing trickery if it wants to overcome this issue with the S23 Ultra's camera.
+
+Other than detail, another advantage of taking 200MP shots is actually being able to take lower-resolution shots. This can be done through the camera app by using "pixel-binning" (combining pixels into virtual super-pixels to capture better light information at the expense of detail), but it can also be done by cropping an image afterward. Any of the 200MP images on this page could easily be cut down in any number of ways without losing too much detail.
+
+Rumors for the Galaxy S23 Ultra claim it will also have a 50MP photo mode between the default 12MP and maximum 200MP. As it happens, the Xiaomi 12T Pro has this too, so I took 50MP and 200MP shots image look down the length of a groin (the beach erosion-preventing kind, to be clear) to see the difference.
+
+Although you can't zoom in to enjoy all the little grooves in the wooden pillars of the groin quite as much on the 50MP image, it's got a warmer, more appealing color temperature that better captures how the beach looked on that October afternoon. Taking that into account along with the smaller file size (14MB vs 48MP for the 200MP shot), the 50MP version seems like an ideal everyday image size for users who want their shots to contain the best of both worlds —making the most of the 200MP sensor, but without clogging up their phone's storage too fast.
+
+200MP camera outlook
+
+Playing with the Xiaomi 12T Pro's 200MP camera has definitely whetted my appetite for 200MP photography on the Galaxy S23 Ultra, so I'm certainly hoping that the rumors of such a powerful sensor turn out to be correct.
+
+But if Samsung is indeed installing a 200MP camera on the next Ultra Galaxy, then it'll need to do something about the two main flaws I noticed in 200MP photos. It'll need to improve on Xiaomi's color science so that 200MP photos don't look less attractive than other shots, and it'll have to deal with the file size issue, either by figuring out some ingenious compression solution or just by making sure users have plenty of on-board storage for photos.
+
+By itself, 200MP photography isn't going to help Samsung gain an edge over the excellent photos produced by rival devices like the iPhone 14 Pro Max or Google Pixel 7 Pro. But it would certainly prove an effective tool in the Galaxy S23 Ultra's belt, and one that neither Apple nor Google can match right now.
+
+If the Galaxy S23 Ultra can cement itself again as the camera phone that goes all-in on hardware, it could gain the advantage that Samsung needs to convince users to buy its flagship handset next year.

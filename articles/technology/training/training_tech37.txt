@@ -1,0 +1,23 @@
+Two weeks ago, it was suggested that the rumored Pixel 7 Ultra might actually be a big set of enhancements to the Pixel 7a. It was a tricky circle to square: how could the entry-level model actually beat the Pixel 7 Pro?
+
+Now, thanks to the developer and perpetual thorn in Google’s side Kuba Wojciechowski (opens in new tab), things make a lot more sense. The long and short of it? The Pixel 7a is set for a series of big upgrades, but not quite the Pixel 7 Pro-eclipsing camera improvements that the original code dive suggested.
+
+While seemingly confirming the original report’s findings that the codename Lynx referred to the Pixel 7a and not an Ultra or Mini model, Wojciechowski then went on to disappoint those hoping that the new ‘a’ model might outperform the Pro for photography.
+
+“I have previously leaked the camera setup of Lynx: GN1+IMX787+IMX712 on the back,” he tweeted. “It appears that Google has modified that now, removing the GN1 lens.”
+
+That means that the Pixel 7a will likely contain a wide lens (IMX787) and an ultrawide lens (IMX712) but no dedicated telephoto lens, which makes a lot more sense.
+
+I have previously leaked the camera setup of Lynx: GN1+IMX787+IMX712 on the back. It appears that Google has modified that now, removing the GN1 lens. It's possible that it was simply used to test things out before the brand-new sensors were ready to be used.November 11, 2022 See more
+
+To be clear, this will still be a big camera improvement between Pixel's ‘a’ generations. “IMX787 is a huge upgrade over the old IMX363 and should make the 7a an even better choice for camera quality in the mid-range,” Wojciechowski tweeted (opens in new tab).
+
+And the good news keeps coming with Wojciechowski confirming another aspect of the original report: wireless charging. Only 5W wireless charging, which means it’ll take a while especially compared with the 20W offered by the premium Pixel 7s. But it’s better than nothing — which is exactly what you got with previous Pixel ‘a’ generations.
+
+On top of this, Wojciechowski has one big revelation: the Pixel 7a will apparently get a 90Hz Samsung panel. While, unusually, he doesn’t share his source here, the upgrade from 60Hz brings the Pixel 7a in line with the improved refresh rate on the basic Pixel 7, if not quite matching the 120Hz found in the Pixel 7 Pro.
+
+“If Google can maintain the $449 MSRP the 7a will most likely be a killer deal,” Wojciechowski concludes. “With a new display featuring high refresh rate, wireless charging, a brand new camera sensor and Google's usual software magic not many devices could compete, especially in the US.”
+
+The big question is where this leaves the regular Pixel 7, which would look increasingly poor value with an MSRP that’s $150 higher. But then, this wouldn’t be the first time a Pixel ‘a’ device has offered far superior value to the more expensive models, as anybody who picked a Pixel 4a 5G over a Pixel 5 will recall.
+
+A lot also depends on when the Pixel 7a arrives. If, as seems possible, it’s unveiled during next year’s Google I/O event then the Pixel 7 will have been on shelves for at least eight months. That long into its life, Google may have no problem in cannibalizing its main phone with an exciting low-cost alternative.

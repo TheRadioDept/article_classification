@@ -1,0 +1,27 @@
+The Windows 11 22H2 mess gets messier: In a surprising move, Microsoft has blocked the big feature upgrade on some PCs due to potential gaming and performance issues.
+
+Microsoft has removed Windows 11 version 22H2 from its Windows Update servers on select devices after acknowledging reports of an issue affecting the performance of games on the machine. The company says it’s working on another cumulative update to address the mess and will release it in near future.
+
+Windows 11 version 22H2 was released in September as part of the normal feature updates cycle and was targeted for all supported Windows versions via Windows Update. It is the first big feature update for Windows 11 and it comes with a lot of features, which is why many users have rushed the download.
+
+In the documentation, Microsoft acknowledged a statement from Nvidia that Windows 11 accidentally turned on “GPU performance debugging features”.
+
+One of the most frustrating issues with Windows 11 has been affecting gamers, with some users complaining that the FPS would drop when they play games. Uninstalling the update resolves the problem, confirming the speculations that the problem lies with the feature upgrade.
+
+Windows 11 22H2 is making games perform poorly and audio is also affected, with some folks noticing frequent stuttering.
+
+Nvidia has been looking into these reports itself and they also published two official fixes via the GeForce app and driver updates, but the chipmaker’s efforts were not enough.
+
+After ignoring the reports for several weeks, Microsoft is now actively looking into the issue and the company has pulled the update for affected machines.
+
+The tech giant says it’s working on a cumulative update and it also warned users against manual upgrades using the ‘Update now’ button or Media Creation Tool until this issue has been resolved.
+
+Microsoft allegedly ignored the reports
+
+The Windows Insiders have been testing the feature upgrade for several months now and the issue was flagged by some testers earlier this year.
+
+Some had highlighted Windows 11 22H2 performance issues in March itself, but it looks like the reports were missed by Microsoft and the company released this update without addressing those problems.
+
+There have also been reports of other issues with the update.
+
+We can only hope that Microsoft will be able to resolve these issues in the coming weeks, but Windows 11 2022 Update does appear to be more stable than the previous Windows 10 feature updates. In most cases, problems are not too widespread and they were fixed quickly.

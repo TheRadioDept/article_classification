@@ -1,0 +1,23 @@
+Another problem with gaming performance in Windows 11 22H2 has been confirmed by Microsoft. After installing the most recent operating system update, several users have started to complain about performance issues when playing games. They face stuttering and other bugs. Although it was initially thought that the issue is from NVIDIA graphic cards, changing the drivers did not resolve it. Microsoft concluded by warning that some games and applications “may encounter slower than expected performance or freezes on Windows 11 22H2”.
+
+Windows 11 games experience
+
+The tech giant admits that they unintentionally enable GPU performance debugging. But does not give specific examples of games or applications that may be impacted by this problem. Consumer electronics should not use this function. Why some games and applications on Windows 11 22H2 activate the debugging feature is a mystery given by Microsoft. Furthermore, we do not know how many applications are having this issue.
+
+The company has stopped automatically updating impacted devices to Windows 11 22H2 while searching for a fix. Users have to update their games and apps rather than install the latest version of Windows 11 Pro. Additionally, you have the option to “roll back” to a prior system version.
+
+Gamers have experienced problems with Microsoft’s new operating system before. Owners of computers with AMD chips noticed a drop in performance a year ago. By the way, we still waiting for a solution to this issue.
+
+Gizchina News of the week Join GizChina on Telegram
+
+Windows 11 market share
+
+More than a year after its release, a large portion of the Windows community has yet to adopt Microsoft’s most recent desktop operating system. This is according to statistics compiled by Statcounter for October.
+
+Only 15.44% of PCs worldwide have Windows 11, showing that it is higher by 1.83 percentage points in a month. In comparison, 71.29 percent of users are using Windows 10, a slight decline from 71.88 percent in September. And Windows 7 in third place with 9.61 percent.
+
+Windows 8.1 in fourth place with 2.45 percent followed by Windows 8 with 0.69 percent. Windows XP is still barely hanging on in fourth place with 0.39 percent.
+
+76 percent of the market share for desktop operating systems worldwide belongs to Windows. Followed by macOS X (15.7 percent) and Linux (2.6 percent).
+
+For All operation systems, Android held a 42.37 percent share of the operating system market. Followed by Windows with a 30.11 percent share, iOS with a 17.6 percent share, OS X with 6.24 percent. And Linux with a 1.04 percent share.

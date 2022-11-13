@@ -1,0 +1,25 @@
+Among a number of other changes, iOS 16.2 also includes some nice changes to the built-in Stocks app on iPhone and iPad. The update brings new sorting options for your different watchlists in the Stocks app, which are also reflected in updated widgets for your iPhone and iPad home screen.
+
+With iOS 16.2, which is currently in testing with developers and public beta users, the Stocks app now gives you more fine-grained control over sorting your different watchlists. Now, you can have specific sort modes for each one of your watchlists. This means you can choose to sort each of your watch lists by the following options:
+
+Manual
+
+Price change
+
+Percent change
+
+Market cap
+
+Symbol
+
+Name
+
+Each watchlist can also be configured to show either the stock’s price change, percent change, or market cap at a glance as well. This change gives you more granularity with the ability to sort each list by whichever data point you choose, as opposed to only being able to pick one option that applies to all of your different lists.
+
+These changes are also supported via the Stocks app widgets on your iPhone or iPad home screen. The Stocks app offers a number of different widget options for your watchlists and individual stocks. With iOS 16.2, these new sorting options are also reflected in how your lists appear on your home screen.
+
+iOS 16.2 is currently in beta testing with developers and public beta users. It’s expected to be released to the general public in mid-December.
+
+FTC: We use income earning auto affiliate links. More.
+
+Check out 9to5Mac on YouTube for more Apple news:

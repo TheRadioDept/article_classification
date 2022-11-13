@@ -1,0 +1,53 @@
+Across the lands of Microsoft and Windows, dozens of news stories go across our desk each week. We cover games, gadgets, software, and more, but it's easy for people to miss out on a few stories. That's why every week we round up the biggest pieces of news from the industry into one bite-size piece.
+
+Windows 11 bug affecting PC gaming
+
+(Image credit: Windows Central)
+
+Microsoft confirmed that a GPU bug in Windows 11 version 22H2 is lowering gaming performance on some systems. As a result, the company placed a compatibility hold on affected devices, preventing them from receiving or installing the update.
+
+"Some games and apps might experience lower than expected performance or stuttering on Windows 11, version 22H2. Affected games and apps are inadvertently enabling GPU performance debugging features not meant to be used by consumers," said Microsoft.
+
+While the tech giant looks for a permanent fix, there is a workaround for the issue:
+
+"If you are already on Windows 11, version 22H2 and are experiencing this issue, you might be able to resolve it by updating your games and gaming related apps to the latest version available."
+
+Microsoft cutting OneDrive & Outlook features
+
+(Image credit: Future)
+
+Several changes are on the way to OneDrive and Outlook over the next few months. Microsoft explained that Microsoft 365 subscribers will no longer be able to create personalized email addresses for their Outlook inbox (such as yourname@example.com). Additionally, the company announced that Outlook attachments will count against OneDrive storage limits. As a result, some people may need to delete emails to make space.
+
+To ease the transition, Microsoft will provide at least an extra 50 GB of cloud storage for one year starting on February 2, 2023. During that time, people may need to delete larger emails or clear out older messages from their inbox.
+
+Surface Pro 9 repairability
+
+(Image credit: Future)
+
+Surface devices have a poor reputation when it comes to repairability. Microsoft improved this some with the Surface Pro 8 and other devices from its last generation, but the company took a major leap with the Surface Pro 9. Things are so much better that iFixit called the Surface Pro 9 the "most repairable" Surface Pro it's ever seen.
+
+A few changes helped the Surface Pro 9 earn a 7/10 from iFixit, such as its battery being secured with screws rather than glue. The PC's screen has a bit of flex, making the display easier to remove as well. The Surface Pro 9 also has an SSD that can be swapped out with ease.
+
+iFixit explained that the score of the Surface Pro 9 will likely go up when repair manuals and spare parts are available, both of which Microsoft has promised to deliver.
+
+Microsoft Teams speed improvements
+
+(Image credit: Future)
+
+While the actual improvements rolled out before last week, Microsoft highlighted performance improvements for Teams recently. Navigation in several key areas improved, including moving between chats, channels, and threads.
+
+Microsoft has improved the performance of Teams steadily over the years but made a major jump in November 2022. A framework upgrade on the platform was the main force behind the improvement.
+
+"The most common action for a user in Teams is to switch between different chats, channels, and activity feeds," said Microsoft Principal Group Program Manager for Microsoft Teams Jeff Chen. "Over the past two years, switching between chat threads is now 32% faster, switching between channels is 39% faster. This leads to a more fluid experience that will keep you in the flow."
+
+Microsoft Create in testing
+
+(Image credit: Microsoft)
+
+Microsoft announced its new Create platform in October. Now, the site is available for testing. Microsoft Create brings together multiple services, including Word, PowerPoint, and Clipchamp. It provides shortcuts to creating content and includes templates for a variety of services.
+
+Review roundup
+
+(Image credit: Future)
+
+From gamers on the go to germ-conscious laptop shoppers, our experts looked at a broad range of devices this week.

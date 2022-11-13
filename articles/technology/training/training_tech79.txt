@@ -1,0 +1,37 @@
+A few days ago, JonnyGuru reported that most of the melting issues occurring with the 16-Pin '12VHPWR" connectors on the NVIDIA GeForce RTX 4090 graphics cards were due to a bad or improper connection. Now, a new case has emerged which shows a 16-pin '12VHPWR' cable melting despite being connected properly.
+
+NVIDIA GeForce RTX 4090 16-Pin '12VHPWR' Connector Melts Despite Proper Connection, First Case of 4090 Founders Edition Also Reported
+
+Redditor, u/m_hijazl, posted in the NVIDIA subreddit how his custom ZOTAC GeForce RTX 4090 AMP Extreme AIRO ended up melting the 16-pin connector. The user reported that his card was running smooth and it was a huge jump in performance over his previous card, an RTX 3080 but while playing Cyberpunk 2077, his PC started flashing and he reportedly noticed a burning smell upon which he immediately cut the power from the PSU. On checking the cables, it was confirmed that the 16-pin connector on the card had melted.
+
+2 of 9
+
+The user states that there were no extreme bends and the cable was plugged in properly. He even heard a click sound which confirms that the connector is plugged in firmly. The damage has been done to his GeForce RTX 4090 graphics card and the adapter too so the user is left with no option but to revert back to his RTX 3080 for now until a proper solution comes out.
+
+But that's not all. So far, we have seen only the custom NVIDIA GeForce RTX 4090 connectors melting up but the first case of a Founders Edition variant and its 16-pin '12VHPWR' connector melting has been reported in Taiwan. TechTuber,阿軒仔【主頻道】, reports that the user who reported the issue was running the card on an EVGA 1000W G5 Modular PSU within a Corsair 7000X RGB casing which has ample amount of room to support the huge graphics card. The PC owner also noticed a burning smell while playing League of Legends upon which he turned the system off and checked the cables which had already melted. Once again, both the connector & adapter were affected.
+
+So as of now, we can see that the issue isn't related to the type of adapter being used (150V or 300V), it is also not related to the connection (fully plugged in or partially plugged in) & it's also not related to using older ATX 2.0 PSUs as ATX 3.0 PSUs have also witnessed the same issues. So if it's none of those three, then it could be something far worse, like a design defect. Although the cases are still much smaller than the total number of NVIDIA GeForce RTX 4090 graphics cards shipped (100,000 shipped versus <100 cases = 0.1%), it is still serious and lots of people may simply not have reported their issues yet. Based on our findings:
+
+1 - Fully plugged-in connector can melt
+
+2 - Partially plugged-in connector can melt
+
+2 - ATX 3.0 PSU can also make connector melt
+
+3 - Not an issue solely related to 12VHPWR adapter (16-pin to 4 x 8-pin)
+
+4 - The cable can come loose after some time by itself (due to bends & resistance)
+
+5 - PCI-SIG planned revision for December 6th
+
+6 - NVIDIA working on plug revision (rumor for now)
+
+NVIDIA is yet to respond or share its findings but we do know that the company is working with PCI-SIG to issue a new revision of the adapter, and from what we have heard, even a new revision of the 12VHPWR plug is on its way. We will provide a further update on this next week.
+
+Are you willing to buy a graphics card with the 16-pin 12VHPWR connector cable? Yes but only with ATX 3.0 PSU
+
+Yes but I'll use it with non-ATX 3.0 PSU
+
+No, Neither with ATX 3.0 or older PSU
+
+I will stick to my non 16-Pin card till the dust settles View Results Poll Options are limited because JavaScript is disabled in your browser.

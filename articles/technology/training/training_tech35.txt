@@ -1,0 +1,17 @@
+One of the biggest complaints about the Google Pixel 6a unveiled in May was the lack of a high-refresh-rate display, and it looks like the internet search giant has noted that feedback since new information that has surfaced online reveals the Pixel 7a will pack a FullHD+ 90Hz panel, sourced from Samsung.
+
+This revelation comes from developer Kuba Wojciechowski, who also dug through the camera drivers and found that Pixel 7a's camera setup is called the "Pixel 22 Mid-range."
+
+Google Pixel 6a
+
+The Pixel 7a, codenamed "lynx," was initially reported to have a rear camera setup comprising GN1, IMX787, and IMX712 sensors. However, the GN1 sensor is removed from the code, and there are only two sensors now, referred to as "l10_wide" (IMX787) and "l10_UW" (IMX712). That means the Pixel 7a's primary camera will use the IMX787 sensor, while the ultrawide unit will use the IMX712 sensor.
+
+The Pixel 6a also came with two rear cameras, but the use of a better sensor for the primary camera (IMX363 vs. IMX787) on the 7a should translate to better photos.
+
+Google Pixel 6a
+
+The Pixel 7a will also feature wireless charging, which wasn't supported by its predecessor. However, its charging speed will be limited to just 5W.
+
+The Pixel 5a had a 3.5mm headphone jack, which was removed from the 6a, so it remains to be seen whether or not Google will bring it back with the 7a.
+
+Source

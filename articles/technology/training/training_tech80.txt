@@ -1,0 +1,21 @@
+Nvidia's claims that they are "still investigating" RTX 4090 12VHPWR cable issues
+
+Nvidia is 'committed to supporting our customers'
+
+| Source: Kitguru Author: Mark Campbell
+
+Nvidia's investigation into their RTX 4090's 12VHPWR cable issues remains ongoing
+
+Since Nvidia launched their RTX 4090 graphics cards, reports have slowly been circulating online about issues with the graphics card's 12VHPWR connector, with many customers having their 12VHPWR cables heat up and melt inside their systems. Nvidia has previously stated that they are investigating these issues, but so far the company has remained mostly silent on the matter.
+
+In a new statement to KitGuru, an Nvidia representative has stated that Nvidia are still actively investigating reports of 12VHPWR cable issues, and that both Nvidia had their partners are committed to supporting their customers if they need to RMA their graphics cards.
+
+We continue to investigate the reports, however, we don’t have further details to share yet. NVIDIA and our partners are committed to supporting our customers and ensuring an expedited RMA process for them.
+
+Currently, the reason behind these recent 12VHPWR cable failures remain unknown, with many blaming poorly constructed adaptors, incorrectly inserted cables, and design problems for the issue. In time, we expect Nvidia to officially comment on these 12VHPWR issues, and explain the cause behind these reported failures.
+
+You can join the discussion on Nvidia's RTX 4090 12VHPWR investigation on the OC3D Forums.
+
+1 - Nvidia is 'committed to supporting our customers' «Prev 1 Next»
+
+Most Recent Comments

@@ -1,0 +1,15 @@
+First, you'll need to find out if there's an unknown party connected to your Wi-Fi. The router will list all connected devices in real-time (via Google). If someone has unauthorized access, you can change your network's password or revoke access for each device. Unless you've changed it, the login details for the access portal will be printed on the back of the router. Retrieve the username and password. Also, look for the IP address on the router and copy it.
+
+1. Start by opening a browser window on your computer. Or, if your router has a companion app, launch the app on your phone.
+
+2. Enter the IP address you copied in the URL bar.
+
+3. Log into the router using the username and password you retrieved.
+
+4. If you have a modern router, you can be sure it logs the connected devices, but you might have to do some digging to locate the right settings.
+
+5. Find a tab that reads something like "connected devices," "attached devices," "wireless clients," online devices," or "DHCP lists." Some modern routers show the devices with a title like "Android" or "iPad". So it's effortless to identify a device. But most routers will list them as a string of 12 characters. It's called a MAC address unique to every device. Some routers let you revoke access with a simple toggle next to the connected device (via Asus). If yours doesn't, you can use that device's MAC address to kick it off the network.
+
+When you've retrieved the list of all connected devices (and their corresponding MAC addresses), you can do one of two things: Disconnect all your devices and refresh the list or find the MAC addresses for your devices. If none of your devices are connected to the Wi-Fi, and you still see one on the list, it's an unwelcome guest.
+
+You can also match the MAC address specified in the list with the MAC addresses of your devices — phones, tablets, or computers. If the count of devices or the MAC addresses is off, your network has an unauthorized connection.
