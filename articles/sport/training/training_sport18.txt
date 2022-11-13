@@ -1,0 +1,33 @@
+Listen Comment on this story Comment Gift Article Share
+
+The NFL’s gravitation toward the passing game has made quarterback play more valuable than ever. As a result, one of the most important tasks for oddsmakers — and bettors — is to estimate the impact of a change under center, such as the one the Buffalo Bills might be facing in Week 10 as MVP candidate Josh Allen deals with an elbow injury. Not every quarterback will influence the game to the same degree, but if you can get these projections right, you could find an edge over the market.
+
+How can we best translate quarterback performance into a value to the point spread? The easiest way is to start with a familiar metric — passer rating — and use that to determine the likelihood a team wins based on a typical performance. Then we can equate that win estimate to a specific point spread because we know how often teams favored by a certain amount of points win. With backup quarterbacks, because of limited playing time, we may have to make some educated guesses at a reasonable passer rating. And for starting quarterbacks, small sample sizes can cause issues, too. It’s not a perfect method, but we can produce estimates good enough to evaluate price changes, including overreactions and underreactions in the market. First, though, we need a baseline performance.
+
+From 2015 to 2022, starting quarterbacks produced an average passer rating of 92.4 while backups earned an 87.0. Using what’s known as logarithmic regression on individual games since 2015 (when the NFL moved back extra point attempts, changing the scoring system), a starting quarterback with a passer rating of 92.4 should win 53 percent of games while one with a rating of 100 should win 58 percent of games. A backup with an 87.0 average should win about 50 percent of games while a less impressive backup (with a 75 average rating) should win 42 percent of the time.
+
+We also know teams favored by two points win approximately 53 percent of games, and pick ’em games are 50-50 propositions, making the value of a typical starting quarterback around two points more than a backup in the point spread.
+
+Advertisement
+
+As noted, not all starting quarterbacks are created equal, nor are their backups. The Bills have an MVP-caliber passer in Allen, who is day-to-day with an injury to the ulnar collateral ligament in his throwing elbow. Allen did not practice Wednesday or Thursday, and his availability for Sunday’s game against the Minnesota Vikings is uncertain. If he is unable to play, journeyman Case Keenum will start in his place. As bettors, we need to know what impact that will have on the Bills and, subsequently, the point spread.
+
+Allen’s passer rating is 99.2, implying a 57 percent win rate, equivalent to that of a team favored by three points. Keenum has an 86.9 passer rating since 2015, implying a 50 percent win rate and a pick-’em game. However, Keenum’s passer rating in a backup role has been as low as 62.9 (2020 in Cleveland) over the past few years, more similar to what we would expect from an underdog getting 4½ points. That would put Allen’s value over Keenum somewhere between 3 and 7½ points. A huge range, to be sure, but that’s part of the uncertainty in most of these cases: We simply don’t know how a backup quarterback will play for the first time as a starter with a new team.
+
+Nevertheless, the numbers suggest we are on the right track. The line for Buffalo’s upcoming game with the Minnesota Vikings opened at Bills -9½ before making a stop at -7½. It has drifted lower since and was at -3½ on Friday morning. The implication is that Allen is worth four to six points over Keenum.
+
+Advertisement
+
+We saw this method come close to the actual results earlier this season when Miami Dolphins quarterback Tua Tagovailoa missed two-plus games because of a concussion. Tagovailoa leads the league in passer rating (115.9). His backups, Teddy Bridgewater and rookie Skylar Thompson, are not nearly as effective. Bridgewater’s career passer rating is 90.5, while Thompson is an unknown. We do know, however, that rookie quarterbacks who start have produced an average of an 82 passer rating over the past eight seasons, with a winning percentage of .352 (129-237-2). Using this information, we can estimate win rates and their point spread equivalents, do a little subtraction and get the projected impact.
+
+Going from Tagovailoa to Bridgewater should be worth around 2½ points, while a drop from Tagovailoa to Thompson should be worth 5½ to 7½ points. The oddsmakers came to similar conclusions. Bridgewater got the start in Week 5 against the New York Jets, and the line moved from Miami -6½ to -3½. Thompson started in Week 6 against the Minnesota Vikings and the line moved from Miami -1 to Miami +3½, a 4½-point move that was slightly less that our expectation. (Remember, they are only estimates.)
+
+Quarterback and passer rating Expected win rate Point spread equivalent Tua Tagovailoa (115.9) 66 percent -4 Teddy Bridgewater (90.5) 52 percent -1½ Skylar Thompson (estimated 82.0) 35 to 47 percent +3½ to +1½
+
+Here’s another real world example. In Week 10’s Los Angeles Rams-Arizona Cardinals matchup, both starting quarterbacks are questionable. The Rams’ Matthew Stafford is in the concussion protocols and questionable for Sunday, while Arizona’s Kyler Murray will be a game-time decision after not practicing Wednesday because of a hamstring injury and only practicing on a limited basis Thursday. Stafford has a passer rating of 84.9 this season while Murray’s is 86.9. They would be replaced by John Wolford and Colt McCoy, respectively. Wolford has made just 42 passing attempts at the pro level, so we can feel comfortable using the standard passer rating of 82 for rookie (or untested) starters to evaluate his impact. Over the past four seasons, McCoy’s passer rating has been 84.9. With such little difference between the options, the point spread shouldn’t merit much of a change if one or both backups start.
+
+Advertisement
+
+For those looking for a quick guide to the value of a particular starter compared with an average backup or average rookie starter, here you go. Remember, these are estimates only and anytime you think there might be value in a bet, the particular game warrants further inspection.
+
+GiftOutline Gift Article
