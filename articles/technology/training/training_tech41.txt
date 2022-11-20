@@ -1,7 +1,39 @@
-Hogwarts Legacy's character creator lets you style yourself a bit like Harry Potter. The aforementioned wizard is one of the most iconic and instantly recognizable characters in all of fiction. He is meant to look like just your average, ordinary kid with some dark, unkempt hair but he stands out. He has a very distinct lightning bolt-shaped scar on his forehead and big glasses that make him standout amongst the other larger-than-life characters. Of course, the wizard's story is basically over as of right now, though Warner Bros. wants to make more films around Harry Potter, so other creators are filling in some holes within the universe.
+Nvidia issues official statement about RTX 4090 power cable issues
 
-Hogwarts Legacy takes place around a hundred years prior to the events of the Harry Potter saga, meaning it follows a whole new set of characters. You can make your own wizard or witch and in a stream yesterday, Avalanche Software revealed the game's character creator. In it, you can choose from tons of different hair styles, faces, scars, and other details. One key detail is you can wear Harry Potter's signature round, circular glasses. It didn't look like his scar was available, but perhaps other things like a similar hair style are available to try and get your character as close to Harry as possible. The game is still a few months away from releasing, so we'll have to wait and see what the full, finished character creator actually looks like.
+Insert your 12VHPWR cables fully
 
-The stream also included a pretty lengthy and detailed tour of Hogwarts itself, showcasing how much depth this world will have. All in all, it looks like Hogwarts Legacy is shaping up to be a really compelling addition to the Wizarding World and should give fans the experience they've waited years for. Only time will tell if it can meet those expectations given how long people have waited for it, but so far, it looks like it will be a great game.
+| Source: Nvidia Support Author: Mark Campbell
 
-Hogwarts Legacy releases on February 10th, 2023 for Xbox, PlayStation, and PC. What do you think of the game's character creator? Let me know in the comments or hit me up on Twitter @Cade_Onder.
+50 RTX 4090 GPUs have suffered from melting cable issues globally, and Nvidia now knows the cause of these issues
+
+Nvidia has now released an official statement regarding the widely publicised issues that have affected some GeForce RTX 4090 users, confirming that around 50 users have been affected by the 12VHPWR cable melting phenomenon.
+
+With Nvidia only knowing about 50 or so cases globally, we can conclude that Nvidia's RTX 4090 cable melting issue is not widespread, as Nvidia has reportedly sold well over 100,000 RTX 4090 graphics cards. Nvidia has also stated that their investigation has suggested that incorrect cable insertion is a common issue that has resulted in melted 12VHPWR cables.
+
+Below is Nvidia's official response to gamers who are concerned about their RTX 4090's 12VHPWR cables melting.
+
+We are actively investigating the reports. We are aware of about 50 cases globally.
+
+
+
+Our findings to date suggest that a common issue is that connectors are not fully plugged into the graphics card. To help ensure the connector is secure we recommend plugging the power dongle into the graphics card first to ensure it’s firmly and evenly plugged in, before plugging the graphics card into the motherboard.
+
+
+
+We are investigating additional ways to ensure that the connector is secure before powering on the graphics card.
+
+
+
+NVIDIA and our partners are committed to supporting our customers and ensuring an expedited RMA process, regardless of the cable or card used.
+
+Fully insert your 12VHPWR cables
+
+Users of graphics cards with 12VHPWR connectors should ensure that their GPU's power cables are inserted fully and that cable's connection is secure. Nvidia has stated that they are investigating ways that can help ensure that connectors are secure before powering up their graphics cards.
+
+Please look at the example above which showcases a correctly inserted and an incorrectly inserted 12VHPWR cable.
+
+You can join the discussion on Nvidia's official comments on the RTX 4090''s 12VHPWR issues on the OC3D Forums.
+
+1 - Insert your 12VHPWR cables fully «Prev 1 Next»
+
+Most Recent Comments

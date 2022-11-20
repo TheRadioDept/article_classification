@@ -1,15 +1,29 @@
-First, you'll need to find out if there's an unknown party connected to your Wi-Fi. The router will list all connected devices in real-time (via Google). If someone has unauthorized access, you can change your network's password or revoke access for each device. Unless you've changed it, the login details for the access portal will be printed on the back of the router. Retrieve the username and password. Also, look for the IP address on the router and copy it.
+Audio player loading…
 
-1. Start by opening a browser window on your computer. Or, if your router has a companion app, launch the app on your phone.
+Activision has dismissed as "nonsense" a claim by Epic Games that Google paid it $360 million in exchange for an agreement not to launch a mobile app store that would compete with Google Play. The allegation was revealed in an unredacted complaint filed earlier this week as part of Epic's ongoing lawsuit against Google, which also claims that a similar agreement was reached with League of Legends studio Riot Games.
 
-2. Enter the IP address you copied in the URL bar.
+Epic filed its lawsuit against Google (opens in new tab) in August 2020, the same day it sued Apple for its "monopolistic practices" on the App Store, and for basically the same reasons: Google requires developers on the Play store to use its In-App Billing system to process payments, which takes a 30% cut of any purchases made through the storefront, and Epic wants the option to use its own payment processing.
 
-3. Log into the router using the username and password you retrieved.
+The suit has been grinding on for a while now, and has been largely overshadowed by Epic's beef with Apple, which has given us sweeping pronouncements, silly graphics, and even a full-on cinematic parody (opens in new tab) of Apple's famous 1984 ad. But there was one very interesting development on the Google front: Epic claims that Google has made multiple "anticompetitive agreements" with other developers who were considering either the development of a competing mobile app store, or releasing their products standalone.
 
-4. If you have a modern router, you can be sure it logs the connected devices, but you might have to do some digging to locate the right settings.
+"Some of these agreements were intended to, and did, stop developers from launching competing app stores, which is a per se violation of the antitrust laws," Epic's lawsuit states. "Other agreements were intended to, and did, unlawfully stop developers from making Android apps and other unique content available outside Google Play."
 
-5. Find a tab that reads something like "connected devices," "attached devices," "wireless clients," online devices," or "DHCP lists." Some modern routers show the devices with a title like "Android" or "iPad". So it's effortless to identify a device. But most routers will list them as a string of 12 characters. It's called a MAC address unique to every device. Some routers let you revoke access with a simple toggle next to the connected device (via Asus). If yours doesn't, you can use that device's MAC address to kick it off the network.
+The filing alleges that Activision was considering its own mobile distribution platform, which it expected would have "better economics" than Google Play, but dropped the idea after reaching a "Project Hug" deal with Google. Google allegedly paid Activision $360 million over three years, and Activision "abandoned its plan to launch a competing Android app store." Also according to Epic's lawsuit, Riot Games was considering a similar standalone path for League of Legends, but made a separate "eight-figure" deal with Google in exchange for dropping its plan.
 
-When you've retrieved the list of all connected devices (and their corresponding MAC addresses), you can do one of two things: Disconnect all your devices and refresh the list or find the MAC addresses for your devices. If none of your devices are connected to the Wi-Fi, and you still see one on the list, it's an unwelcome guest.
+Google reached Project Hug deals, or "App and Games Velocity Program" deals as they were later known, with numerous other games companies, according to the filing, including Bandai Namco, Electronic Arts, NCSoft, NetEase, Nexon, Nintendo, Square Enix, Tencent, and Ubisoft. There are no specific allegations that those deals were made to prevent the launch of competing app stores or standalone game releases, however.
 
-You can also match the MAC address specified in the list with the MAC addresses of your devices — phones, tablets, or computers. If the count of devices or the MAC addresses is off, your network has an unauthorized connection.
+Epic initially made allegations about Project Hug in August 2021, but did not reveal any specific dollar amounts of names of companies involved at that time. In response, Google acknowledged the existence of the programs, but denied that they were aimed at shutting down competition.
+
+"Google Play competes with other app stores on Android devices and on rival operating systems for developer attention and business," a rep told The Verge in 2021. "We’ve long had programs in place that support best-in-class developers with enhanced resources and investments to help them reach more customers across Google Play. These programs are a sign of healthy competition between operating systems and app stores and benefit developers tremendously."
+
+In response to this new filing, Activision also denied the allegations of a quid pro quo deal to shut down plans for its own mobile store.
+
+"Epic's allegations are nonsense," an Activision representative said in a statement sent to PC Gamer. "We can confirm that Google never asked us, pressured us, or made us agree not to compete with Google Play—and we've already submitted documents and testimony that prove this."
+
+We've been continually astonished by Google's brazen embrace of anticompetitive practices. From the secret "Fortnite Task Force" they created to attack Epic when we launched outside of Google Play, to the big-money deals they made with competitors to dissuade store competition. https://t.co/uODqd6lsWxNovember 18, 2022 See more
+
+Generally speaking, corporations are not famously big fans of meaningful competition, but Epic's claim in this particular instance could be difficult to prove. Activision took a swing at going its own way several years ago on Battle.net (opens in new tab), but eventually came back to Steam (opens in new tab)—which also charges a 30% cut—presumably because it's so deeply entrenched. Other publishers, including Electroni (opens in new tab)c Arts, have reached the same conclusion, and it's likely that remaining holdouts will eventually give in (opens in new tab), too. So it's not hard to believe that Activision abandoned plans for a standalone mobile app not because of a payoff, but because it's just not economically worthwhile.
+
+It's also worth noting that Google, unlike Apple, already allows other storefronts on Android devices—Amazon (opens in new tab) has one, for instance—and it seems inevitable that more will be coming. Microsoft, for instance, recently revealed plans to build a mobile Xbox store (opens in new tab), which somewhat ironically would bring Activision games to a non-Play storefront anyway.
+
+Riot Games declined to comment on Epic's allegations. I've reached out to Google for more information and will update if I receive a reply.

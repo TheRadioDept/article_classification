@@ -1,17 +1,44 @@
-iOS 16.2 may introduce a completely reworked option for your iPhone's home screen, menus and apps with a new feature named Custom Accessibility Mode.
+Warzone 2.0 has been out for a few days and it’s a damn good time once you get past the most challenging part of the game: Navigating a UI that seems like it was coded in the fires of digital hell. Aside from being clunky, obtuse, glitchy, and not even remotely helpful for finding what you’re looking for, Warzone 2 does a fantastic job of making you think you need to buy Modern Warfare II to play the battle royale, especially when you’re looking to party up with friends. While MWII is a good time (moreso for the multiplayer than the campaign), I am here to inform you that, no, you do not need to purchase Modern Warfare II in order to play Warzone 2.0.
 
-It's not available to users yet, even if you download the latest iOS 16 beta software. But 9to5Mac (opens in new tab) was able to root around in the code for this latest iteration of iOS, and find out the key details.
+Modern Warfare II and Warzone 2.0 (and the DMZ mode) are all accessed from the same launcher. While not an inherently bad thing, it does lead to some remarkably exhausting confusion. It gets even more confusing if you haven’t paid for MWII and you’re partying up with folks who have, and somehow even more confusing if you’re doing it on PC and are trying to play cross platform. Rest assured, you don’t have to part with 70 bucks to play the battle royale mode with friends. Here’s how to fully connect with friends for free in Warzone 2.0.
 
-(Image credit: 9to5Mac)
+How to join friends in Warzone 2.0 without buying Modern Warfare II
 
-When activated (by using the iOS accessibility shortcut of three side or home button presses), Custom Accessibility Mode transforms the familiar grid of app icons into a much larger two-column grid or a list of options, with no bottom app dock to distract or confuse things. It also noticeably offers a permanent back button at the bottom of the screen, with apps filling a smaller active window above. Rather than having to use a swipe gesture or look for a back button, the path home is always obvious.
+If you’re playing with friends on the same console (Xbox and Xbox, PlayStation and PlayStation), you should just be able to squad up the way you do in any other game–that said, no matter what platform you’re on, if you haven’t paid for MWII, you need to navigate to the Battle Royale menu to avoid getting the prompt that says “Purchase Modern Warfare II to have access to everything.” To reiterate, you do not need to purchase MWII to play the battle royale. Don’t freak out (or buy the game) if you see this error:
 
-The lock screen changes too, displaying a simple bubble reading "Hold Down to Enter" to make it obvious how to access the phone. It's not clear how this would work with Face ID or Touch ID though.
+Advertisement
 
-(Image credit: 9to5Mac)
+If you try to accept a squad invite while staying in the menu that the Call of Duty: Modern Warfare II launcher dumps you in, you’ll likely see two warnings: one telling you the game might not be fully installed, followed by a prompt to buy Modern Warfare II. Ignore all that bullshit. Before you accept an invite, scroll down to the bottom of the main menu and navigate to the battle royale card (or DMZ if you want to play that, which is also free). Accept an invite from a friend within the battle royale menu. If you don’t, the game will badger you to buy Modern Warfare II.
 
-As well as these big changes, the Settings page for Custom Accessibility Mode allows users to adjust text and icon size further, enable shortcuts to Emergency SOS features and limit features like volume button controls and access to apps.
 
-This looks like a natural extension of iOS' already well-equipped library of accessibility features, and bears some similarity to Samsung's Easy Mode setting (opens in new tab). Custom Accessibility Mode could prove to be very useful to iPhone users with certain visual and physical impairments, as well as beginner or older smartphone users who would appreciate a stripped-down iPhone experience.
 
-As it's a beta feature, it's not certain that Custom Accessibility Mode will make it to the stable release of iOS 16.2. It seems like a worthwhile addition that should become a new tool in the iPhone accessibility arsenal though. So fingers crossed we see it appear in the final release expected to arrive before the end of the year, alongside other new features like Freeform, improved Dynamic Island interactions and new home-screen widgets for Sleep and Medications.
+How to join friends via crossplay and on PC
+
+Take a nice, deep breath. It’s going to be okay. Warzone 2.0 doesn’t make it easy to figure out how to join a friend who’s on a different platform—especially if you haven’t purchased Modern Warfare II.
+
+Advertisement
+
+First, you’ll need to find your Activision ID. If you’re in the menus for either Modern Warfare II or Warzone 2.0, then you have one. Head to the social tab in the game’s main menu, found in the upper rightmost corner.
+
+Here you’ll see the people currently in your party, as well as your selected operator. Select “View My Profile” from this menu and you’ll see your Activision ID on the right hand side of the screen. It’s a similar format to something like Discord, if you’re familiar with that: A username, # sign, and a set of numbers.
+
+
+
+Advertisement
+
+This is the name you’ll use to friend people. Once you know the Activision ID of the person you want to befriend and team up with, return to the initial social menu and click on the Friends tab. Click “Add Friends” and enter the Activision ID there. If all is correct, your friend will get a friend invitation (check the bell icon on the top right for the notification if you miss it.)
+
+Advertisement
+
+With adding a friend out of the way, it’s time to squad up. As mentioned above, if you have not purchased Modern Warfare II, you need to enter the battle royale menu to accept a party invite from someone. Scroll down to the bottom and select either DMZ or Battle Royale (whichever mode you want to play) and load into that specific menu instance. You’ll know you’re in the right place if you see “Battle Royale” in the top left corner of the main menu. Send and accept friend invites with players who don’t own Modern Warfare II from here and only ever here.
+
+If you previously sent an invite and a player was unable to join due to not being in the right menu, there are a few other options in the menu to send a new invite, but oftentimes this is locked (it seems you sometimes can’t send more than one invite to the same person). If you have this problem, simply quit out of Call of Duty, restart the game, navigate to the battle royale menu, and send or ask for an invite then.
+
+Advertisement
+
+Feeling tired? Yeah, me too. It’s 2022 and menus are officially harder than the games they launch. But don’t let Warzone 2.0 fool you into buying Modern Warfare II if you don’t want to. Now squad up and go cause problems on purpose.
+
+Advertisement
+
+
+

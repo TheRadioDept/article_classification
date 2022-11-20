@@ -1,85 +1,17 @@
-The Galaxy Buds 2 Pro and AirPods Pro 2 are some of the best wireless earbuds you can get. They’re at the top of Samsung and Apple’s earbud lineups, and they share a lot of similarities like excellent sound quality, noise cancellation and lots of special features — and there’s just a mere $20 price difference between the two.
+Two years after the original Call of Duty: Warzone dropped into the battle royale arena, its sequel, Warzone 2.0, has arrived with a new map and some enticing new game modes. Or at least, it would offer those things if network and server issues weren’t preventing me from playing a single full, clean match since its launch on Wednesday. That could just be the typical release window woes, and I’ll be holding off on my full scored review until things have had a chance to settle and I’ve played more, but anyone looking to dive in over the weekend should be prepared for a bumpy landing.
 
-It’s easy to point out that the Galaxy Buds 2 Pro are best for Android users, while the AirPods Pro 2 are ideal for iPhone owners. But as each respective company’s flagship earbuds, they each offer a set of features that could convince you to pick either of them up regardless of what kind of phone you have.
+Warzone 2.0 is still a battle royale at its center, bringing back a lot of the first game’s mechanics and base features while introducing a few tweaks of its own, like having two or three smaller circles that eventually converge into one. It’s not all familiar though, as the brand new Al Mazrah map nicely incorporates some of the multiplayer stages from Modern Warfare 2, and the new DMZ mode that takes place on it provides a welcome change of pace from Warzone’s usual last person standing structure.
 
-Let’s dive in and see what makes these earbuds different.
+Loading Play
 
-AirPods Pro 2 vs. Galaxy Buds 2 Pro at a glance
+But while these additions are intriguing to me, I’ve only been able to play a handful of matches on PC where the performance was what I would describe as “almost decent” – and even then I’d face a lot of microstutters and latency issues that kept Warzone 2.0 from feeling smooth. Some people are reportedly having fewer problems than others, but my game would randomly spike to 999 millisecond latency and glue my feet to the ground for a minute so I was unable to move, sometimes making survival during fights near impossible.
 
-AirPods Pro 2 Galaxy Buds 2 Pro Weight per earbud 0.19 ounces 0.22 ounces Water resistance IPX4 (earbuds and case) IPX7 Active noise cancellation Yes Yes Ambient noise Yes (transparency mode) Yes Colors White White, Graphite, Bora Purple Software support iOS Android (Galaxy phone required for most features) Special features Personalized Spatial Audio, lanyard loop case with Find My, volume touch controls 24-bit Hi-Fi audio, Intelligent Conversation Mode, 360 audio, SmartThings Find support Battery life (rated) Up to 30 hours with case Up to 29 hours with case Price $249 $230
+Somewhat surprisingly, DMZ was the only game mode I could play consistently without having disconnection issues, but even that had latency spikes during matches. DMZ is the new loot and extract sandbox mode, no doubt inspired by the success of games like Escape from Tarkov, and it’s actually really fun and refreshing to play between battle royale matches. Being able to fight big groups of NPCs and infiltrate strongholds with my teammate while also keeping an eye on potential enemy players running toward us was exciting. It kept me on my toes in a different way from the usual battle royale mode, and made me want to jump back into the Al Mazrah map to get more loot and keys to unlock strongholds again and again.
 
-AirPods Pro give you that iconic look, but the Galaxy Buds 2 Pro are comfier
+“ My latency would randomly spike and glue my feet to the ground.
 
-Max Buondonno/CNN
+That appeal could partially be because the battle royale mode itself is currently the most frustrating one to try and play. Matches contain the same whopping cap of up to 150 players total in each mode: Solos, Duos, Trios, or Quads. However, a lot of the time my lobbies wouldn’t fill up enough to launch, so people would get impatient and leave before they did. That meant most of my time trying to play a battle royale match became a never ending cycle of queueing and requeueing to find a server that would fire.
 
-The second-generation AirPods Pro carry an identical design to the original model, which is instantly recognizable to anyone who’s ever seen a pair of AirPods. They still have stems, they’re still glossy and white and they still come with silicon tips. While it would be nice if Apple had shaken up their design a bit, it’s not like they’re ugly or in dire need of a refresh. On the contrary, they’re comfortable enough for most people’s ears, are rated IPX4 for sweat resistance and have that iconic look that lets people know you’re rocking AirPods.
+When I could enter a match, I was at least able to get a feel for how the mode plays. It’s largely a lot of the same from the original, but that was already a very fun battle royale with solid looting and shooting mechanics that only improved over time. One interesting new addition here is that you can actually recruit enemy players to your team in squad-based lobbies if you end up losing a teammate at any point. This is a clever way to give weakened teams or solo stragglers a fighting chance and keep more people invested in a match for longer. It’s also just fun to make friends in a Battle Royale, which is a bit unexpected in such a cutthroat format. The Unhinged Trios mode even lets you invite up to six people to be on your team mid-match, living up to its “unhinged” descriptor in the chaos that creates.
 
-But as is the case with any product category with stiff competition, there are plenty of alternative designs that offer better water resistance, colors and comfort. Samsung is a prime example of that thanks to the Galaxy Buds 2 Pro, which offer a lower profile than the AirPods and four different colors to pick from. They’re IPX7 rated, which offers a bit of extra water protection for workouts, and the buds have a matte finish opposed to glossy, instantly making them far better for everyday wear and tear.
-
-The big reason I prefer the Galaxy Buds 2 Pro over the AirPods Pro is because of how much more comfortable they are. I didn’t notice this until I used my AirPods exclusively for a couple of weeks, then switched back to the Buds 2 Pro. It was a bit mind-blowing how much better the Galaxy Buds fit in my ears and stayed in during long writing sessions. They also feel lighter and less intrusive, and they’re really easy to forget about when wearing them.
-
-Max Buondonno/CNN
-
-Even the case is better. I haven’t had the second-gen AirPods Pro for very long, but I’ve somehow been able to scratch up the entire back of the case thanks to its glossy nature. The Galaxy Buds 2 Pro don’t have that issue at all. The matte finish helps mitigate both scuffs and fingerprints, and the case somehow blocks debris like dirt and pocket lint from getting in the lid better than the AirPods’ case.
-
-If the AirPods have any edge over the Galaxy Buds in terms of design, it’s that the case is notably smarter. It has built-in speakers that chime when you lose it or begin charging it, or the battery gets low. There’s also a lanyard slot for those of you who like dangling your earbuds from the zipper on your backpack. The Buds 2 Pro don’t have any of that. You’re pretty much stuck with an LED that shows you when they’re charging and that’s it.
-
-TL;DR: The new AirPods Pro look a lot like the old ones. That’s not really a bad thing since they’re still comfy to wear, but the Galaxy Buds 2 Pro simply hit it out of the park when it comes to fit and finish (plus they’re matte).
-
-Sound quality is a toss-up, but the Galaxy Buds 2 Pro have a slight edge
-
-Max Buondonno/CNN
-
-There’s no question that both the Galaxy Buds 2 Pro and second-generation AirPods Pro sound amazing. They both offer great sound quality with punchy bass, clear highs and full mids. Any genre of music — whether it’s boom-bap hip-hop, classic jazz, rock ‘n’ roll, or Top 40 pop hits — will sound fantastic on these buds.
-
-Deciding which is better is a bit of a challenge, though, especially since their feature sets are stronger in different areas. For example, Apple has much better spatial audio than Samsung, with advanced head-tracking techniques, dedicated Dolby Atmos masters of your favorite songs in Apple Music and a much more enjoyable 360-degree soundscape. Meanwhile, the Galaxy Buds 2 Pro offer 24-bit hi-fi audio thanks to a special codec from Samsung. It may require that you own a Samsung phone to work, but it gives music an extra oomph so tracks sound a little cleaner than they would on AirPods.
-
-If I had to pick a winner here, I’d go with the Galaxy Buds 2 Pro. The extra resolution in sound quality helps music sound clearer and more enjoyable, and the overall sound stage feels brighter and more encompassing than what the AirPods Pro can pull off. If you’re a big fan of spatial audio and want the best experience, then the AirPods will be the right choice, but anyone searching for better sound quality overall will love the Galaxy Buds.
-
-TL;DR: Both the AirPods Pro and Galaxy Buds 2 Pro sound excellent, but Samsung’s earbuds take the crown thanks to their ability to stream 24-bit hi-fi audio.
-
-AirPods Pro 2 are the king of ANC and transparency
-
-Max Buondonno/CNN
-
-Whatever voodoo is powering the active noise-canceling (ANC) and transparency modes on the AirPods Pro has managed to keep them ahead of other earbuds on the market, including the Galaxy Buds 2 Pro.
-
-Apple says the ANC is twice as good as the previous generation, and it’s a bit shocking how well it works. The windiest of boardwalks, the loudest of street corners and the most chaotic of households are no match for the noise suppression of these buds — you can hear next to nothing when it’s on, leaving you and your music or podcasts to yourselves.
-
-The Galaxy Buds 2 Pro aren’t bad by comparison, but it’s clear that they aren’t as good. The Intelligent Active Noise Cancellation here helps louder sounds get quieter for a more balanced sound, and Samsung has made solid progress on improving how ANC generally performs on its earbuds. But side by side, Samsung’s earbuds can’t quite hold up. You get extra wind in your ears if you wear them walking down the street, and the sounds that should be suppressed are a tad louder than they are with AirPods.
-
-Samsung’s ambient mode is also behind Apple’s transparency mode. Voices sound wetter than they do on AirPods, and you can’t hear your surroundings as clearly. The AirPods Pro can also suppress louder sounds while using transparency mode so that everything remains at a consistent volume, something the Galaxy Buds aren’t capable of.
-
-TL;DR: Without a doubt, Apple’s AirPods Pro 2 are better at canceling out unwanted background noise. They’re also better than the Galaxy Buds 2 Pro at transparency.
-
-The AirPods Pro last a bit longer than the Galaxy Buds 2 Pro
-
-Max Buondonno/CNN
-
-Apple quotes up to six hours of usage on the second-gen AirPods Pro with a full charge, while Samsung’s Galaxy Buds 2 Pro are rated for five. We were impressed with the battery life from both sets of earbuds in our reviews, but in my usage, I’ve found the AirPods Pro have the edge. Over a week with the AirPods Pro in my pocket, I find that I only have to charge them once or twice, while the Galaxy Buds require two or three periods on my wireless charger. For context, I used both sets with ANC on the entire time and transparency mode flicked on occasionally.
-
-The AirPods Pro and Galaxy Buds 2 Pro both work with Qi wireless chargers, while the AirPods are also compatible with MagSafe and Apple Watch chargers. There’s no fancy magnetic charging on the Galaxy Buds so you’ll have to make sure you line them up perfectly on your wireless charger. Samsung’s earbuds ship with a USB-C cable whereas AirPods continue to ship with Lightning.
-
-TL;DR: For battery life, the AirPods Pro 2 manage to last a bit longer than the Galaxy Buds 2 Pro, but it’s not a huge difference.
-
-You’ll want a Samsung phone for Galaxy Buds and an iPhone for AirPods
-
-Max Buondonno/CNN
-
-This is the most obvious point for any comparison between AirPods and a set of earbuds developed by an Android phone manufacturer. If you own an iPhone, the second-generation AirPods Pro will serve you much better since they’re designed to work with one another. In the same vein, Galaxy Buds 2 Pro will work best with Android phones, particularly Samsung Galaxy devices since they ship with the Galaxy Wearable app out of the box.
-
-Pairing each set of buds with their respective smartphone counterparts can also enable special features. AirPods Pro get Siri integration, spatial audio, multi-device support and customizable touch controls when paired with an iPhone, something that can’t be said if you pair them with an Android device. Meanwhile, the Galaxy Buds have 24-bit hi-fi audio, multi-device support and Fast Pair as long as you connect them to a Galaxy phone.
-
-If you own a Galaxy or some other Android phone, you’ll have a much better experience with the Galaxy Buds 2 Pro since those are the devices the earbuds are designed to work with. For iPhone owners, AirPods Pro are a natural fit. It’s a bit of a bummer, but what can you do?
-
-TL;DR: Samsung’s earbuds work best with Galaxy phones, Apple’s earbuds work best with iPhones. Surprised?
-
-Bottom line
-
-Max Buondonno/CNN
-
-The Galaxy Buds 2 Pro and second-generation AirPods Pro put up a good fight when in the same ring. At $230 and $249 respectively, they’re some of the best earbuds you can get for the money.
-
-As an overall winner, we’d have to pick the Galaxy Buds 2 Pro thanks to their more comfortable design, wider soundstage and hi-fi audio support. But the AirPods Pro are certainly no slouch, and either set will suit you well.
-
-Y’know, assuming you pair them with the right phone.
+I’m still early in my time with it, but so far Warzone 2.0 seems like a fun evolution of its predecessor whenever I’m able to get into a decently stable server and actually play something close to a full match. I already feel the pull of the new DMZ mode in particular, but I just haven’t been able to play enough yet to find out if that feeling will last. I have had more disconnects and latency issues than any actual game time, with release instability still persisting as we head into the weekend. Hopefully Warzone 2.0’s servers and desync issues can be resolved soon so I can, you know, actually play more of it, and I’ll be back with my final scored review in the next week or two.

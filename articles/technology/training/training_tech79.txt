@@ -1,37 +1,47 @@
-A few days ago, JonnyGuru reported that most of the melting issues occurring with the 16-Pin '12VHPWR" connectors on the NVIDIA GeForce RTX 4090 graphics cards were due to a bad or improper connection. Now, a new case has emerged which shows a 16-pin '12VHPWR' cable melting despite being connected properly.
+Welcome! This column is part of a regular series in which we share what members of the Tom's Guide staff are playing and enjoying right now, with an eye towards helping you find great games that you may have missed. Be sure to check out our recent entry, where we talk about Elden Ring.
 
-NVIDIA GeForce RTX 4090 16-Pin '12VHPWR' Connector Melts Despite Proper Connection, First Case of 4090 Founders Edition Also Reported
+God of War Ragnarök isn't just one of the best PS5 games. It's one of my favorite games of 2022. This is due in large part to its engaging, character-driven narrative. It’s satisfying to see how protagonist Kratos, his son Atreus, and the supporting cast have evolved between this entry and 2018’s God of War.
 
-Redditor, u/m_hijazl, posted in the NVIDIA subreddit how his custom ZOTAC GeForce RTX 4090 AMP Extreme AIRO ended up melting the 16-pin connector. The user reported that his card was running smooth and it was a huge jump in performance over his previous card, an RTX 3080 but while playing Cyberpunk 2077, his PC started flashing and he reportedly noticed a burning smell upon which he immediately cut the power from the PSU. On checking the cables, it was confirmed that the 16-pin connector on the card had melted.
+Whenever I discuss this title with friends and peers, we don’t focus on the gameplay; we dissect its simple but masterfully told story. But the quality of storytelling isn’t purely relegated to the main quest, as sidequests receive just as much attention. In fact, I’d venture to say that some of this optional content is just as good — if not better — than the core narrative.
 
-2 of 9
+Unlike Assassin’s Creed: Valhalla, God of War Ragnarök knows that quality is more important than quantity. The game may not have dozens of side quests, but they’re almost all exceptionally done.
 
-The user states that there were no extreme bends and the cable was plugged in properly. He even heard a click sound which confirms that the connector is plugged in firmly. The damage has been done to his GeForce RTX 4090 graphics card and the adapter too so the user is left with no option but to revert back to his RTX 3080 for now until a proper solution comes out.
+Below, I’ll detail how God of War Ragnarök does sidequests right and what other games with similar optional content could stand to learn from this PlayStation exclusive.
 
-But that's not all. So far, we have seen only the custom NVIDIA GeForce RTX 4090 connectors melting up but the first case of a Founders Edition variant and its 16-pin '12VHPWR' connector melting has been reported in Taiwan. TechTuber,阿軒仔【主頻道】, reports that the user who reported the issue was running the card on an EVGA 1000W G5 Modular PSU within a Corsair 7000X RGB casing which has ample amount of room to support the huge graphics card. The PC owner also noticed a burning smell while playing League of Legends upon which he turned the system off and checked the cables which had already melted. Once again, both the connector & adapter were affected.
+Less is more
 
-So as of now, we can see that the issue isn't related to the type of adapter being used (150V or 300V), it is also not related to the connection (fully plugged in or partially plugged in) & it's also not related to using older ATX 2.0 PSUs as ATX 3.0 PSUs have also witnessed the same issues. So if it's none of those three, then it could be something far worse, like a design defect. Although the cases are still much smaller than the total number of NVIDIA GeForce RTX 4090 graphics cards shipped (100,000 shipped versus <100 cases = 0.1%), it is still serious and lots of people may simply not have reported their issues yet. Based on our findings:
+One of the complaints lobbied at the recent Assassin’s Creed titles is that they’re as wide as an ocean and as deep as a puddle. These games contain a lot of sidequests but most feel interchangeable at best or forgettable at worst. The idea of having a slew of sidequests is more alluring than the reality. What’s the point of having a ton of optional quests if they feel like filler?
 
-1 - Fully plugged-in connector can melt
+God of War Ragnarök's sidequests often take you to places you wouldn't otherwise see during the main storyline. (Image credit: Sony Interactive Entertainment)
 
-2 - Partially plugged-in connector can melt
+Thankfully, God of War Ragnarök takes the opposite approach and only features perhaps a dozen or so narrative-driven sidequests. While I haven’t finished all the sidequests yet, the ones I have completed have been great so far. My current favorite is a mission in the Vanaheim region because it almost feels like an expansion given its large scope. This sidequest is a microcosm of the game itself and is an excellent example of how to properly construct an engaging and rewarding experience.
 
-2 - ATX 3.0 PSU can also make connector melt
+I should say that God of War Ragnarök is not the first game to show restraint with sidequests. Deus Ex: Human Revolution only had a handful of sidequests but each was phenomenal. I’m singling out Eidos Interactive’s game since it was one of the first that made me realize that titles don’t need a million sidequests to be good. Mind you, that title came out in 2011 and I was already becoming tired of superfluous content in games. Things haven’t gotten much better. This is why God of War Ragnarök feels so special in that regard.
 
-3 - Not an issue solely related to 12VHPWR adapter (16-pin to 4 x 8-pin)
+Stories that matter
 
-4 - The cable can come loose after some time by itself (due to bends & resistance)
+God of War Ragnarök is a solid action game with plenty of puzzles and platforming segments. But I’d argue that its gameplay is secondary when compared to its super storytelling. That isn’t to say it has the most amazing story I’ve ever seen in any media. The narrative is rather straightforward. But the way events unfold always keep you engaged.
 
-5 - PCI-SIG planned revision for December 6th
+Not only do sidequests reveal more about the mythological Norse world you’re exploring, but you also gain a great deal of insight into the people who inhabit this land.
 
-6 - NVIDIA working on plug revision (rumor for now)
+More importantly, the game’s characters and how they interact with one another are what truly drive everything forward. You want to keep playing to see what the characters will do next.
 
-NVIDIA is yet to respond or share its findings but we do know that the company is working with PCI-SIG to issue a new revision of the adapter, and from what we have heard, even a new revision of the 12VHPWR plug is on its way. We will provide a further update on this next week.
+This focus on character extends to the sidequests. Though many of these segments inevitably conclude with a spectacular boss battle, the journey to reach that climax is filled with all manner of captivating character moments. Not only do sidequests reveal more about the mythological Norse world you’re exploring, but you also gain a great deal of insight into the people who inhabit this land — not to mention learn more about Kratos and Atreus and what motivates their actions.
 
-Are you willing to buy a graphics card with the 16-pin 12VHPWR connector cable? Yes but only with ATX 3.0 PSU
+Sidequests are a great way to learn more about the world and characters of God of War Ragnarök. (Image credit: Sony)
 
-Yes but I'll use it with non-ATX 3.0 PSU
+You know sidequests are great when you continue thinking about them days or even weeks after completing them. God of War Ragnarök succeeds here since these are some of the most memorable quests I’ve ever engaged in. They aren’t just there to dole out better loot and gear. These side stories are substantive.
 
-No, Neither with ATX 3.0 or older PSU
+Useful loot
 
-I will stick to my non 16-Pin card till the dust settles View Results Poll Options are limited because JavaScript is disabled in your browser.
+Though collecting loot wasn’t my primary reason for completing sidequests, the various items obtained during missions were very beneficial. After finishing the Vanaheim mission mentioned above, I came away with new armor and useful materials for upgrading the rest of my gear. This will eventually help me complete some of the more challenging optional battles scattered across the nine realms.
+
+Sidequests are a great source for loot you can use to upgrade armor and weapons. (Image credit: Sony)
+
+In my God of War Ragnarök review, I said that the game allows you to craft a version of Kratos that suits your playstyle. If you enjoy taking the fight directly to enemies, you can wear and use items that boost your strength and defense. Conversely, people who enjoy using magic attacks or inflicting enemies with status ailments can also create a build suited to that style. The more sidequests you complete, the more items you’ll have at your disposal to build your perfect Kratos.
+
+Sidequests done right
+
+Like The Witcher 3 before it, God of War Ragnarök has truly memorable sidequests that help further immerse you in its fictional setting. These missions also allow the game to show different aspects of the already well-rounded characters.
+
+If you plan to get God of War Ragnarök or currently own it, I urge you to not avoid the sidequests. I promise you’ll find them as rewarding as I did.

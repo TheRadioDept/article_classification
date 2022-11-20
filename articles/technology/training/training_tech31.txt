@@ -1,15 +1,29 @@
-A lawsuit alleges that according to research published in November, Apple not only tracks, records, and collects data without the user’s permission through its App Store but also monetizes off of it. This data includes browsing history and activity, with the plaintiff hoping that the lawsuit turns into a class action one.
+Image shows a black and white picture of Apple AirPods.— Unsplash
 
-Apple Allegedly Has Some Knowledge of What a User Is Browsing on the App Store
+A new study has revealed that Apple AirPods Pro can act as hearing aids for adults who have mild to moderate hearing loss.
 
-Elliot Libman was the name of the plaintiff, with AppleInsider reporting that case number 5:2022cv07069 was filed in the US District Court for the Northern District of California. Sadly, Libman’s attorneys do not share the same enthusiasm as their client, believing that the lawsuit will be difficult to win. As for details of the suit, they are provided below:
+The research work published in the journal Science, conducted by a team of researchers at the Taipei Veterans General Hospital in Taiwan, sampled 21 participants to test the efficiency of the AirPods. The team tested premium and standard hearing aids against AirPods Pro earbuds and Airpods 2.
 
-“Apple’s practices infringe upon consumers’ privacy; intentionally deceive consumers; give Apple and its employees power to learn intimate details about individuals’ lives, interests, and app usage; and make Apple a potential target for “one-stop shopping” by any government, private, or criminal actor who wants to undermine individuals’ privacy, security, or freedom. Through its pervasive and unlawful data tracking and collection business, Apple knows even the most intimate and potentially embarrassing aspects of the user’s app usage— regardless of whether the user accepts Apple’s illusory offer to keep such activities private.”
+During the experiment, experts paired the AirPods with an iPhone along with the environmental noise amplifier app "Live Listen" running. Participants used the pods while researchers read them short sentences. They were asked to repeat the statements as it is once the researcher was done speaking.
 
-The report also states that the data Libman is referring to is collected on Apple’s servers. For instance, Netflix also follows a practice where user data is collected on the servers and is tied with that specific account, suggesting that the attorneys or plaintiff might be confused about the understanding of server-side data collection. The lawsuit also mentions that Apple has financially benefitted from users’ personal data, but the report mentions that the study included in the suit talks about sales of data, plus information that was breached through hacks.
+Live Listen was launched by Apple in 2016. It is a feature that amplifies sounds in the surrounding, much like sound amplification devices designed to indulge in activities like birdwatching, used by people with hearing difficulties.
 
-To remind you, Apple states that it does not collect user data and is transparent on how it uses data in its advertising platform, and that alone might be the final nail in the lawsuit’s coffin. App Store and iPhone users always agree to the terms and conditions that Apple sets before they can actually start using them, so to claim that these practices are a violation appears farfetched. In order for a lawsuit to actually proceed to court, customers need to be misled by a company by engaging in practices that were not mentioned in the agreement.
+AirPods 2 were found to be performing as effectively as standard hearing aids in quiet environments. Surprisingly, the AirPods Pro performed like a premium hearing aid in noisier surroundings. The pro pods have a built-in noise-cancelling feature. When the noises came from the sides (either left or right) of the participants, the pods performed better. However, if the sound came from the front, both the Apple models failed to deliver as hearing aids.
 
-So far, there is no hearing date for the case, and unfortunately, we do not have an update on that either.
 
-News Source: AppleInsider
+
+“Two reasons may account for the difference between the two scenarios,” said Ying-Hui Lai, the study’s co-author and a bioengineer at National Yang Ming Chiao Tung University in Taipei.
+
+“It may relate to the trajectories soundwaves travel with, as well as the advanced signal processing algorithm by premium hearing aids. This finding will hopefully inspire engineers to design hearing aids and personal sound amplification products that are more sensitive in certain directions.”
+
+Yen-fu Cheng, the study's corresponding author, said in a media release that while the wireless earbuds were not perfect, they could be used for starters by people who cannot afford professional hearing aids.
+
+
+
+"They will see an increase in quality of life even with these earbuds," said Cheng.
+
+
+
+Study authors also noted that people might be more comfortable in wearing earbuds all the time than hearing aids which are surrounded by social stigma. The AirPods could protect people from ableist attitudes and provide a comfortable option too. Additionally, hearing aids often need to be shown to health professionals who then fit the device accordingly and fine-tune it. Earbuds do not require any of those cumbersome steps.
+
+AirPods 2 cost $129 and AirPods Pro cost $249 which is less than half of what a basic hearing device would cost. Premium aids could cost as much as $10,000.

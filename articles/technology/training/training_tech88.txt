@@ -1,13 +1,9 @@
-MediaTek’s T800 chipset launched, will bring ultrafast 5G to more devices: All you need to know (photo for representation)
+The whole reason people are agenst this whole cloud-version idea is because its a lazy way for developers to port their game to the switch. Have a look at Kingdom Hearts 1 and 2. Those could've been ported to the switch by ease. 3 won't run on switch so cloud is the best way in that case.
 
-MediaTek has launched the new T800 chipset solution for sub-6GHz and mmWave 5G networks. This 5G solution follows the introduction of MediaTek’s T700 5G modem and will drive innovative 5G “beyond smartphone” applications such as Industrial IoT, M2M, and always-connected PCs, the company claims. Also Read - Jio True 5G launched in two more cities, users get unlimited free 1Gbps data
 
-“Consumers today want the ability to access 5G speeds from anywhere. MediaTek’s newest 5G chipset solution allows end users to enjoy high-speed, low-latency 5G wherever they are – offering true computing freedom,” said JC Hsu, Corporate Vice President at MediaTek. “The T800 stands out with super-fast, reliable 5G speeds in a highly efficient design that maximizes battery life for an all-around great user experience.” Also Read - MediaTek Dimensity 9200 unveiled with TSMC's N4P node, Ray Tracing, and UFS 4.0 support
 
-MediaTek T800 solution supports download speeds of up to 7.9Gbps. The T800 packs MediaTek’s latest 5G UltraSave power-efficiency technologies to optimize battery life for all 5G connection conditions, allowing users to browse, stream and game for longer. The chipset solution features a thin modem with a fully integrated 3GPP Release-16 5G cellular modem, FR1 Transceivers, an Envelope Tracking (ET) chip, a MLNA, a GNSS receiver and associated PMICs. The thin modem is built on an advanced 4nm process node and also integrates PCIe + USB host interfaces, plus other input/output options. Also Read - Airtel 5G Plus at Bengaluru airport launched today, after Delhi airport
+The Switch is surposed to be portable and no one has good enough wifi to take a cloud version on the go. Not to mention the small % of people who live in a area without wifi or don't have wifi are automatically excluded from playing it.
 
-It supports for both standalone (SA) and non-standalone (NSA) sub-6GHz and mmWave 5G. connections up to 4CC-CA, plus mixed duplex FDD/TDD support dual 5G SIM (DSDS), depending on device maker requirements.
 
-MediaTek earlier this month launched the MediaTek Dimensity 9200 chipset. The Dimensity 9200 is a flagship chipset by the brand which will be used in premium phones by the end of this year. The chipset is based on TSMC’s N4P node and has ray-tracking support. It also supports the UFS 4.0 storage type, which succeeds the UFS 3.1 storage type.
 
-MediaTek’s Dimensity 9200 is the latest and fastest chipset by the brand. It has 1x Cortex-X3 core clocked at 3.0GHz, 3x Arm Cortex-A715 cores clocked at 2.85GHz, and 4x Arm Cortex-A510 cores clocked at 1.8GHz.
+Cloud versions require a very strong always online internet connection and if for some reason your wifi decides to lock up or freeze. You are going to be kicked from the game, just because of a signal drop.

@@ -1,27 +1,22 @@
-The Windows 11 22H2 mess gets messier: In a surprising move, Microsoft has blocked the big feature upgrade on some PCs due to potential gaming and performance issues.
+One of the most contentious things about Overwatch 2 has been the beloved hero shooter’s shift from paid game to free-to-play download supported by grindy battle passes. Blizzard now says it wants to address those concerns moving forward, ironing out the game’s progression in future seasons so that players feel “more rewarded just for sitting down and playing.”
 
-Microsoft has removed Windows 11 version 22H2 from its Windows Update servers on select devices after acknowledging reports of an issue affecting the performance of games on the machine. The company says it’s working on another cumulative update to address the mess and will release it in near future.
 
-Windows 11 version 22H2 was released in September as part of the normal feature updates cycle and was targeted for all supported Windows versions via Windows Update. It is the first big feature update for Windows 11 and it comes with a lot of features, which is why many users have rushed the download.
 
-In the documentation, Microsoft acknowledged a statement from Nvidia that Windows 11 accidentally turned on “GPU performance debugging features”.
+“For Season 3 and beyond, we’re looking at a mix of Battle Pass changes, more interesting Challenges to pursue, and more exciting play-focused progression systems for you all to dig into. We’ll be able to talk about some of these changes soon, but other changes may take more time to lock-in,” recently hired executive producer, Jared Neuss, wrote in a new update.
 
-One of the most frustrating issues with Windows 11 has been affecting gamers, with some users complaining that the FPS would drop when they play games. Uninstalling the update resolves the problem, confirming the speculations that the problem lies with the feature upgrade.
+In the meantime, Season 2, which starts on December 6 and adds Ramattra, will see each new dedicated event introduce its own unique skin that can be unlocked just by playing. Twitch drops, which give players access to new cosmetics by watching their favorite Overwatch 2 streamers, will continue as well. I don’t think this will satisfy the game’s most vocal critics immediately, but it’s at least an acknowledgement that the status quo isn’t sustainable.
 
-Windows 11 22H2 is making games perform poorly and audio is also affected, with some folks noticing frequent stuttering.
+Advertisement
 
-Nvidia has been looking into these reports itself and they also published two official fixes via the GeForce app and driver updates, but the chipmaker’s efforts were not enough.
+Read More: 7 Tips For Overwatch 2 Beginners Determined To Win
 
-After ignoring the reports for several weeks, Microsoft is now actively looking into the issue and the company has pulled the update for affected machines.
+Since the game launched, players have been frustrated by new heroes being locked behind the paid battle pass, the length of time it takes to rank it up, and the high prices of all the skins. The current state of affairs has even had some players pining for the loot boxes from the first game. And all of this has only been compounded by broken characters, delayed patches, and random bugs like a recent glitch that kept some players unable to progress in ranked play.
 
-The tech giant says it’s working on a cumulative update and it also warned users against manual upgrades using the ‘Update now’ button or Media Creation Tool until this issue has been resolved.
+For now, Blizzard is working on awarding support players more XP to incentivize them to pick that role and help alleviate queue times. Overwatch 2 is also currently handing out Sojourn, Junker Queen, and Kiriko highlight intros for those who log in during certain time periods over the next week. Blizzard has even turned on crossplay aim assist for console players in all modes except competitive because the alternative was a “bad experience.”
 
-Microsoft allegedly ignored the reports
+“Players who’ve stuck with us, players who’ve returned, and players who are just now jumping in the fun—thank you for playing Overwatch 2,” Neuss wrote today. “We have an incredible community, and I hope that by opening up about what we’re thinking more, we can keep growing together.”
 
-The Windows Insiders have been testing the feature upgrade for several months now and the issue was flagged by some testers earlier this year.
+Advertisement
 
-Some had highlighted Windows 11 22H2 performance issues in March itself, but it looks like the reports were missed by Microsoft and the company released this update without addressing those problems.
 
-There have also been reports of other issues with the update.
 
-We can only hope that Microsoft will be able to resolve these issues in the coming weeks, but Windows 11 2022 Update does appear to be more stable than the previous Windows 10 feature updates. In most cases, problems are not too widespread and they were fixed quickly.

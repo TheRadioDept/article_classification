@@ -1,95 +1,15 @@
-This is the launch week for Warzone 2.0 and DMZ, and players are keen to try out both. Warzone 2.0 arrives more than two years after its dominant predecessor. However, the battle royale isn't grabbing all the headlines, as the latest game mode is stealing its thunder.
+Pokemon Scarlet and Violet mods are already available, and the first to be released removes singer Ed Sheeran from the game.
 
-DMZ, short for Demilitarized Zone, is also being released simultaneously with Season 1 of Modern Warfare 2. The new game mode is set in Al Mazrah, the same map as Warzone 2.0, with slower-paced gameplay and multiple new mechanics.
+In case you missed it, Sheeran debuted a promotional song in the lead-up to Pokemon Scarlet and Violet's release called 'Celestial', and a version of the track appears during the games' credit sequence. Well, whether because they aren't fans of the song or Sheeran's music more generally, someone's gone and made a mod (opens in new tab) that "de-Sheeranifies the credits."
 
-DMZ is an intense game mode with higher stakes which is loot-oriented
+The first officially released mod for Pokémon SV is to remove the Ed Sheeran song LMFAO#PokemonScarlet #PokemonViolet pic.twitter.com/I5re9X3dBwNovember 18, 2022 See more
 
-Official artwork of the game mode (Image via Activision)
+The mod not only removes Ed Sheeran's Pokemon song from Scarlet and Violet, it replaces it with music from the late Japanese singer Wada Koji, known for his work on the Digimon anime series, notably his first single, Butter-Fly, the title track of Digimon Adventure.
 
-Overview
+It's also worth noting that modder CrescentCrossbow has only tested the mod on Pokemon Violet, so it hasn't been confirmed to work with Pokemon Scarlet just yet, however the modder expects it to be compatible.
 
-The fundamentals of a DMZ game mode are simple: players have to squad up, land in the zone, explore the area, loot resources, and try to get out alive. There will be multiple hurdles along the way such as AI enemies, other players, objectives, and more. According to Infinity Ward:
+Sheeran or Sheerno, our Pokemon Scarlet and Violet review isn't exactly perfect. The games' bad habits include myriad technical issues, mechanical oversights, and a lack of vision, although Game Freak really brought out the A-team for the game's music and the new Terastallizing feature. We're just thinking out loud though.
 
-"We’ve built a massive living world in Al Mazrah with challenging enemies, a deep mission system, side quests, secrets, and more. As we look to the future, we hope to reward players for exfiltration in new ways as we work towards new uses for cash and items."
+"The basic mechanics of Pokemon remain largely untouched – it's still catching, battling, and training as you remember it – and while that may be enough for many devotees, Generation 9 is a tougher sell for those who need more of a reason to engage with the series, impacted as it is by technical issues, mechanical oversights, and a lack of vision," writes GR's Joel Franey. "Pokemon Scarlet and Violet should have been a bright and bold entry that sets the series up for future expansion, but an attempt to modernize while staying loyal to the past hasn't really succeeded in doing either one – and the headache doesn't help, to boot."
 
-The game mode doesn't require killing opponents or being the last squad standing. Instead, players must survive, complete objectives, and extract to save the loot. If they die in the field, all the loot is lost forever.
-
-Inventory
-
-The new M13B AR can be earned in DMZ (Image via Activision)
-
-Players will have an Inventory to manage, which will consist of valuable items and weapons that have been extracted. At the start, they will have a small inventory of free contraband weapons that are usable only in DMZ. This can be expanded after looting other players' contraband from the field.
-
-Players will also be allowed to insure their weapons, which means that guns used in the field won't be lost, unlike contraband. With personal modifications and high-level attachments, the best weapons can be insured.
-
-However, if players lose an insured weapon on the field, they must either pay cash or trade valuables to speed up the cooldown.
-
-"The goal is to loot up and get out alive; it’s about exploring an active world of AQ Forces and enemy Operators, completing missions and objectives, and exfiltrating with loot, cash, valuables, and rewards to build out your inventory for the next infiltration."
-
-Various items in the inventory can be taken to the next infiltration to access special locations and get rare loot. However, it is a high-risk, high-reward move as the items can also be lost forever.
-
-Objectives
-
-Faction Missions are one of the primary objectives of the game mode, which requires the player to go against PMCs (Private Military Contractors) such as Legion, White Lotus, and Black Mous. Notably, the latter two are locked until Legion's missions are completed.
-
-Players must climb Faction Mission Tiers. These can be done by completing a certain number of missions that will reward them with unique items.
-
-While they can infiltrate the zone in a three-person squad, going Solo or Duo by disabling squad-fill is also an option.
-
-Loadout and extraction
-
-ModernWarzone @ModernWarzone DMZ is very different from what most COD players are used to and will definitely take some time to learn / get used to for most.
-
-
-
-It won’t be for everyone. DMZ is very different from what most COD players are used to and will definitely take some time to learn / get used to for most. It won’t be for everyone.
-
-Players can either enter the infiltration zone with a chosen loadout or go in without anything other than their fists. Going empty-handed will make the job harder, but will ensure that nothing is lost. Meanwhile, going in fully kitted will increase survival chances, but could jeopardize the inventory.
-
-"DMZ is a dangerous, diverse and deep open world experience where players can choose their level of intensity."
-
-To secure the loot, players will have to reach the extraction point and be safe from the demilitarized zone's dangers. If they fail, all the loot up to that point in the game is lost. The extraction point is always random and can be spawned at any location in Al Mazrah, making sure that no two DMZ matches are similar.
-
-Dead players during the game can also be revived at any point, but it will take longer than a downed revive. That said, if the whole squad perishes, everything is lost except insured weapons.
-
-Demilitarized Zone
-
-ModernWarzone @ModernWarzone SAM missile sites in DMZ will still target you and your teammates air vehicles even if you’ve already “captured” it. SAM missile sites in DMZ will still target you and your teammates air vehicles even if you’ve already “captured” it. https://t.co/MD8zbVFaw2
-
-Apart from Faction Missions, there are optional assignments that players can take on such as Contracts, rescuing a hostage, taking down a high-value target, and participating in a World Event. The lattermost might involve activating a SAM Turret or a UAV Tower, which will be every squad's objective.
-
-There will also be locked spaces in DMZ, as well as Strongholds, guarded by armored AI forces. The key to the locked spaces will also be on the map.
-
-The rewards for completing objectives and looting high-value places will be Double XP tokens, Calling Cards, Weapons Charms, Blueprints, and other cosmetics.
-
-Unlike Warzone, there won't be a collapsing circle in Al Mazrah. Players will have to stay away from radiation, as well as sandstorms in various places on the map.
-
-Release date and times
-
-The official dates and times for DMZ's release are:
-
-November 16, 10 am PT (US West Coast)
-
-November 16, 12 pm CT (US, Illinois)
-
-November 16, 1 pm ET (US East Coast)
-
-November 16, 6 pm GMT (UK)
-
-November 16, 7 pm CEST (Central Europe)
-
-November 16, 9 pm MSK (Moscow)
-
-November 16, 11:30 pm IST (India)
-
-November 17, 2 am CST (China)
-
-November 17, 3 am JST (Japan)
-
-November 17, 5 am AEDT (Australia)
-
-November 17, 7 am NZDT (New Zealand)
-
-Pre-loads for the same will be made available to all platforms 48 hours before the aforementioned timings.
-
-Poll : 0 votes
+Despite this, Pokemon Scarlet and Violet still had the highest pre-orders in the series' history.

@@ -1,45 +1,29 @@
-Tactics Ogre: Reborn is all about Classes. Players can pick and choose what Classes they would like characters to assume as they fill out their roster. However, not all Classes are available immediately, and instead unlock over time or through unique conditions.
+Google’s biggest apps already feature the main elements of Material You but additional aspects are now making their way through, with Docs, Sheets, and Slides using the new toggle design.
 
-Below are the list of available Classes in Tactics Ogre: Reborn. Please keep in mind that some of these Classes have unique unlocks and certain NPCs have unique classes that cannot be used by generic party members. Almost all of these Classes can be obtained in the Shop after certain conditions have been met.
+The Material 3 switch is larger and even more of a pill than before as the entire container is shaped that way. According to Google:
 
-Warrior – Immediately Available in Chapter 1
+M2: Switches have circular thumb that extends beyond the edge of the track.
 
-Archer – Immediately Available in Chapter 1
+M3: Switches have a taller and wider track, new color mappings, and the ability to hold an icon in the switch thumb.
 
-Cleric – Immediately Available in Chapter 1
+Google Docs, Sheets, and Slides use the switch directly in the editor’s overflow menu for Print layout, Suggested changes, Available offline, and Star. It does not leverage the optional icon (checkmark) within the circle, which grows in size from the off to on state.
 
-Wizard/Enchantress – Immediately Available in Chapter 1
+Compared to toggle in system Settings on Android 12/13, it’s now as wide and more compact.
 
-Rune Fencer – Immediately Available in Chapter 1
+Accessibility: Visual presentation is more accessible
 
-Valkyrie – Immediately Available in Chapter 1
+Color: New color mappings meet non-text-contrast requirements in addition to compatibility with dynamic color
 
-Berserker – Available in Chapter 2
+Icons: Ability to have an optional icon within the switch thumb
 
-Beast Tamer – Available in Chapter 2
+Layout: Track is taller and wider
 
-Terror Knight – Available in Chapter 2
+Since it’s in overflow, you don’t get to appreciate the animation fully since the menu quickly disappears after a selection is made. This change is not live anywhere else in the app, like Settings.
 
-Knight – Available in Chapter 2
+The Material You toggle is rolled out with version 1.22.442.03.90 of Google Docs, Sheets, and Slides. The Google app, as part of its Material You redesign, will use the new element in settings.
 
-Sword Master – Available in Chapter 2
+More on Material You:
 
-Ninja/Kunoichi – Available in Chapter 2 (Neutral/Chaos) or Chapter 3 (Law)
+FTC: We use income earning auto affiliate links. More.
 
-Dragoon – Available in Chapter 3
-
-Rogue – Available in Chapter 4
-
-Fusilier – Available in Chapter 4
-
-Warlock/Witch – Available in Chapter 4
-
-Necromancer – Available in Chapter 4
-
-Lich – Use Ring of the Dead on Floor 41 of Palace of the Dead, will transform a Human unit into a Lich. (UNIQUE UNLOCK)
-
-Divine Knight – Use ‘Ensanguined Rood’ item on an ally Skeleton or Ghost Unit on Floor 3 of San Bronsa Ruins to convert into Divine Knight. (UNIQUE UNLOCK)
-
-This is the list of Classes that can be used by Human units in Tactics Ogre: Reborn. However, keep in mind that you can recruit Beasts, Demi-Humans, Dragons, and Golems. Each of these unit types come with their set of Classes, which are actually designated by what type of monster they fall under. For example, the Gryphon is a type of Beast sub-class.
-
-Tactics Ogre: Reborn is available on PlayStation 4, PlayStation 5, PC, and Nintendo Switch.
+Check out 9to5Google on YouTube for more news:

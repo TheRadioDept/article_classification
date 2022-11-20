@@ -1,46 +1,13 @@
-Apple is facing a class action lawsuit for allegedly harvesting iPhone user data even when the company’s own privacy settings promise not to. The suit, filed Thursday in California federal court, comes days after Gizmodo exclusively reported on research into how multiple iPhone apps send Apple analytics data, regardless of whether the iPhone Analytics privacy setting is turned on or off.
+Apple's AirPods Pro earbuds could serve as an inexpensive alternative to hearing aids, according to a study published this week in the iScience journal.
 
+Testing the AirPods, a group of researchers in Taiwan found that when the earbuds were paired with a smartphone, "no significant differences were found regarding speech perception between AirPods Pro and hearing aids in quiet."
 
+Though that wasn't the case when background noises were present, the researchers concluded that "AirPods Pro may have the potential to be a hearing assistive device for adults with mild to moderate hearing loss."
 
-The problem was spotted by two independent researchers at the software company Mysk, who found that the Apple App Store sends the company exhaustive information about nearly everything a user does in the app, despite a privacy setting, iPhone Analytics, which claims to “disable the sharing of Device Analytics altogether” when switched off. Gizmodo asked the researchers to run additional tests on other iPhone apps, including Apple Music, Apple TV, Books, and Stocks. The researchers found that the problem persists across most of Apple’s suite of built-in iPhone apps.
+The researchers tested the AirPods Pro with an iPhone XS Max, released in 2018 and powered by iOS 13 software, which came out the following year.
 
+Researchers performed the study on a small sample size of 21 people. The Veterans General Hospitals and University System of Taiwan Joint Research Program and the Ministry of Science and Technology funded the study.
 
+The latest version of Apple's AirPods Pro, released earlier this year, retail for $249. A pair of hearing aids can range in price from $1,000 to $4,000, the Hearing Industries Association told NPR.
 
-The lawsuit accuses Apple of violating the California Invasion of Privacy Act. “Privacy is one of the main issues that Apple uses to set its products apart from competitors,” the plaintiff, Elliot Libman, said in the suit, which can be read on Bloomberg Law. “But Apple’s privacy guarantees are completely illusory.” The company has plastered billboards across the country with the slogan “Privacy. That’s iPhone.”
-
-Advertisement
-
-Apple did not immediately respond to a request for comment.
-
-
-
-As seen in a video posted to the Mysk YouTube Channel, the App Store appears to harvest information about your activity in real time, including what you tap on, which apps you search for, what ads you see, how you found a given app and how long you looked at the app’s page.
-
-G/O Media may get a commission Extra 25% off S Raw Science Biotin Collagen Keratin Supplement Hair, nails, overall glow.
-
-These are biotin supplements with collagen (good for skin and hair) and keratin packed with vitamin B7 to prompt hair growth and hair strength. Buy for $21 at Amazon Use the promo code RAWBIO25 Advertisement
-
-Apple’s privacy settings make explicit promises about shut off that kind of tracking. But in the tests, turning the iPhone Analytics setting off had no evident effect on the data collection, nor did any of the iPhone’s other built-in settings meant to protect your privacy from Apple’s data collection.
-
-Mysk’s tests on the App Store found that Apple receives that data along with details that can identify you and your device, including ID numbers, what kind of phone you’re using, your screen resolution, your keyboard languages and how you’re connected to the internet—the kind of information commonly used for device fingerprinting.
-
-
-
-The App Store on your iPhone is watching your every move
-
-When the researchers looked at other iPhone apps at Gizmodo’s request, they found that many behaved similarly. While the Health and Wallet apps didn’t collect analytics data, Apple Music, Apple TV, Books, the iTunes Store, and Stocks all did. The Stocks app shared data including your list of watched stocks, the names of stocks you viewed or searched for and time stamps for when you did it, as well as a record of any news articles you saw in the app.
-
-Advertisement
-
-“The level of detail is shocking for a company like Apple,” Tommy Mysk previously told Gizmodo.
-
-This data can be sensitive, especially when you consider that merely searching for apps related to topics such as religion, LGBTQ issues, health and addiction can reveal details about a person’s life.
-
-Advertisement
-
-“Through its pervasive and unlawful data tracking and collection business, Apple knows even the most intimate and potentially embarrassing aspects of the user’s app usage—regardless of whether the user accepts Apple’s illusory offer to keep such activities private,” the lawsuit said.
-
-
-
-Apple is under increased scrutiny for its privacy practices as the company expands into digital advertising. Apple recently introduced new ads in the App Store, reportedly plans to ads to Apple TV, and seems focused on poaching small business advertisers from Meta, Facebook’s parent company. While Apple’s company literature loudly declares that “Privacy is a human right,” it remains to be seen how much the iPhone manufacturer is willing to compromise that right as it develops new data-driven business ventures.
-
+In August, the US Food and Drug Administration finalized a ruling that would make over-the-counter hearing aids accessible to Americans. The ruling would help people save about $2,800 per hearing aid pair, Brian Deese, director of the National Economic Council, told NPR.

@@ -1,61 +1,31 @@
-In April, 2021, Apple dropped a nuclear bomb on the world of online advertising. The company rolled out a new iPhone privacy setting called App Tracking Transparency, or ATT, that shows you, an iPhone user, a popup asking if you want to “Allow this app to track your activity across other companies’ apps and websites?” You have two options: “Ask app not to track” and “Allow.” The vast majority of people pick the former, which blocks apps from collecting certain data. Behind the scenes, the change caused a radical shift in the tech landscape. Meta, formerly known as Facebook, said that one setting alone cost the company an estimated $10 billion. Its stock value has plunged 70% this year. But ATT had another side effect, one that got far less attention than Meta’s troubles. Apple’s iPhone privacy setting gave TikTok a significant leg up in its fight for social media dominance.
+Published 11/19/2022, 3:39 PM +04
 
-“As Meta struggled to maintain performance, TikTok presented a buyer’s market for advertisers where demand was low and supply was high,” said John Donahue, co-founder of programmatic ad consulting firm Up & to the Right, who’s worked with major advertisers like Coca-Cola, Hershey’s, and Linksys. “Timing is everything in life, and TikTok couldn’t have timed it better.”
+God of War Ragnarok is a fantastic game to say the least, and it’s already proved that since its worldwide release last week. The PlayStation 5 juggernaut is the result of the endless hard work of each and every developer involved in this project.
 
-ATT kneecapped the Facebook ad targeting systems, motivating advertisers to look for new places to spend their money. Even though ATT hurt TikTok in the same ways, the short-form video app was in the perfect position to offer an alternative to Meta: its popularity was exploding, its newness meant ad prices were low, and it had designed novel advertising models built for the new privacy world order.
+ADVERTISEMENT Article continues below this ad
 
-Advertisement
+That’s the reason the game itself features some special mentions of the people who have worked on it throughout the last few years. Just recently, God of War Ragnarok’s character designer revealed a very emotional aspect of the game. He mentioned that the PS5 exclusive has got a side quest where Santa Monica Studio’s team has given a tribute to a late developer who passed away two years ago.
 
-The privacy setting “showcased the risk of having the majority of your eggs in a single basket,” Donahue said.
+ADVERTISEMENT Article continues below this ad
 
-TikTok just lowered its expected ad revenue for the year, but its still projected to grow 155%, up $6.01 billion from 2021, according to Insider Intelligence. Meanwhile, Insider predicts that Meta’s worldwide ad revenue will drop for the first time ever, down 2% from 2021, a $2.25 billion dip. It would be absurd to give ATT all or even most of the credit for those numbers; the recession played a big role in Meta’s losses, as did the company’s own long shot bet on virtual reality and “the metaverse.” Likewise, Tiktok’s gains have a lot to do with cultural shifts. But there’s no question that TikTok snatched up advertising dollars that might otherwise have gone to Facebook and Instagram, and Apple’s Privacy setting had a lot to do with that.
+The ‘Across the Realms’ side quest in God of War Ragnarok is a tribute
 
-G/O Media may get a commission Extra 25% off S Raw Science Biotin Collagen Keratin Supplement Hair, nails, overall glow.
+There are a ton of side quests in 2022’s sequel to its iconic first part. Technically, they are called ‘Favors’ that players can complete in order to gain extra points. Plus, they also get to know about the characters in the Norse worlds. One of the most interesting side quests, however, is ‘Across the Realms’, where Mimir tells the story of Jari and Somr’s adventures across the realms.
 
-These are biotin supplements with collagen (good for skin and hair) and keratin packed with vitamin B7 to prompt hair growth and hair strength. Buy for $21 at Amazon Use the promo code RAWBIO25 Advertisement
+DIVE DEEPER
 
-“ATT accelerated the shift to start funneling more money into TikTok,” said Jasmine Enberg, a social media analyst at Insider Intelligence. “While Facebook, Instagram, and others suffered under ATT, in some ways TikTok benefited.”
+PlayStation Juggernaut God of War Ragnarok Takes the Crown With a Massive Opening in Franchise’s History
 
-App Tracking Transparency is designed to prevent companies from tracking what you do across different apps, websites, and services. Specifically, the setting revokes access to an ID number called the Identifier For Advertisers, or IDFA, which Apple actually created to help ad tech companies track you and target you with ads. Let’s say you have a gaming app that you want to monetize. You can plug in Facebook’s advertising network, collect the IDFA, and send it to Facebook so they know which targeted ads to show you.
+Mentioning this side quest in God of War Ragnarok, the character designer of the game, Sam Handrick, recently shared a heartwarming tweet. He revealed that ‘Across the Realms’ is a tribute given to his late friend and developer, Jake Snipes. He passed away in the year 2020.
 
-Advertisement
+ADVERTISEMENT Article continues below this ad
 
-But even more importantly, the IDFA is used to measure how well ads are working. Companies like Meta monitor your activities across the web and watch as your IDFA pops up across different apps, taking note of whether your behavior changed after seeing a particular ad. That process provides an essential metric for advertisers deciding where and how to spend their money. But ATT cut off that flow of data, making it much harder to do all of that tracking and analysis. The Facebook ad network was built around easy access to that information, and the change caused an earthquake in its systems.
+Handrick wrote that similar to Jari and Somr, they both also traveled across the US to visit Amusement Parks. Moreover, while working together on the PlayStation 5 exclusive, they both wanted to leave a symbol in the game itself to commemorate their bond. Players can find this tribute in the form of a heart-shaped symbol, which was suggested by Snipes.
 
-ATT leveled the playing field. TikTok does plenty of targeted advertising, and the privacy setting hamstrung the company app in the same way it did Meta. But part of TikTok’s advantage, aside from timing, came because the app developed advertising formats that promised to engage users in compelling new ways. TikTok’s “Spark Ads,” for example, offer ad spots that let advertisers sneak in marketing that looks just like the organic content on the platform, which helped TikTok entice advertisers with a path to the “authenticity” that users crave. TikTok also presented opportunities to work with new and buzzy influencers, leveraging the trust content creators have with their audiences. At the same time, Meta and other older players in social media were fighting to play catch up with TikTok, and scrambling to retrofit their systems for ATT.
+Sam also revealed that after Snipes passed away, he asked director Eric Williams if they could feature a tribute for him. The team not only added multiple hearts in the entire game but also instilled a separate side quest featuring two men who found each other and the place where they could belong: the Eternal Campfire.
 
-Advertisement
+ADVERTISEMENT Article continues below this ad
 
-“Advertisers lost trust in Facebook because the platform was experiencing weekly, and even daily volatility as they updated their algorithms,” said Alexa Kilroy, head of brand at Triple Whale, an analytics platform that manages advertising data and campaigns for over 6,000 companies. “Meanwhile, TikTok was building the plane as they flew it.”
+Without a doubt, going through this side story after knowing about its significance will definitely make the players emotional. The newest God of War entry is now available on PS5 and PS4.
 
-When reached for comment, TikTok didn’t address whether or not ATT gave it an advantage, instead focusing on how the company is working around the challenges ATT presents. “We want to meet marketers where they currently are and also develop new solutions—with marketers—that will withstand changes to the data landscape,” said Kate Amery, a TikTok spokesperson.
-
-Advertisement
-
-Suddenly, advertising through Meta wasn’t a sure bet, and the new opportunities at TikTok were even more appealing. And while the timing was great for TikTok, it couldn’t have been worse for Meta. Facebook and Instagram have been in a tailspin for years. Young people abandoned Facebook, earning the site a reputation as a place for baby boomers. Instagram failed to innovate, and stealing features from other apps isn’t working anymore. Where Instagram successfully ripped Stories from Snapchat, its effort to copy TikTok with Reels is a major flop. Meta cluttered its apps with more ads and algorithmically tailored content, and tuned its services to drive engagement at the expense of a healthy, enjoyable user experience. These issues, combined with years of controversy, left Meta with a business problem that TikTok does’t have: Facebook and Instagram just aren’t cool anymore.
-
-ATT is part of a bitter public fight between Meta and Apple. ATT was obviously poised to have an outsized effect on Meta, whether or not that was Apple’s primary intention. After ATT was announced, Meta ran full page ads in major newspapers, castigating Apple for hurting small businesses by limiting their ability to advertise. The next day, Tim Cook shot back on Twitter:
-
-Advertisement
-
-Despite Cook’s tacit acknowledgment that ATT was aimed at Meta, Apple insists the move was all about protecting consumers. “A user’s data belongs to them, and they should get to decide whether to share their data and with whom,” said Shane Bauer, an Apple spokesperson. “We have given users the choice whether or not they want to allow apps to track them.”
-
-Apple didn’t address ATT’s effect on TikTok. Meta declined to comment.
-
-“Even before ATT hit, advertisers were starting to diversify their revenue streams and many were already experimenting with TikTok,” Enberg says. Meta’s clients were primed to jump, and Apple kicked Meta when it was down. We still don’t know how well Meta will ultimately recover from the blow, if it will at all.
-
-Advertisement
-
-But for all of Apple’s claims about how “Privacy is a human right,” the company is taking advantage of your data and of Meta’s decline, though maybe not as much as TikTok. The iPhone maker is building out a new advertising network after sidelining competitors and clearing space for itself with ATT. So far, Apple slipped new ads onto the iPhone, is working on ads for Apple TV, and seems focused on poaching Meta’s advertisers. Over the last few months, the company also updated its tools to help advertisers track user behavior and measure how well ads are working. Apple is, on the whole, more reserved about harnessing user data than its competitors, but it does track you when it has explicitly promised not to, according to research published this week. Again, the company denies that ATT is part of a digital advertising long con. Apple sent Gizmodo an academic study—which the company funded—arguing that ATT won’t help Apple’s ad business.
-
-Potential hypocrisy aside, it’s ironic that a setting meant to protect privacy helped usher in the age of TikTok, a business that raises new and troubling privacy concerns due to potential ties to the Chinese government. The geopolitical privacy questions are so intense that Donald Trump’s administration threatened to ban TikTok altogether, a threat that lingers in the remarks of the FCC’s hardliners. Ultimately, the privacy problems facing the entire tech industry are so bad that it doesn’t matter who owns TikTok, as there are plenty of other ways for the Chinese government to get American data. But concerns over TikTok’s data practices aren’t entirely overblown.
-
-Advertisement
-
-What’s clear is the limits Apple placed on targeted advertising gave TikTok an extra hand in its fight to control the social media landscape, but that benefit has likely run its course. “I think for the most part, TikTok has experienced their accelerant, and from here, it’s natural trajectory,” said Donahue of Up & to the Right.
-
-ATT gave TikTok a boost by knocking Meta off its perch, but it won’t give the company much more of an advantage going forward. During Facebook’s meteoric rise in the early 2010s, a total lack of privacy rules meant the company could print money with targeted ads. TikTok is in a very different situation. The field is crowded with competitors, and ATT makes the social media advertising business less profitable.
-
-Advertisement
-
-“As long as TikTok’s user growth continues, they’re going to continue to be a hot platform and will be able to outspend a lot of other social media platforms,” Donahue said. “But TikTok will have a battle to get to the level of dominance in the new privacy world that Meta did not have.”
+WATCH THIS STORY: The best PlayStation exclusives of all time!

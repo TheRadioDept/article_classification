@@ -1,76 +1,19 @@
-Apple is now the defendant in a Class Action lawsuit from iPhone users who claim that Apple collected their user data even though they were promised via Apple's own privacy settings that their personal information would not be collected. Gizmodo recently reported that even if you have iPhone Analytics disabled on your iPhone, Apple still receives a ton of information about you which would seem to catch the company in a huge contradiction.
+AirPods 2 performed similarly well to basic hearing aids in quiet environments.
 
+Apple's AirPods Pro earbuds can potentially act as hearing aids for adults with mild to moderate hearing loss, a new study published in the journal iScience revealed. The study was conducted by researchers from the Taipei Veterans General Hospital in Taiwan. Experts looked at 21 participants with mild to moderate hearing loss and tested a variety of hearing aids. These included premium and basic hearing aids and AirPods Pro earbuds and Airpods 2.
 
+For the study, the AirPods were paired with an iPhone with the environmental noise amplifier app dubbed 'Live Listen' running. The participants were asked to wear the devices and listen to short sentences read by researchers. After that, they had to repeat the statement verbatim.
 
+The researchers found that the AirPods 2 performed similarly well to basic hearing aids in quiet environments. In noisier environments, the AirPods Pro - which have a built-in noise cancelling feature - had comparable performance to the premium hearing aid - specifically when the noises came from the side of the participant. However, when the noises came from the front of the participants, both AirPods models failed to help participants hear better.
 
+Also Read | Russian Cosmonauts Spacewalk Outside Space Station Orbiting Above Brazil
 
-Gizmodo had earlier reported that Tommy Mysk and Talal Haj Bakry, a pair of app developers and security researchers who work for a software company called Mysk, made an amazing discovery. Some Apple apps such as the App Store, Apple Music, Apple TV, Books, and Stocks were collecting personal data from users even if iPhone Analytics was turned off. This seems to be the case with all of Apple's native iPhone apps.
+"These wireless earbuds are of course not perfect, but they would be a good starting point for many patients who don't have access to professional hearing aids. They will see an increase in quality of life even with these earbuds," said Yen-fu Cheng, the study's corresponding author, as per Science Alert.
 
-Apple collects personal data even when iPhone Analytics are disabled
+Further, Mr Cheng also highlighted that many people would be more comfortable wearing Apple's AirPods all the time as opposed to wearing hearing aids due to the social stigma around them. He even noted that people with hearing loss often require visiting health professionals for fitting and fine-tuning which gets cumbersome for many.
 
+Also Read | At 99, 'World's Oldest Primary School Pupil' Dies In Kenya
 
+Therefore, as per the Taiwanese researchers, Apple AirPods Pro could potentially present a more accessible alternative for patients.
 
-
-
-
-
-
-
-
-
-
-
-A YouTube video posted by Mysk reveals how the App Store collects your personal data in real-time including the keys you tapped on, the apps you looked at, the ads that you viewed, and even the length of time you spent looking at an App Store listing. The Plaintiff named in the lawsuit is one Elliot Libman and he accuses Apple of violating the California Invasion of Privacy Act.
-
-
-
-
-
-While Apple has promoted privacy to differentiate the iPhone from Android handsets, Libman says, "Privacy is one of the main issues that Apple uses to set its products apart from competitors. But Apple’s privacy guarantees are completely illusory."
-
-
-
-
-
-
-
-Mysk discovered that the data Apple receives from users also includes certain ID numbers, the model of phone you are using including the resolution of its display, the connection you have to the internet, and the language being used on your keyboard. The Stocks app revealed the list of stocks you are tracking, the times that you checked for a quote, and any news articles you read about the company.
-
-
-
-
-
-Tommy Mysk, one of the researchers who discovered how the Apple apps track users, pointed out that "The level of detail is shocking for a company like Apple." And considering that the info harvested by Apple can determine a user's interest in the LGBTQ community, or whether the user has issues regarding his health or addiction, it is no surprise that the lawsuit was filed.
-
-
-
-
-
-Speaking of the lawsuit, it says, "Through its pervasive and unlawful data tracking and collection business, Apple knows even the most intimate and potentially embarrassing aspects of the user's app usage—regardless of whether the user accepts Apple’s illusory offer to keep such activities private."
-
-
-
-
-
-In 2019,
-
-In 2019, Apple famously put up a huge billboard across from the Las Vegas Convention Center which was home to that year's Consumer Electronics Show (CES). Apple wasn't making a presentation at the event, nor did it buy a booth. Still, the billboard generated quite a buzz as it could be seen by everyone entering and leaving the Convention Center. The sign took a cue from a famous saying about Las Vegas and stated that "What happens on your iPhone, stays on your iPhone."
-
-Apple is reportedly looking to develop its own mobile advertising network
-
-
-
-
-
-
-
-A Class Action designation means that any iPhone user with a similar claim against the company can join the suit. Any settlement or financial award made by the court against Apple is divided among the members of the class after the lawyers take their nice large piece of the action.
-
-
-
-
-
-During the summer, signs emerged indicating that Apple is interested in developing in own mobile advertising platform . This would be a "demand-side platform" (DSP) used by advertisers who want to show their ads on the highest quality sites for the lowest possible costs. A "supply-side platform" is run by publishers who look to sell ads to advertisers on any sites at the highest possible price.
-
-
-
+"Globally, the wireless earphone market is growing rapidly. Some companies are interested in exploring the possibility of designing earbuds with sound amplification features. Our study proves that the idea is plausible," the researchers stated as per Science Alert.

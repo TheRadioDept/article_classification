@@ -1,57 +1,7 @@
-Some impressive flagships have landed on retail shelves this past year, from Apple's best-in-class iPhone 14 Pro models to the new Google Pixel 7 enhanced by Google's Tensor G2 chip. But if you want some real excitement, cast your eyes toward phones that cost hundreds of dollars less, as midrange devices made their mark in 2022.
+Players have confirmed that the PS Plus Black Friday discount allows stacking a lower tier membership and then upgrading to a higher tier with a $100 cap, thus saving more money than you would if simply upgrading to a higher tier with a 25 percent discount applied. This, of course, is only of benefit to those who are planning to stack years upon years of membership.
 
-All right, maybe "excitement" isn't the right word, exactly. After all, as good as midrange phones like the Pixel 6a, Galaxy A53 and iPhone SE are, they're not introducing new features. Rather, they're cribbing off their flagship siblings, taking some of the premium features found in those higher-priced phones and offering them for a whole lot less.
+How the PS Plus Black Friday discount stacking and upgrading works
 
-And that's what is exciting about the midrange phone segment. The current crop of phones costing $500 or less pack in more value than ever before. At this point, you could easily pay more to get a flagship device that has all the latest bells and whistles, but why would you when you can spend less than $500 and get a handset that largely delivers the same experience?
+As explained by Reddit user HitDaKlown, whose current PS Plus Essential membership lasts until 2024, they stacked up their PS Plus Essential membership for an additional six years from 2024 to 2030 by utilizing the 25 percent discount on offer. They then upgraded their Essential membership to Extra at a flat fee of $100 (the current upgrade cap), thus saving over $250 in total. Doing so is neither against Sony’s terms of service nor is it dodging the system. It’s a perfectly legitimate way to save money so have at it!
 
-As always, you make some compromises by opting for a cheaper phone. But for phones like the Pixel 6a, Galaxy A53 and iPhone SE, the sacrifices are minimal compared to what you get in return.
-
-What midrange phones got right in 2022
-
-The competition was so fierce among the best cheap phones this year because phone makers are clearly putting a lot of effort into fine-tuning the one phone feature that everyone values — a good camera. Yes, you're going to miss out on a telephoto lens if you opt for a less expensive handset, but in terms of every day photos, the very best midrange models can hold their own against more expensive phones.
-
-Take the Pixel 6a, which ranks among the best camera phones — not just best camera phones under a certain price point, but the best overall. I recently put up the $449 Google phone against the company's more recent flagship device for a Pixel 7 vs. Pixel 6a camera face-off. The Pixel 7 took the better pictures overall, but only marginally so.
-
-I preferred the warmer tone in the Pixel 7's portrait shot of my daughter, but I'm still impressed by the background blur the Pixel 6a pulled off. I would be happy to share either shot, as there's just not $150 worth of difference between what the dueling cameras produce.
-
-We're focusing on the Pixel 6a because it's the best camera phone of any sub-$500 device, but the Galaxy A53 and especially the iPhone SE take quality photos as well. (I do wish Apple would get around to adding night mode support to the iPhone SE, though.) The iPhone SE benefits from Apple's flair for computational photography, with photo processing boosting the quality of the shots you've captured, even though Apple's budget device comes with just a single lens.
-
-As impressive as the cameras are, it's not the only area where budget phones are shining. Displays on these discount phones are better than they've ever been, which is quite a change from the approach a few years ago when phone makers opted for cheaper-looking panels as a way of keeping costs down.
-
-You wouldn't say that the screens on this year's midrange phones look cheap, not even the iPhone SE's LCD panel. Yes, the bezels are too prominent for a 2022 phone and most people will balk at the small screen size, but the iPhone delivers very vibrant, accurate colors. The Pixel 6a handles colors well, too, and it's got one of the brighter displays you'll find on a midrange phone.
-
-(Image credit: Tom's Guide)
-
-But the display feature that really stands out is the refresh rate on the Galaxy A53's 6.5-inch OLED panel. The Galaxy A53's screen can deliver a 120Hz refresh rate when you turn on that feature. Yes, that's a manual setting instead of an automatic one, but it's good to have the option to jump into fast-refresh mode on a midrange phone.
-
-Fast refresh rates are treated by many phone makers as a feature that only belongs on premium models — Apple doesn't even include it on iPhones that cost $799 and $899. So I like that Samsung and OnePlus, with its low-cost Nord devices, are broadening the kind of phones capable of offering fast refresh rates.
-
-Improving performance for midrange phones
-
-Turning to a lower cost phone has traditionally meant settling for a less powerful chipset, and while that's still the case with the Galaxy A53 — it runs on an Exynos 1280 — you don't have to make that sacrifice with either the iPhone SE and Pixel 6a. Both of those phones run on the best silicon available at the time of their release — in the iPhone SE's case, that's the A15 Bionic chipset that powers the iPhone 13 while the Pixel 6a uses the same Tensor chip found in the Pixel 6.
-
-The iPhone SE's A15 Bionic chipset is significant because it means that you're getting iPhone 13 power in a device that costs almost half as a much as Apple's $799 starting price for a flagship phone. And while Apple has since moved on to the A16 Bionic for its iPhone 14 Pro models, the A15 inside the iPhone SE still outperforms a lot of Android flagships that cost a whole lot more.
-
-As for the Pixel 6a's Tensor silicon, it enables unique experiences that benefit from the chipset's powerful Tensor Processing Unit. As a result, tasks that depend on machine learning happen quickly and on the device itself whether that's translation, transcription or some combination of the two.
-
-It's the Tensor chipset that also powers features like Magic Eraser on the Pixel 6a, allowing you to easily remove unwanted objects and people from photos. Google even bolstered Magic Eraser for the Pixel 6a's release, adding the ability to change the color of objects in the foreground of shots to make them less prominent.
-
-(Image credit: Google)
-
-In other words, it's no longer a given that a lower-cost phone means a device with less performance oomph. The Pixel 6a and iPhone SE 2022 are proof of that.
-
-Where midrange phones still fall behind
-
-When we say that the midrange phones deliver a comparable experience to more expensive handsets, we shouldn't ignore the areas where they come up short. Buy a midrange phone, for example, and you'll going to get a device built out of cheaper materials. The Pixel 6a may look a lot like Google's flagship phones, but when I hold it one hand with a Pixel 6 or Pixel 7 in the other, I can tell the difference. Again, that's not enough to sway some people away from saving money with a midrange device, but it is a reality.
-
-(Image credit: Tom's Guide)
-
-There is one area where this year's midrange phones fell short, and it's one I'd like to see future models improve upon — battery life. As good as the Pixel 6a, Galaxy A53 and iPhone SE are, none performed well on our battery test, in which we have phones surf the web continuously over cellular until they run out of power, timing the results. The Galaxy A53 did the best, hitting the average result for smartphones with a time of 9 hours and 49 minutes with its screen set on a 120Hz refresh rate. Both the iPhone SE (9:05) and Pixel 6a (6:29) turned in below average results — well below average in the case of the Pixel 6a.
-
-Just a glance at our list of the best phone battery life indicates that you don't need to spend a lot of money to get a long-lasting handset. There are plenty of devices on that list that don't cost an arm and a leg. Maybe future midrange phones from Apple, Google and Samsung can make a better showing here.
-
-What the future holds
-
-And that's something to remember about midrange phones — there are likely successors waiting in the wings. Samsung and Google are almost certain to release follow-ups to the Galaxy A53 and Pixel 6a at some point in 2023. Apple could even join them if rumors of an iPhone SE 4 that changes up the aging design of the current model are to be believed.
-
-Apart from the likely Pixel 7a getting the same upgraded Tensor chip that Pixel 7 models feature, we don't yet know how those upcoming midrange models will compare to more expensive flagship devices. But if the trends of the last few years are anything to go by, you can expect some pretty compelling alternatives to spending big on your next phone.
+As we reported yesterday, those stepping down from a higher tier to a lower tier are unfortunately locked out of the PS Plus discount. If you’re dissatisfied with your Premium/Deluxe subscription then it’s probably best to wait until your membership expires before opting for a lower tier.

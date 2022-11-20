@@ -1,25 +1,23 @@
-Splatoon 3 is teaming up with Pokémon Scarlet and Violet for a new Splatfest crossover. The latest Splatfest stars the three new starter Pokémon that players can pick in Scarlet and Violet. As part of the Splatfest promotion, Nintendo is offering a service to customize your official Twitter profile. If you register your Twitter icon on the Nintendo website and connect with your Nintendo Account, an exclusive frame will appear on your profile image on Twitter as soon as the Splatfest begins.
-
-Related: Which Splatfest team is winning in Splatoon 3?
-
-When you register your Twitter account, you need to select a supporting team. In the Pokémon Splatfest for Splatoon 3, players can support one of three teams during the event — Sprigatito, Fuecoco, and Quaxly. When you select a supporting team to link with your Twitter account, your profile image will match the color of the team you are supporting. Your Twitter icon will be green if you support Sprigatito, red if you support Fuecoco, and blue if you support Quaxly.
-
-Your profile frame will change during Splatfest’s interim report, with different color ink splattering across your Twitter profile image. The changes to your Twitter profile picture depend on your team’s situation during the Splatfest. If your team is doing well, you will have less ink on your icon.
-
-Your Splatfest frame should go away at 9 AM on November 14. If you want to change your icon after registering, you will need to cancel your registration and re-register after changing your icon.
-
-[Splatoon 3]
+While we're still around 10 months away from Apple introducing the iPhone 15 lineup, rumors already suggest that the higher-end Pro models will have even more exclusive features than usual compared to the standard models next year.
 
 
 
-Nintendo is offering a service which lets you customize your Twitter profile icon to rep your Splatfest team.
+In September, analyst Ming-Chi Kuo said that strong sales of iPhone 14 Pro models would likely encourage Apple to increase differentiation between the iPhone 15 Pro and iPhone 15 Pro Max and the standard iPhone 15 and iPhone 15 Plus, although it's worth noting that many hardware changes are likely planned at least a few years in advance.
 
+There are currently at least five features rumored to be exclusive to iPhone 15 Pro models:
 
+A17 chip: iPhone 15 Pro models will be equipped with an A17 Bionic chip manufactured based on TSMC's second-generation 3nm process, providing performance and efficiency improvements, according to Japanese publication Nikkei Asia. The report claimed that 2023 could mark the second year in a row in which only the Pro models of the new iPhone lineup feature Apple's latest chip.
 
-It will also automatically change depending on who is leading at Halftime.
+iPhone 15 Pro models will be equipped with an A17 Bionic chip manufactured based on TSMC's second-generation 3nm process, providing performance and efficiency improvements, according to Japanese publication Nikkei Asia. The report claimed that 2023 could mark the second year in a row in which only the Pro models of the new iPhone lineup feature Apple's latest chip. Faster USB-C port: iPhone 15 Pro models will feature a USB-C port with support for at least USB 3.2 or Thunderbolt 3, according to analyst Ming-Chi Kuo, which would result in the devices having significantly faster data transfer speeds with a cable compared to existing iPhones with Lightning. Kuo said the USB-C port on standard iPhone 15 models will remain limited to USB 2.0 speeds like Lightning.
 
+iPhone 15 Pro models will feature a USB-C port with support for at least USB 3.2 or Thunderbolt 3, according to analyst Ming-Chi Kuo, which would result in the devices having significantly faster data transfer speeds with a cable compared to existing iPhones with Lightning. Kuo said the USB-C port on standard iPhone 15 models will remain limited to USB 2.0 speeds like Lightning. Increased RAM: iPhone 15 Pro models will be equipped with an increased 8GB of RAM, according to Taiwanese research firm TrendForce, while the standard models will likely continue to have 6GB of RAM as they do currently. Additional RAM can allow apps like Safari to keep more content active in the background, preventing the app from reloading content when reopened.
 
+iPhone 15 Pro models will be equipped with an increased 8GB of RAM, according to Taiwanese research firm TrendForce, while the standard models will likely continue to have 6GB of RAM as they do currently. Additional RAM can allow apps like Safari to keep more content active in the background, preventing the app from reloading content when reopened. Solid-state buttons: iPhone 15 Pro models will feature solid-state volume and power buttons, according to Kuo. The analyst said the devices will be equipped with two additional Taptic Engines that provide haptic feedback to simulate the feeling of pressing the buttons, without them physically moving, similar to the Home button on the latest iPhone SE or the trackpad on newer MacBooks.
 
-Check it out 👇https://t.co/UIdzw0nASJ — OatmealDome (@OatmealDome) November 10, 2022
+iPhone 15 Pro models will feature solid-state volume and power buttons, according to Kuo. The analyst said the devices will be equipped with two additional Taptic Engines that provide haptic feedback to simulate the feeling of pressing the buttons, without them physically moving, similar to the Home button on the latest iPhone SE or the trackpad on newer MacBooks. Increased optical zoom for iPhone 15 Pro Max: The iPhone 15 Pro Max will feature a periscope telephoto lens, according to Kuo. This could result in the device having at least 10x optical zoom, compared to 3x on iPhone 14 Pro models.
 
-Nintendo is aggressively promoting Splatoon x Scarlet and Violet Splatfest. Apart from the Twitter Splafest frame service, Nintendo is also offering exclusive Splatoon keychains with Sprigatito, Fuecoco, and Quaxly. Players can purchase these keychains on Nintendo’s official store, but they can only buy them if they have a My Nintendo account and can only use My Nintendo points. The keychains have since sold out.
+Due to the increased differentiation, Bloomberg's Mark Gurman said the iPhone 15 Pro Max will potentially be renamed as the iPhone 15 Ultra.
+
+Pushing customers towards the Pro models would help Apple to increase the iPhone's average selling price. The trend already began this year when only the iPhone 14 Pro models received Apple's latest A16 Bionic chip, with the standard iPhone 14 and iPhone 14 Plus models still equipped with last year's A15 Bionic chip.
+
+Apple will likely announce the iPhone 15 lineup next September as usual. With many months remaining until the devices launch, it's likely that additional features will surface, so the info we have right now is only a glimpse at what to expect.

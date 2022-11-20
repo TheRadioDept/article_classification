@@ -1,33 +1,29 @@
+Call of Duty: Warzone 2.0 was live. The adrenaline was high. Excitement was palpable. My friends and I were laser-focused on outlasting the rest of the 150-player field.
 
+Unfortunately, the match loaded with our team of four facing only 17 other players. That’s 21 out of a possible 150 players. What was going on? This wasn’t the premiere battle royale we were promised. Instead, 21 players were scattered around the giant map meant for 150 people, significantly reducing the sense of urgency and chaos that has become a trademark for Warzone.
 
+Technical issues have become part and parcel with online or live service game launches, but that doesn’t make it okay. Especially when players are asked to fork over $70 for the entire Modern Warfare 2 experience, or even the $10 Battle Pass in Warzone. Granted, you can play Warzone 2.0 for free and still have access to all the major features. Paying for the Battle Pass activates a 10% XP boost, as well as giving players access to skins and items that can only be unlocked via the pass. Most of the matches I've played have been close to full, but there are still occasions where that’s just not the case.
 
+But technical issues aside, what's it like playing Warzone 2.0?
 
-That's obviously not a bad thing, but the $449 starting price of the 10th gen iPad is also not great compared to how much its (admittedly uglier) predecessor used to cost at launch and the deeply discounted prices of the A14 Bionic-powered iPad Air (2020) these last few months
+I played a lot of the original Warzone, and Warzone 2.0 is more of the same. It's not a wholly new experience, but it's an iteration of an already fun and exciting game. When matches are full, it's a frenetic mix of chaos and strategy. Warzone is a great entry point for people who have never played Call of Duty multiplayer, or who have played it in the past and felt like they couldn't keep up. As often as I had games where nothing goes right or I died almost immediately, I also had games where everything went my way and I was jazzed to get back in another match.
 
-Apple iPad (2022) Wi-Fi Only, 64GB Storage, Blue $50 off (11%) $399 $449 Buy at B&H Photo
+But the matchmaking issues aren’t the only negatives. Call of Duty’s user interface is just bad. Bad, bad, bad. Menus are tucked inside menus with no reason to believe the menu I actually want is in there. Customizing loadouts is complicated and unintuitive. The UI is the single biggest obstacle that people new to the series will have to overcome. I won’t say that it starts to make sense with time, but I at least started remembering where I needed to click to get to what I actually wanted. Oh, and good luck trying to figure out how to even find Warzone the first time you boot up the game. Clicking Play in Steam loads players into the game’s main menu, which acts as a hub for Warzone, the single-player story mode, and traditional multiplayer. But for some reason, you have to scroll down to find the main game modes. Why?
 
+Visually, I had some trouble with the system's "recommended" graphics settings. My PC has an RTX 2080 graphics card and AMD Ryzen 7 5800X CPU and defaulted to mostly "High" settings. During one match, the lighting went bonkers and made Warzone unplayable. No matter where I was or what I was doing, whenever I looked in the direction of the sun it completely washed out my screen making it impossible to see. And no, this isn't a feature. It was so blinding and obtrusive that mid-game I lowered my graphics settings all the way down to low. This fixed the sun issue, but... well, then I was running a decently good-looking game on low settings.
 
+I'll note that the issue had gone away in the next match even after readjusting my settings, but I remember also having this problem from time to time in the original Warzone. Hopefully, it's something that makes it higher up Infinity Ward's bug list and is actually addressed this time.
 
+When the game isn’t bugging out (which to be fair, isn’t a regular occurrence) it runs as smoothly as you’d expect from Call of Duty. I was able to maintain 60 FPS, even when I pushed the graphics up to Ultra settings (which is what I’m currently using, now that the lighting issue hasn’t been a problem for a bit). I can’t say the game looks significantly better than the original Warzone, but it has a little more polish and detail this time around.
 
+The new map, Al Mazrah, has all the aspects that made the maps in the original Warzone so great. Wide open spaces, claustrophobic buildings and corridors, and secrets to discover as you explore. I found myself completely exposed while crossing vast expanses. I perched high atop buildings that provided a good angle for sniping. And it’s possible to set up ambushes in hallways to take enemies by surprise. The map forced me to think strategically about my next moves, as that sniper rifle I was using to clear enemies across the open field became useless as the map shrank and I found myself taking cover in buildings.
 
-On the decidedly bright side of things, the non-Air iPad (2022) is now on sale at a very special "holiday" price of its own, fetching $399 in an entry-level Wi-Fi-only 64GB storage configuration and a single blue color at B&H Photo Video.
+Working together with squad mates can elevate not only a team’s success rate but also the fun level. Calling out an approaching enemy and coordinating with my team to take them by surprise never gets old.
 
+The Gulag is back, only this time you’re plopped into a 2v2 battle to decide who will be respawned. The first time I went there I was partnered with a random player who was also waiting in the Gulag. We were tasked with eliminating two enemy players in order to get back into the action. Or, if the Gulag match goes on too long, an NPC called the “Jailer” will come out and try to finish the job. But if both teams work together to defeat the Jailer, all four players can be respawned.
 
+It’s still very early, but Call of Duty: Warzone 2.0 is more of the same, and that’s a good thing. There are bugs and issues that make it incredibly frustrating at times. But the matches where everything works are really, really fun. If you’re on the fence about playing, it’s free, so you’ve got nothing to lose. The Battle Pass adds some nice extras, but none of it seemed necessary to feel like I’m getting the most out of the game. The same was true in the previous Warzone. Over the course of dozens of hours, I never bought a Battle Pass and never felt like I was missing out. The same seems to be true here, as well (although for the purposes of this article, I did purchase the pass this time).
 
+If you’ve played Warzone before and didn’t like it, there’s not much new here to change your mind. The 2v2 Gulag is a fun tweak and the map is interesting, but it’s not enough to make someone fall in love with a game they didn’t already like.
 
-
-That's still not as affordable as the 2021-released 10.2-inch iPad , but this new guy manages to squeeze an extra 0.7 inches of screen real estate into essentially the same reasonably compact body while jumping from an A13 Bionic SoC to the same aforementioned chipset used by the iPad Air 4 , and perhaps most importantly, making the connectivity switch from Lightning to USB Type-C.
-
-
-
-
-
-At four Benjamins (and up) instead of... four Benjamins and a half, the iPad 10 is clearly more competitive in its battle against the likes of Samsung's Galaxy Tab S7 FE for the title of best budget tablet available this holiday season.
-
-
-
-
-
-In addition to a decidedly sharp (although non-laminated) 10.9-inch Liquid Retina IPS LCD screen, reasonably powerful processor, and versatile USB-C port, the key strengths and selling points of the "regular" iPad (2022) also include solid battery life, fast and reliable fingerprint recognition, and dual stereo speakers but alas no headphone jack this time around... and, of course, no keyboard, stylus, or 5G support included at 400 bucks.
-
-Just in case Apple 's iPad lineup was not confusing enough, the highly anticipated major redesign of the company's "standard" tablet means that this now looks an awful lot like the fourth and fifth-gen iPad Airs.
+With 150 players, a big, new map to explore, and some fun tweaks to gameplay and weaponry, I’ll definitely be sticking around. But I hope the matchmaking and UI issues are addressed quickly, or it will soon stop being fun and instead be a chore.

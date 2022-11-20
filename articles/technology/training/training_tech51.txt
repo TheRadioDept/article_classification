@@ -1,23 +1,21 @@
-What you need to know
+Apple iPhone 15 Pro is expected to bring several exclusive features to the users. Here is all Apple is expected to offer via its higher end model.
 
-Windows 11 version 22H2 causes games to stutter on some PCs.
+Apple is expected to launch four new models under the iPhone 15 series next year. The iPhone 5 lineup is likely to launch in September 2023, though still around 10 months away, rumours, reports and leaks have revealed a lot about the upcoming smartphones, especially about the high-end iPhone 15 series models. Earlier, Ming-Chi Kuo, an analyst at TF International Securities had said that Apple may increase differentiation between the iPhone 15 Pro and iPhone 15 Pro Max models from the iPhone 15 and iPhone 15 Plus, seeing the strong sales of iPhone 14 Pro models.
 
-Microsoft confirmed the issue recently through its health dashboard.
+"I believe Apple will create more differentiation between iPhone 15 Pros and iPhone 15 standard models to increase Pro shipment allocation and the new iPhone ASP (average selling price)," Kuo's tweet read. He further informed that Apple will also start creating differentiation between the iPhone 15 Pro Max and the iPhone 15 Pro in order to generate more sales and profits in a mature market.
 
-The company is working on a permanent fix and has shared a workaround for the time being.
+Amid so much of speculations, here are some of the features Apple may offer via iPhone 15 Pro models:
 
-Windows 11 version 22H2 recently rolled out to PCs. Since the update launched, several reports have come out about it causing performance issues when gaming. The cause of the issue was initially up for debate, but Microsoft has since confirmed that Windows 11 version 22H2 is behind the problems.
+Not sure which
 
-Microsoft explained what's happening through its health dashboard (opens in new tab):
+mobile to buy?
 
-"Some games and apps might experience lower than expected performance or stuttering on Windows 11, version 22H2. Affected games and apps are inadvertently enabling GPU performance debugging features not meant to be used by consumers."
+1. USB-C port: According to analyst Ming-Chi Kuo, iPhone 15 Pro models may feature a USB-C port with the help of which the data transfer speed of the phone will increase.
 
-To prevent PCs from running into issues, Microsoft has placed a compatibility hold on affected devices. The hold prevents those devices from being offered an upgrade to the latest version of Windows 11 or installing the update.
+2. Solid state button: The analyst had informed that the volume button and the power button of two high end iPhone 15 models may adopt a solid state button design similar to home button design of iPhone 7/8/SE2 and 3. He tweeted, "My latest survey indicates that the volume button and power button of two high-end iPhone 15/2H23 new iPhone models may adopt a solid-state button design (similar to the home button design of iPhone 7/8/SE2 & 3) to replace the physical/mechanical button design."
 
-"To safeguard your upgrade experience, we have applied a compatibility hold on devices affected by this issue from being offered or installing Windows 11, version 22H2. If your organization is using Update Compliance, the safeguard IDs are 41766570 and 41990091," said Microsoft.
+3. A17 chip: According to Japanese publication, the iPhone 15 Pro models are expected to be equipped with an A17 Bionic chip providing improved performance and overall experience.
 
-The company is working on a permanent fix, but has shared a workaround for the interim:
+4. 8P camera: Earlier it was being said that iPhone 15 Pro models can get 8P lens camera update. However, according to analyst Kuo, iPhone 15 Pro is expected to ditch the 8P camera lens. He tweeted, "I think the rumored iPhone 15 Pro series's adoption of an 8P lens won't likely come true."
 
-"If you are already on Windows 11, version 22H2 and are experiencing this issue, you might be able to resolve it by updating your games and gaming related apps to the latest version available. If you are unsure how to update the games and apps you have installed, you will need to consult the developer of those games and apps but most will update automatically through the store they were purchased from or directly when opening them."
-
-Until Microsoft releases a permanent fix, the company recommends against manually installing the Windows 11 version 22H2 update on systems affected by the bug.
+5. Apple is also expected to kill the Pro Max model with the launch of the iPhone 15 series. Apple is expected to create a huge gap between its Pro and Pro MAX models with iPhone 15 starting with a rebranding of the Pro Max as the iPhone 15 Ultra.

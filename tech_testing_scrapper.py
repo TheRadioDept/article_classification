@@ -37,7 +37,7 @@ os.chdir("articles/technology/testing")
 for url in newsLinks:
     if item <= 100 and switch == 0:
         try:
-            file2write = open("training_tech" + str(item) + ".txt", "w")
+            file2write = open("testing_tech" + str(item) + ".txt", "w")
             url_i = newspaper.Article(url=(url), language="en")
             url_i.download()
             url_i.parse()
