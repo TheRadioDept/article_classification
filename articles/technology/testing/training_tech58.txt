@@ -1,0 +1,19 @@
+Activision Blizzard and Riot Games at one point told Google they might launch their own mobile app stores, according to new documents filed in Epic’s antitrust lawsuit against the search giant. The details came to light as part of allegations about major deals signed with the two companies. Google allegedly agreed to pay Activision about $360 million over three years and Riot about $30 million for a one-year deal.
+
+In one document, Google exec Karen Aviram Beatty is reporting back from a conversation with Activision Blizzard’s now-CFO Armin Zerza one month before the two companies signed the huge deal. “If this deal falls through, [Zerza] claims that they will launch their own mobile distribution platform (partnering with another “major mobile company” — presume Epic), double down with Amazon / Twitch (or MSFT) for Cloud / eSports [sic], and pull away from Stadia,” Beatty wrote (emphasis mine). While Zerza may have just been doing some hardline negotiating, Activision has not yet launched its own app store on mobile, so it seems the company was happy with how the deal eventually turned out.
+
+Another document is a deposition from an unnamed witness that seems to be someone who is or was involved with “Project Hug,” Google’s program designed to incentivize and support Play Store developers. In the deposition, the witness says that Riot Games told Google it was considering launching a competing Android app store. Later, the witness says that “Riot and Activision Blizzard King were the ones that were the most direct with us” about considering starting their own app stores.
+
+Project Hug agreements first came to light in August 2021 as part of an unredacted Epic complaint. But Epic, in a newly amended complaint filed Thursday, alleges Project Hug deals are designed to “prevent the developer from opening a competing store or otherwise distributing its apps outside of the Google Play Store.”
+
+Epic originally launched Fortnite outside of Google Play in 2018, which let it bypass Google’s fees, and Epic has already argued that Project Hug was designed to entice developers to stick with Play instead of making their own stores. (Epic eventually brought Fortnite to the Play Store in 2020, but it was removed a few months later.) But based on the new documents, it seems Activision and Riot were thinking of striking out on their own.
+
+In statements to The Verge, Google and Activision pushed back on Epic’s allegations. Google said that programs like Project Hug don’t prevent developers from creating their own app stores, and Activision said that Google didn’t make them agree not to compete with Google Play.
+
+“Epic is mischaracterizing business conversations”
+
+“Epic is mischaracterizing business conversations,” Google spokesperson Michael Appel said. “Programs like Project Hug provide incentives for developers to give benefits and early access to Google Play users when they release new or updated content; it does not prevent developers from creating competing app stores, as Epic falsely alleges. In fact, the program is proof that Google Play competes fairly with numerous rivals for developers, who have a number of choices for distributing their apps and digital content.”
+
+“Activision testified in court that Google and Activision never entered into an agreement that Activision would not open its own app store,” Activision spokesperson Joe Christinat said. “Google never asked us, pressured us, or made us agree not to compete with Google Play. We submitted documents and testimony that prove this. Epic’s allegations are nonsense.”
+
+Riot didn’t reply to a request for comment.

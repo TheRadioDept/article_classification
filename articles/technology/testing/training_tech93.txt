@@ -1,0 +1,15 @@
+Samsung has released the Android 13 stable update for the Galaxy Z Fold 3 and Galaxy Z Flip 3. The two foldables follow their successors and dozens of other Galaxy devices in the company’s Android 13 party, which brings its One UI 5.0 custom software.
+
+The big Android update for the 2021 foldable duo began in India earlier today. The new firmware version for the Galaxy Z Fold 3 is F926BXXU2DVK3, while that for the Galaxy Z Flip 3 is F711BXXU3DVK3 (via). Samsung initially release the update for users in the One UI 5.0 beta program in the country but soon expanded to those on Android 12. A global rollout should follow in the coming days, including in the US.
+
+Samsung’s Android 13-based One UI 5.0 update brings a plethora of new features, improvements, and other changes to Galaxy devices. For starters, we have a visual refresh with bolder app icons, reorganized in-app menus, and improved system animations. And if you want to add to your phone’s aesthetics, there are new customization options as well. Improved gestures and homescreen widgets help enhance productivity by giving you quick access to apps.
+
+Advertisement
+
+Additionally, Samsung has improved its stock apps and services. Samsung Keyboard, Samsung Internet, Camera, Gallery, Bixby Routines, Calendar, and many other apps get improved functionality and usability. Foldable-exclusive features such as Flex Mode and taskbar (Fold series only) also pick up functional improvements. All of this while ensuring improved accessibility, privacy, and security of your hand-held mobile device.
+
+The Galaxy Z Fold 3 and Flip 3 are also getting the latest security update
+
+Both Galaxy Z Fold 3 and Galaxy Z Flip 3 are picking up the November 2022 Android security patch with this release. So along with the Android 13 and One UI 5.0 goodies, users of the foldable duo now have protection from the newest vulnerabilities as well. According to Samsung, the November SMR (Security Maintenance Release) patches more than 60 vulnerabilities in Galaxy smartphones and tablets. These include patches for Android OS flaws as well as some Galaxy-specific privacy and security issues.
+
+If you’re using either of Samsung’s 2021 foldable models, the Android 13-abased One UI 5.0 update with the latest security fixes should reach you soon. Watch out for a notification about the rollout. You can also go to Settings > Software update and tap on Download and install to check for updates manually. Since it’s a major Android OS update with the OTA (over the air) package weighing more than 2GB, we recommend downloading it over a stable Wi-Fi network.

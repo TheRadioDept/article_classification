@@ -1,0 +1,11 @@
+The NVIDIA GeForce RTX 4090 is a powerful graphics card, and also one of the most expensive ones out there. That isn’t stopping its power cables from seemingly melting left and right. Luckily, NVIDIA has finally spoken out about the issue.
+
+NVIDIA has confirmed that a few RTX 4090 users globally are having issues with melting power cables. The company said to YouTube channel Gamers Nexus that it’s aware of at least 50 cases globally, but the number could very well be higher. The reason? Rather than being a technical issue with the cable, it looks like most of these cases are related to those connectors being poorly constructed, as NVIDIA mentioned its findings say that, commonly, “connectors are not fully plugged into the graphics cards.”
+
+Play Video
+
+The company allegedly found wear damage in the connectors of the returned cards, indicating they might not have been fully plugged in. It went on to add that “To help ensure the connector is secure, we recommend plugging the power dongle into the graphics card first to ensure it’s firmly and evenly plugged in, before plugging the graphics card into the motherboard.”
+
+Even though this might be user error, it does raise questions on whether NVIDIA could improve the design of these connectors in order to minimize these situations. Fortunately, it will honor your warranty nonetheless, even if you were using a third-party power cable that might have aggravated this situation.
+
+If you have a melted card, make sure to return it for warranty as soon as you can — and make sure your cable is properly inserted the next time.

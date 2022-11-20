@@ -1,0 +1,61 @@
+Nvidia’s recent RTX 4080 hasn’t been met with the warmest reception. It’s still the second-fastest GPU you can buy, as you can read in my RTX 4080 review, but it’s too expensive. Many prospective PC builders are holding on to their cash until AMD releases its RX 7900 XTX and RX 7900 XT in December.
+
+AMD is looking to go toe-to-toe with the RTX 4080, all while offering its flagship cards for a few hundred dollars less than Nvidia is asking. We won’t know for sure if AMD can compete until the cards are here, but with the RTX 4080 now in-hand, we can start to sketch out a picture.
+
+And the situation isn’t looking pretty for Nvidia.
+
+What AMD says
+
+I need to put a vital disclaimer up ront. We don’t have the AMD RX 7900 XTX or RX 7900 XT yet, and we won’t know how the cards perform until they’re released on December 13. All we have to go on are two slides of benchmarks AMD recently shared. I don’t have any reason to believe they’re inaccurate, but at the very least, it’s best to assume AMD chose the numbers that paint its product in the best light.
+
+All of that is to say that I’m inferring here, not prophesying.
+
+With that out of the way, you can see the numbers that AMD shared for rasterized and ray tracing performance above. Using the disclaimers at the end of the slides, I tried to recreate AMD’s test configuration with the RTX 4080 instead of the two new RX 7000 GPUs. Here’s what I landed on:
+
+AMD Ryzen 9 7900X
+
+32GB Corsair Vengeance DDR5-6000
+
+1TB Corsair MP400 NVMe SSD
+
+Gigabyte Aorus Master X670E motherboard
+
+Windows 11 22H2
+
+Corsair H150i all-in-one liquid cooler
+
+There are a lot of question marks that AMD didn’t clarify in its testing, like if Resizable BAR was turned on and what game versions it was using. In place of that, I followed all of the procedures I normally do for GPU reviews. I kept Resizeable BAR turned on and stuck with the latest updates across drivers, games, and Windows.
+
+I benchmarked the RTX 4080 in the titles AMD shared with this test bench. Critically, I only tested the games that have a built-in benchmark to make my results as comparable as possible. I have no clue what areas AMD tested in Dying Light 2 and Resident Evil Village, so I omitted them.
+
+Although the RTX 4080 only takes a back seat to the RTX 4090 in performance right now, that could change very soon. Based on the results I gathered, AMD’s cards could outright beat the RTX 4080 at a lower price.
+
+The results
+
+AMD labels its charts with “max settings,” so I used the highest preset available in each of the games I tested. AMD’s new cards could cause an upset based on my results, with the RX 7900 XTX showing a consistent lead and the RX 7900 XT being very close behind.
+
+In Watch Dogs: Legion, the RTX 4080 was just a hair faster than than the RX 7900 XT, but AMD’s data shows the RX 7900 XTX nearly 14% ahead. Smart Access Memory (SAM) could play a small role in boosting the RX 7900 XTX up here, though the differences are slim to none at 4K.
+
+Similarly, AMD’s numbers show the RX 7900 XTX around 18% faster than the RTX 4080 in Cyberpunk 2077, with Nvidia’s card squeezing out a single-frame lead over the RX 7900 XT.
+
+Call of Duty Modern Warfare 2 is where both the RX 7900 XTX and RX 7900 XT show a large lead (upwards of 38%!). Although impressive, Modern Warfare 2 massively favors AMD’s recent GPUs, so this game is probably an exception.
+
+Things change in the ray tracing department. AMD was significantly behind Nvidia with ray tracing in the previous generation. The RX 7900 XT and RX 7900 XTX promise improvements, but it seems Nvidia will maintain its dominating position.
+
+My RTX 4080 results are 66% ahead of the RX 7900 XT and 43% ahead of the RX 7900 XTX numbers AMD shared in Cyberpunk 2077. I tested with upscaling turned off because higher base performance will inevitably lead to higher upscaled performance. With Nvidia’s Deep Learning Super Sampling (DLSS), the RTX 4080 reached over 80 frames per second (fps), outpacing AMD’s numbers with FidelityFX Super Resolution (FSR) by around 40%.
+
+For Hitman 3 with ray tracing, AMD didn’t clarify if it ran the Dartmoor or Dubai benchmark, so I ran both. Nvidia is ahead in both cases, but the question is still up in the air if the RTX 4080 is edging out a marginal victory or a commanding lead.
+
+Should you wait for the RX 7900 XTX?
+
+Nvidia has a pricing problem right now, not a performance problem. The RTX 4080 is still one of the best graphics cards you can buy, and if it were replacing the $700 RTX 3080 at anywhere near the same price, it would wipe the floor with the RX 7900 XTX and RX 7900 XT. But at $1,200, that’s not the case.
+
+We still need to wait to test the RX 7900 XTX and RX 7900 XT, but unless AMD’s numbers are off by 15% or more, it’s hard to see the RTX 4080 claiming a performance victory. Assuming AMD’s numbers are accurate, we could see performance parity between the RTX 4080 and RX 7900 XT, and even a performance lead for the RX 7900 XTX while costing $200 less.
+
+Rasterized performance isn’t all that matters. It seems Nvidia will still claim the crown in ray tracing, and features like DLSS 3 are ahead of what AMD is currently offering (even if DLSS 3 isn’t perfect). With a $200 gap and a performance deficit for the RTX 4080, though, AMD’s RX 7900 XTX could prompt some longtime Nvidia users to switch over to AMD.
+
+All eyes are on December 13 for now. We’ll have a clear view of performance then, but even with this cursory look, AMD’s next-gen GPUs look mighty impressive.
+
+This article is part of ReSpec – an ongoing biweekly column that includes discussions, advice, and in-depth reporting on the tech behind PC gaming.
+
+Editors' Recommendations

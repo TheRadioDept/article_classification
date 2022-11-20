@@ -1,0 +1,9 @@
+SwiftKey is a popular third-party keyboard for Android, iPhone, and iPad, acquired by Microsoft in 2016. The company said in September that the iPhone and iPad versions were going away, but Microsoft has now reversed course.
+
+Back in September, Microsoft confirmed in a statement to ZDNet that SwiftKey for iPad and iPhone would be pulled from the App Store on October 5. There was no explanation given for the discontinuation, but it has not received any updates for over a year, while the Android version had received many updates in the same period.
+
+Microsoft has now seemingly reversed course, as Pedram Rezaei, Microsoft Maps & Local Services Division CTO, stated on Twitter that that SwiftKey “is coming back to iOS.” Vishnu Nath, a Microsoft VP, also shared the news and said, “stay tuned to what the team has in store for it!” The app is still available in the App Store, but no updates have arrived yet — it still reports version 2.9.2 from August 2021 as the most recent release.
+
+There’s still not an obvious reason why the app was marked for removal from the App Store, and Rezaei only said the reversal was due to “popular demand” and Microsoft is “investing heavily in the keyboard.” We’ve reached out to Microsoft to ask for more details, and we will update this article when (or if) we get a response.
+
+Apple added support for third-party keyboards in iOS 8 back in 2014, but there are more restrictions compared to third-party keyboards on Android. Apple’s keyboard is still forced when entering passwords or other sensitive data, so even if you have SwiftKey or another app set as your keyboard, it won’t appear all the time.

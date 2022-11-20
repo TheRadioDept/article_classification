@@ -1,0 +1,23 @@
+While we're still around 10 months away from Apple introducing the iPhone 15 lineup, rumors already suggest that the higher-end Pro models will have even more exclusive features than usual compared to the standard models next year.
+
+
+
+In September, analyst Ming-Chi Kuo said that strong sales of iPhone 14 Pro models would likely encourage Apple to increase differentiation between the iPhone 15 Pro and iPhone 15 Pro Max and the standard iPhone 15 and iPhone 15 Plus, although it's worth noting that many hardware changes are likely planned at least a few years in advance.
+
+There are currently at least five features rumored to be exclusive to iPhone 15 Pro models:
+
+A17 chip: iPhone 15 Pro models will be equipped with an A17 Bionic chip manufactured based on TSMC's second-generation 3nm process, providing performance and efficiency improvements, according to Japanese publication Nikkei Asia. The report claimed that 2023 could mark the second year in a row in which only the Pro models of the new iPhone lineup feature Apple's latest chip.
+
+iPhone 15 Pro models will be equipped with an A17 Bionic chip manufactured based on TSMC's second-generation 3nm process, providing performance and efficiency improvements, according to Japanese publication Nikkei Asia. The report claimed that 2023 could mark the second year in a row in which only the Pro models of the new iPhone lineup feature Apple's latest chip. Faster USB-C port: iPhone 15 Pro models will feature a USB-C port with support for at least USB 3.2 or Thunderbolt 3, according to analyst Ming-Chi Kuo, which would result in the devices having significantly faster data transfer speeds with a cable compared to existing iPhones with Lightning. Kuo said the USB-C port on standard iPhone 15 models will remain limited to USB 2.0 speeds like Lightning.
+
+iPhone 15 Pro models will feature a USB-C port with support for at least USB 3.2 or Thunderbolt 3, according to analyst Ming-Chi Kuo, which would result in the devices having significantly faster data transfer speeds with a cable compared to existing iPhones with Lightning. Kuo said the USB-C port on standard iPhone 15 models will remain limited to USB 2.0 speeds like Lightning. Increased RAM: iPhone 15 Pro models will be equipped with an increased 8GB of RAM, according to Taiwanese research firm TrendForce, while the standard models will likely continue to have 6GB of RAM as they do currently. Additional RAM can allow apps like Safari to keep more content active in the background, preventing the app from reloading content when reopened.
+
+iPhone 15 Pro models will be equipped with an increased 8GB of RAM, according to Taiwanese research firm TrendForce, while the standard models will likely continue to have 6GB of RAM as they do currently. Additional RAM can allow apps like Safari to keep more content active in the background, preventing the app from reloading content when reopened. Solid-state buttons: iPhone 15 Pro models will feature solid-state volume and power buttons, according to Kuo. The analyst said the devices will be equipped with two additional Taptic Engines that provide haptic feedback to simulate the feeling of pressing the buttons, without them physically moving, similar to the Home button on the latest iPhone SE or the trackpad on newer MacBooks.
+
+iPhone 15 Pro models will feature solid-state volume and power buttons, according to Kuo. The analyst said the devices will be equipped with two additional Taptic Engines that provide haptic feedback to simulate the feeling of pressing the buttons, without them physically moving, similar to the Home button on the latest iPhone SE or the trackpad on newer MacBooks. Increased optical zoom for iPhone 15 Pro Max: The iPhone 15 Pro Max will feature a periscope telephoto lens, according to Kuo. This could result in the device having at least 10x optical zoom, compared to 3x on iPhone 14 Pro models.
+
+Due to the increased differentiation, Bloomberg's Mark Gurman said the iPhone 15 Pro Max will potentially be renamed as the iPhone 15 Ultra.
+
+Pushing customers towards the Pro models would help Apple to increase the iPhone's average selling price. The trend already began this year when only the iPhone 14 Pro models received Apple's latest A16 Bionic chip, with the standard iPhone 14 and iPhone 14 Plus models still equipped with last year's A15 Bionic chip.
+
+Apple will likely announce the iPhone 15 lineup next September as usual. With many months remaining until the devices launch, it's likely that additional features will surface, so the info we have right now is only a glimpse at what to expect.

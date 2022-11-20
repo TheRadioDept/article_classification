@@ -1,0 +1,23 @@
+What you need to know
+
+Google seems to be working on the Material You redesign for its Search app.
+
+The latest change introduces pill-shaped indicators to the bottom bar, though the Dynamic Color theme is apparently missing for now.
+
+The Google app settings page is also getting the same treatment.
+
+Google may be quietly developing a Material You redesign for its main app on Android, complete with changes to the bottom bar and settings menu. However, the update appears to be a few steps away from completion at the moment, as key design elements appear to be missing.
+
+According to a post on the Google News Telegram channel (opens in new tab), the Google app's bottom navigation bar is getting a fresh design, including a pill to indicate the current page you're on. That said, 9to5Google (opens in new tab) notes that the height of the bottom bar is similar to the previous design.
+
+There are a few key design elements missing at the moment, though. For example, the interface doesn't have the Dynamic Color theming yet. This means that the colors in the Google app do not currently match the wallpaper on your device. The accent color of the pill is blue, as seen in the images below.
+
+Image 1 of 2 (Image credit: Google News channel / Telegram) (Image credit: Google News channel / Telegram)
+
+However, these omissions are expected to be addressed before a final version of the redesign rolls out to the public. The Dynamic Color theming will most likely make its way into the app as part of the update and the bottom bar height will presumably see some changes in the final release.
+
+One of the standout features of Material You is Dynamic Color, which matches the colors within an app to those of your Android phone's wallpaper. This was recently spotted on Chrome Canary for new tabs on Android.
+
+Elsewhere, Material You is likely to spread to the app's settings page as well. There's a large header, and beneath it is a pill-shaped search bar. Each menu item is also more generously spaced out than before, with a brief description of each Settings item. The redesign, however, does not appear to apply to the Assistant settings page.
+
+According to the Telegram channel, this change should be rolled out as a server-side update. That said, it's unclear when this will be available to everyone.

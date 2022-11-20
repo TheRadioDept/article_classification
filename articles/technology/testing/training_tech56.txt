@@ -1,0 +1,17 @@
+Overwatch 2 has not been without its issues at launch, but one of the game's biggest controversies didn't even have anything to do with skins, roles, or anything like that. It involved phones, and more specifically, the need to register a phone number with Blizzard to continue playing Overwatch 2. It was a point of contention when the security requirement was first announced, and just over a month after the game's launch, Blizzard has once again softened its stance on the phone requirements.
+
+The controversy, for those unfamiliar with the situation, involved an SMS Protect system that made it so that players would have a harder time returning to the game if they'd been banned since a phone number was required to set up an account. Not a bad idea in practice and not too dissimilar from some methods of implementing two-factor authentication, but the main issue with this system was that it didn't allow those phone numbers to be tied to prepaid phones. This essentially meant that anyone who used prepaid phones couldn't play Overwatch 2.
+
+People didn't like that one bit, so Blizzard offered a compromise by saying that if you'd had a Battle.net account since June 9, 2021, you didn't need to have a phone number tied to your account. It wasn't a perfect solution, but it did make it so that people who had prepaid phones and were playing Overwatch before could continue playing the sequel.
+
+Now, Blizzard has made even further changes by allowing people to create new Battle.net accounts and play Overwatch 2 even if they have a prepaid phone.
+
+Starting today, SMS Protect will now accept pre-paid phones globally. This update will finish rolling out by tomorrow.
+
+
+
+With even more players joining #Overwatch2, we remain committed in our work toward protecting your gameplay experience https://t.co/ihaF7N0Yci — Overwatch (@PlayOverwatch) November 17, 2022
+
+"Beginning today, we are expanding global SMS Protect access to pre-paid phones," Blizzard said. "We are excited to welcome more players to Overwatch 2 while continuing our commitment to combating disruptive behavior and protecting the integrity of the player experience. This update may take several hours to roll out completely, and we can't wait to see you in-game!"
+
+Blizzard has been broad in its framing of SMS Protect's purposes by saying it adds an "additional layer of security" and is an "industry-proven solution in combating both cheating and disruptive behavior." Aside from cheaters and other problematic individuals, it reasons that this feature could also cut down on smurf accounts, too.

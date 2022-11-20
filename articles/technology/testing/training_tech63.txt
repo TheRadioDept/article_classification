@@ -1,0 +1,19 @@
+has rolled out new Material You toggle design to its Docs, Sheets and Slides.
+
+It is designed like a pill, therefore the Material 3 (M3) switch is larger than the previous one, reports 9To5Google.
+
+New colour mappings, a taller and broader track and the capacity to hold an icon in the switch thumb are all features of M3 toggles.
+
+In Docs, Sheets and Slides users can use the toggle directly in the editor's overflow menu for Print layout, Suggested changes, Available offline and Star, the report said.
+
+Meanwhile, earlier this week, the company had brought out the Material You-style colour-based themes to its Chrome Canary, an experimental version of the tech giant's browser.
+
+The 'Customise Chrome Colour Extraction' feature automatically picks a colour scheme for the browser, based on the wallpaper shown when the user opens a new tab.
+
+According to Google's software, the new feature "enables setting theme colour based on background image colour when the background image is changed in New Tab Page".
+
+--IANS
+
+aj/ksk/
+
+(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)

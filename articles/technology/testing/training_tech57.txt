@@ -1,0 +1,13 @@
+Google paid Activision Blizzard approximately $360 million to prevent the troubled publisher from competing directly against the Play Store. The deal was one among at least 24 agreements the search giant signed as part of its Project Hug initiative, according to court documents seen by Reuters.
+
+The financial details of Project Hug – later known as the Apps and Games Velocity Program – are at the center of the ongoing antitrust lawsuit between Epic Games and Google. In 2021, the studio alleged Google had spent millions of dollars in incentives to keep big app developers on the Play Store. This week, a newly unredacted version of Epic’s complaint was made public, providing previously unknown details about the scope of the Apps and Games Velocity Program.
+
+According to the court documents, Google also signed deals with Nintendo, Ubisoft and Riot Games. In the case of Riot, Google paid about $30 million to “stop” the League of Legends studio from pushing forward with its own “in-house ‘app store’ efforts,” Epic alleges. Riot Games did not immediately respond to Engadget’s request for comment.
+
+Turn on browser notifications to receive breaking news alerts from Engadget You can disable notifications at any time in your settings menu. Not now Turned on Turn on
+
+The lawsuit alleges Google knew signing with Activision would prompt the publisher to “abandon its plans to launch a competing app store," a claim Activision disputes. “Google never asked us, pressured us, or made us agree not to compete with Google Play,” an Activision spokesperson told Reuters. “Epic’s allegations are nonsense.”
+
+Google accused Epic of "mischaracterizing" the intent of the Apps and Games Velocity Program. "Programs like Project Hug provide incentives for developers to give benefits and early access to Google Play users when they release new or updated content; it does not prevent developers from creating competing app stores, as Epic falsely alleges," a Google spokesperson told Engadget. "In fact, the program is proof that Google Play competes fairly with numerous rivals for developers, who have a number of choices for distributing their apps and digital content.”
+
+Update 1:03PM ET: Added comment from Google.

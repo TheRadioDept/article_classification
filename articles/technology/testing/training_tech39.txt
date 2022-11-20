@@ -1,0 +1,19 @@
+Weeks after Nvidia announced that it was investigating reports that the power cables for its RTX 4090 graphics card were melting and burning, the company says it may know why: they just weren’t plugged in all the way.
+
+In a post to its customer support forum on Friday, Nvidia says that it’s still investigating the reports, but that its findings “suggest” an insecure connector has been a common issue. It also says that it’s gotten around 50 reports of the issue.
+
+Nvidia’s flagship card uses what’s known as a 12VHPWR power connector, a new standard that isn’t natively supported by most of the power supplies that people already have in their PCs. Because of that, it ships an adapter — or “power dongle,” as Friday’s post calls it — in the box. Users’ initial reports blamed the adapter, with some saying that the melting cable had damaged their $1,599 GPU as well.
+
+It could be easy to read the company’s findings as shoving blame onto the users. Sure, Nvidia doesn’t come right out and say that it’s user error, but it’s heavily implied in the post. It also seems like a very convenient explanation, since people have been speculating for almost a month that the issue is caused by something more complex, like bad soldering or wires too small to reliably handle the massive amounts of power pumped through.
+
+That’s a significant amount of connector that would be out of the socket. Image: GamersNexus
+
+However, GamersNexus, an outlet that’s respected in the PC-building community for its rigorous testing, basically came to the same conclusion earlier this week. A video posted on Wednesday by the outlet, which inspected damaged adapters sent in by viewers and done extensive testing and reporting on the issue, showed that the connectors had wear lines, implying that they hadn’t been completely inserted into the slot. GamersNexus even says that some people seem to have missed a full connection by several millimeters. Its video shows that a loose connection could cause the plug to heat up dramatically, if it were plugged in poorly and tilted at an angle.
+
+Nvidia’s post includes a picture of what the connector looks like when it’s not fully plugged in, and it seems much easier to miss than something that’s out by a full 2mm and being held at an angle (potentially because of the cables being pulled back too tightly during installation). It’d be even easier to miss with a third-party RTX 4090 card instead of the Nvidia version shown in the images below.
+
+If you’ve got one of these cards in your computer, you should probably double-check yours looks like the bottom one.
+
+Nvidia says you should make sure the cable is fully plugged in before booting your computer. Image: Nvidia
+
+It’s worth noting though, that Nvidia may not be completely blameless here. Another thing that jumps out about the picture it posted is that the connector has a locking key. In theory, that’s a feature that would prevent this sort of thing from happening, as long as it gives good feedback when you plug it in. According to GamersNexus, however, the adapters don’t really audibly click into place, even when fully inserted.

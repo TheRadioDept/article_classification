@@ -1,0 +1,15 @@
+Google, an American technology giant, has added new Material You toggle design to its services such as Slides, Docs and Sheets.
+
+The new design looks like a pill, hence the Material 3 (M3) switch is larger than the previous one, reported 9To5Google.
+
+These new M3 toggles get revamped colours, a taller and broader track along with capacity to hold an icon in the switch thumb. Interestingly, users can use the toggle directly in the editor’s overflow menu for print layout, suggested changes, available offline and star in the Google Docs, Sheets and Slides, as per a report.
+
+To recall, the technology giant had also brought out the Material You-style colour-based themes earlier this week to its Chrome Canary, which is the experimental version of the Google browser.
+
+Meanwhile, Google has added some new features to Google Maps. The American technology giant showcased the live view feature during its Search On event earlier this year. The latest updates in Maps come with the ability to search the surroundings with a smartphone’s camera.
+
+The “Search with live view" lets users find information about spots around them and find places which are not in the immediate vicinity, using the camera of users’ smartphone. It also states the users in what direction and how distant the place is where they want to proceed. Additionally, it gives key information like how busy a restaurant is, rating of the food joints, and timetables of the eateries.
+
+The search with live view feature will soon be launched in Paris, New York, Los Angeles, Tokyo, San Francisco on Android and iOS devices. Google has also brought ‘Find charging station for an EV feature’. With the latest update, now users will be able to find charging stations that can charge their electric vehicles faster. Previously, Google Maps used to spot charging stations near you and provide real-time data on charging stations. The technology company has added filters to search electric vehicles charging stations and select the fast charge filter with chargers of capability of 50kWh or higher.
+
+Interestingly, this feature will allow users to add another filter based on their electric vehicle’s plug type. This will filter-out stations which are nearby and compatible with their vehicle. Both these features live on Android and iOS devices in some countries where electronic vehicles are used commonly.

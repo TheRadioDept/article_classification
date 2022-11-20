@@ -1,0 +1,19 @@
+Something to look forward to: In his interview with PC World, Chief Architect of Gaming Solutions at AMD Frank Azor made it "crystal clear" which class the Radeon 7900 XTX was designed to compete in. According to AMD, the flagship is designed to trade blows with Nvidia's RTX 4080, not the more expensive 4090. However, an endnote in AMD's November 3rd presentation refers to a 4090 comparison slide that appears to have been removed.
+
+AMD's recent RDNA 3 announcement was met with a healthy mixture of both excitement and skepticism by fans and critics. While many lauded AMD for their innovations and achievements using the new chiplet-based architecture, others were quick to point out that Team Red had no direct competition for Nvidia's hot new GeForce RTX 4090.
+
+AMD's Frank Azor was one of the first to clarify the company's position and offerings in his post-presentation interview with PCWorld. During the interview with The Full Nerd's Gordon Mah Ung, Azor stated that the $999 7900 XTX is an RTX 4080 competitor and is not intended to compete with the almost 60% costlier Nvidia flagship.
+
+On Friday, Computerbase.de updated a previous article discussing AMD's attempts to establish the 7900 series GPUs as AMD's direct RTX 4080 competitors. The update highlighted an oversight in AMD's November 3rd presentation that clearly references AMD's testing against a "similarly configured system" equipped with an RTX 4090.
+
+Radeon RX 7900 XT(X): AMD legt sich die RTX 4080 als ersten RDNA-3-Gegner zurecht (Update 1) https://t.co/3UWuA0wF6j #AMD #Radeon — ComputerBase *️ (@ComputerBase) November 18, 2022
+
+According to AMD's endnotes & attributions slide, endnote RX-841 references a slide and information that were not present in the final presentation. The note about the omitted slide appears to show that AMD may have, at one point, attempted to compare the 7900 XTX's performance to that of the RTX 4090. It would also appear that the test results did not yield the narrative AMD wanted to tell, prompting them to remove the slide and test references altogether.
+
+Despite the marketing mix-up, AMD has continued to prepare for RDNA 3's launch while taking advantage of any opportunity to congratulate Nvidia for their recent achievements and media coverage.
+
+It's no secret that companies strategically pick marketing data to paint their products in the best possible picture. It is, however, an excellent reminder that we consumers need to be diligent in conducting our own research.
+
+AMD, Nvidia, and any other company competing for your money will tell you what they want you to know about their products. It's our responsibility as consumers to dig deeper and make sure we have all of the information we need to know to make an informed decision.
+
+AMD's Radeon RX 7900 series graphics cards are scheduled to launch on December 13th at AMD.com and participating board partners. Look forward to our full reviews.

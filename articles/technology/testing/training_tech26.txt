@@ -1,0 +1,3 @@
+Microsoft’s SwiftKey keyboard has unexpectedly returned to the App Store . The company officially discontinued support for the keyboard and removed it from the App Store in October , but now it’s available for iOS users once again.
+
+Despite the return, SwiftKey’s latest update is still from August 11th, 2021. It’s unclear if or when it will be updated — users had complained about issues ahead of the discontinuation — but it seems like there will be some changes to look forward to. Vishnu Nath, Microsoft’s VP and GM of OneNote and the Office product group, encouraged fans to “stay tuned to what the team has in store.” Pedram Rezaei, Microsoft’s CTO of its maps and local services division, said that the company will be “investing heavily in the keyboard.”

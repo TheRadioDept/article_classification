@@ -1,0 +1,19 @@
+Warzone 2.0 players have discovered a bug that's reportedly locking them out of the free-to-play game unless they own Modern Warfare 2.
+
+Whilst the issue was posted on the game's subreddit community earlier this week and seems to have been resolved for some, others are still adding to - and upvoting - the post, suggesting that it's yet to be resolved. At the time of writing, there's been no formal word from Infinity Ward or Raven Software, either.
+
+Watch on YouTube Eurogamer Newscast: Should you peek at Pokémon Scarlet and Violet leaks?
+
+"Since yesterday, I played probably around six Warzone 2.0 matches with no problem," commented u/Unf0cused (thanks, NME).
+
+"Now when I try to play it, when I click 'Battle Royale Solos' I get the 'Purchase Modern Warfare II to have access to everything' window (I've also tried the other BR variants with the same result). I've restarted the game and my PC, but that didn't help. Anyone else getting this now and/or knows of a fix?"
+
+It's thought the game's shared launcher may be the culprit, but without formal confirmation from the developers, this is only speculation at this point. It's also a touch confusing that the issues seem to be predominately affecting players who already have several matches under their belt.
+
+Interestingly, it's not just affecting players who don't yet own Modern Warfare 2; according to some posters, "owners are having the same issue", too.
+
+We've reached out to Infinity Ward and Raven Software for more and will update you just as soon as we hear back.
+
+Call of Duty Warzone 2.0's launch has been a resounding success based on player statistics alone. But it hasn't been all rosy, as Ishraq summarised for us earlier this week.
+
+Players have been experiencing a range of issues, from crashing clients to not being able to download the game at all, and Activision Blizzard's Battle.Net client disabled downloads yesterday evening across America and Europe. Earlier today, Warzone players took to Reddit to complain that the battle royale currently prohibits players from rejoining matches when they get disconnected, which is particularly frustrating for DMZ players.

@@ -1,0 +1,25 @@
+PowerColor has once again teased its next-gen Radeon RX 7900 XTX Red Devil graphics card which features a quad-slot design and triple-fan cooler.
+
+PowerColor Radeon RX 7900 XTX Red Devil Graphics Card Teased Again: Quad-Slot & Triple-Fan Cooler With Triple 8-Pin Connectors
+
+Earlier this week, PowerColor teased its Radeon RX 7900 Red Devil graphics card. The design will be featured on both the XTX and XT models. The latest image revealed by PowerColor reveals the first full look at the graphics card which looks very powerful and just as big as NVIDIA's GeForce RTX 40 series custom designs.
+
+Starting with the details, the PowerColor Radeon RX 7900 Red Devil series graphics card comes with a quad-slot design (either 3.5 or 3.8-slot) and rocks a brand new shroud design that includes triple-fans, each fan with 9 fan blades and an aluminum shroud cover that features an aggressive aesthetic with bright red RGB accents. The card will be housing a custom PCB design that will be powered by a triple 8-pin connector interface.
+
+The previous teaser image of the card didn't reveal a lot but we may be possibly looking at the backplate of the next-generation Radeon RX 7900 Devil series graphics card. The backplate is made up of solid metal & features a prism design that has a large "Red Devil" logo engraved on the front of the shroud. It looks like a really premium graphics card and should be very expensive too like all the previous Red Devil offerings from PowerColor.
+
+PowerColor has also teased its standard Hellhound series Radeon RX 7900 graphics cards too which feature a triple-fan design but a more standard dual 8-pin connector layout.
+
+One thing to note is that while AMD has touted NVIDIA for using a huge cooler on their reference Founders Edition graphics card, almost all the non-reference Radeon RX 7900 series models that have been shown so far such as the ASUS TUF Gaming and the aforementioned Red Devil series, feature at least a triple or quad-slot design. For comparison:
+
+AMD Reference Model = 2.5 Slots
+
+2.5 Slots ASUS TUF Gaming = 3.63 Slots
+
+3.63 Slots PowerColor Red Devil = >3-Slots
+
+>3-Slots PowerColor Hellhound = ~3-Slots
+
+AMD also mentions that they use two 8-pin connectors on their cards. ASUS on the other hand uses triple 8-pin connectors and the same is the case with the Red Devil variant.
+
+There are no other details provided yet but we expect more information on the graphics card in the coming month as the AMD RX 7900 XTX & XT launch on the 13th of December.

@@ -33,7 +33,7 @@ list_of_urls = [
     "https://news.google.com/articles/CAIiEPaUDkK-R-GHnhnfCM9h-mEqFggEKg4IACoGCAow5tYTMODEAjDyugQ?uo=CAUihgFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25mbC9uZXdzL25mbC13ZWVrLTktb2Rkcy1waWNrcy1zY2hlZHVsZS1ob3ctdG8td2F0Y2gtc3RyZWFtaW5nLWV4cGVydC1waWNrcy1zdXJ2aXZvci1waWNrcy10ZWFzZXJzLWFuZC1tb3JlL9IBAA&hl=en-US&gl=US&ceid=US%3Ae",
 ]
 
-os.chdir("articles/technology/training")
+os.chdir("articles/technology/testing")
 for url in newsLinks:
     if item <= 100 and switch == 0:
         try:
@@ -51,6 +51,5 @@ for url in newsLinks:
                 switch = 1
         except:
             pass
-
     elif item >= 100:
         break

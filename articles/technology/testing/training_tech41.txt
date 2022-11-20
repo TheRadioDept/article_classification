@@ -1,0 +1,19 @@
+Nvidia has released a fix for problems with its new RTX 4090 and RTX 4080 graphics cards experiencing a black (or blank) screen on bootup in some unfortunate cases.
+
+This isn’t quite as bad as it first sounds, as the operating system will still load okay and produce the desktop on your display as normal, eventually – you just get the blank screen on boot. However, that means you can’t access the BIOS for example, or see anything at all on the screen, until you reach the OS environment. And not being able to get in the BIOS could be a big problem in itself.
+
+As Tom’s Hardware (opens in new tab) reports, though, Nvidia has released a GPU firmware update for the RTX 4090 and RTX 4080 to cure these blank screen blues.
+
+Note that the problem will only happen with certain motherboards which are in UEFI mode.
+
+Nvidia says: “The Nvidia GPU Firmware Update Tool will detect whether the firmware update is needed, and if needed, will give the user the option to update it.”
+
+For those experiencing a blank screen on boot with their new Lovelace GPU, you can grab the relevant update here (opens in new tab), where Nvidia also provides instructions on how to get going with the update.
+
+Analysis: Another Lovelace GPU glitch for Nvidia – but the solution has arrived quickly this time
+
+By all accounts, this problem is a rare one, so that’s some good news. Still, if you’re affected, it’ll obviously be frustrating not to be able to reach the BIOS (though at least your PC will still boot fine to the desktop).
+
+As Nvidia notes, don’t apply the update unless you’re actually experiencing the blank screen – there’s no need to risk a firmware update if you don’t have a tangible problem to resolve, of course.
+
+Note that this gremlin in the works has nothing to do with the other well-publicized issue that has hit the RTX 4090 graphics card, namely the melting cable controversy. (We’ve just heard an update from Nvidia on that problem, by the way, and it seems the culprit, as thought, is the power adapter not being plugged in correctly.)

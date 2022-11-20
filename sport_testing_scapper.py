@@ -32,11 +32,11 @@ list_of_urls = ['https://news.google.com/articles/CAIiEOxZgN3Og2P3MbBc5R-44EwqGQ
                 'https://news.google.com/articles/CCAiC0ZBMVhYM3RmUTJFmAEB?hl=en-US&gl=US&ceid=US%3Ae',
                 'https://news.google.com/articles/CAIiEPaUDkK-R-GHnhnfCM9h-mEqFggEKg4IACoGCAow5tYTMODEAjDyugQ?uo=CAUihgFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25mbC9uZXdzL25mbC13ZWVrLTktb2Rkcy1waWNrcy1zY2hlZHVsZS1ob3ctdG8td2F0Y2gtc3RyZWFtaW5nLWV4cGVydC1waWNrcy1zdXJ2aXZvci1waWNrcy10ZWFzZXJzLWFuZC1tb3JlL9IBAA&hl=en-US&gl=US&ceid=US%3Ae']
 
-os.chdir("articles/sport/training")
+os.chdir("articles/sport/testing")
 for url in newsLinks:
     if item <= 100 and switch == 0:
         try:
-            file2write = open("training_sport" + str(item) + ".txt", 'w')
+            file2write = open("testing_sport" + str(item) + ".txt", 'w')
             url_i = newspaper.Article(url=(url), language='en')
             url_i.download()
             url_i.parse()
@@ -51,6 +51,5 @@ for url in newsLinks:
                 switch = 1
         except:
             pass
-
     elif item >= 100:
         break
